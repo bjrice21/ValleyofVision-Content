@@ -1,0 +1,220 @@
+{
+  "id": 5,
+  "name": "A Rosary for My Family",
+  "description": "Prayers for my family, in the everyday language of my heart.",
+  "type": "DETAILED",
+  "introSection": {
+    "cross": {
+      "title": "Call to Prayer",
+      "content": "God, gather us in. Quiet our hearts. Be with us now as we are with you.",
+      "displayHint": "EMPHASIZED"
+    },
+    "firstLargeBead": {
+      "title": "Opening Prayer",
+      "content": "Father, you know us through and through. You see the hopes we carry, the worries that weigh us down, and the love that holds us together. We lift up our family to you – each one of us, just as we are. May this time of prayer be a real conversation, a space to be honest and known."
+    },
+    "threeSmallBeads": [
+      {
+        "content": "For a home filled with your peace."
+      },
+      {
+        "content": "For a love that mirrors your own."
+      },
+      {
+        "content": "For strength for the journey, together."
+      }
+    ],
+    "secondLargeBead": {
+      "title": "Blessing",
+      "content": "Thank you, God, for the gift of these people. For the laughter that echoes in our rooms and the shoulders we lean on. For the messy, beautiful, everyday grace of family."
+    }
+  },
+  "decades": [
+    {
+      "number": 1,
+      "theme": "For Our Home",
+      "largeBead": {
+        "title": "Meditation",
+        "content": "May this house be more than just walls and a roof. May it be a place of welcome, a haven of rest, a testament to your goodness. Let your Spirit dwell here, Lord."
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Let grace and peace be the air we breathe in this home."
+        }
+      }
+    },
+    {
+      "number": 2,
+      "theme": "For My Children",
+      "largeBead": {
+        "title": "Meditation",
+        "content": "These children, God, are a gift straight from your hand. It's a wild and holy calling to raise them. Give me the wisdom and the grit for the task. Help me to love them well, to guide them gently, and to let them fly."
+      },
+      "smallBeads": {
+        "type": "INDIVIDUAL_PRAYERS",
+        "prayers": [
+          {
+            "content": "May they grow in wisdom and in wonder."
+          },
+          {
+            "content": "Protect them from harm, seen and unseen."
+          },
+          {
+            "content": "May they always know they belong."
+          },
+          {
+            "content": "Give them friends who are kind and true."
+          },
+          {
+            "content": "Let them discover the unique way you've gifted them."
+          },
+          {
+            "content": "Heal their hurts, the small and the deep."
+          },
+          {
+            "content": "May they have courage to be who they are."
+          },
+          {
+            "content": "Let our home be a place of grace for them."
+          },
+          {
+            "content": "May they learn to love you with their whole heart."
+          },
+          {
+            "content": "Thank you for the privilege of being their parent."
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "theme": "For My Parents",
+      "largeBead": {
+        "title": "Meditation",
+        "content": "God, I thank you for my parents. For the life they gave me, for the lessons they taught – both the easy and the hard. Bless them in this season of their lives. Be their comfort and their strength."
+      },
+      "smallBeads": {
+        "type": "INDIVIDUAL_PRAYERS",
+        "prayers": [
+          {
+            "content": "Thank you for their sacrifices."
+          },
+          {
+            "content": "Grant them health and peace."
+          },
+          {
+            "content": "Ease their worries and their fears."
+          },
+          {
+            "content": "May they feel your loving presence near."
+          },
+          {
+            "content": "Let them know the depth of my gratitude."
+          },
+          {
+            "content": "Surround them with a caring community."
+          },
+          {
+            "content": "Give them joy in their memories."
+          },
+          {
+            "content": "May they finish their race with strength and grace."
+          },
+          {
+            "content": "Help me to honor them in all I do."
+          },
+          {
+            "content": "Bless them, Lord, and keep them."
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "theme": "For My Siblings",
+      "largeBead": {
+        "title": "Meditation",
+        "content": "There's a bond with a sibling, Lord, that's unlike any other. A shared history, a common language. Thank you for them. Watch over them on their own paths and keep our hearts connected."
+      },
+      "smallBeads": {
+        "type": "INDIVIDUAL_PRAYERS",
+        "prayers": [
+          {
+            "content": "Bless their work and their homes."
+          },
+          {
+            "content": "Guide them in their decisions."
+          },
+          {
+            "content": "Comfort them in their struggles."
+          },
+          {
+            "content": "May they be surrounded by your love."
+          },
+          {
+            "content": "Thank you for the ways they've shaped me."
+          },
+          {
+            "content": "Heal any fractures in our relationship."
+          },
+          {
+            "content": "Give them joy and laughter."
+          },
+          {
+            "content": "Protect their families."
+          },
+          {
+            "content": "May we always be there for each other."
+          },
+          {
+            "content": "Keep them close to you, Lord."
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "theme": "For Extended Family and Spiritual Family",
+      "largeBead": {
+        "title": "Meditation",
+        "content": "You've built our family, God, not just by blood but by spirit. For the aunts, uncles, cousins, and the friends who have become family, we are so grateful. They are the village that surrounds us. Bless these bonus people, these fellow travelers."
+      },
+      "smallBeads": {
+        "type": "INDIVIDUAL_PRAYERS",
+        "prayers": [
+          {
+            "content": "For my relatives, near and far, your blessing and peace."
+          },
+          {
+            "content": "For the friends who are like family, thank you."
+          },
+          {
+            "content": "For my church family, may we grow together in you."
+          },
+          {
+            "content": "For those who have mentored me in faith, I am grateful."
+          },
+          {
+            "content": "For those I am mentoring, give me your wisdom."
+          },
+          {
+            "content": "For those who feel like they don't have a family, be their comfort."
+          },
+          {
+            "content": "For our neighbors, may we be a blessing to them."
+          },
+          {
+            "content": "For those who have gone before us in faith, thank you for their example."
+          },
+          {
+            "content": "For the global family of believers, unite our hearts."
+          },
+          {
+            "content": "May we all be known by our love for one another."
+          }
+        ]
+      }
+    }
+  ]
+}
