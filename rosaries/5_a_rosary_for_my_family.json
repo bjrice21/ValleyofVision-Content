@@ -2,6 +2,7 @@
   "id": 5,
   "name": "A Rosary for My Family",
   "description": "Prayers for my family, in the everyday language of my heart.",
+  "section": "Intercessory",
   "type": "DETAILED",
   "introSection": {
     "cross": {
@@ -11,7 +12,7 @@
     },
     "firstLargeBead": {
       "title": "Opening Prayer",
-      "content": "Father, you know us through and through. You see the hopes we carry, the worries that weigh us down, and the love that holds us together. We lift up our family to you – each one of us, just as we are. May this time of prayer be a real conversation, a space to be honest and known."
+      "content": "Father, you know us through and through. You see the hopes we carry, the worries that weigh us down, and the love that holds us together. We lift up our family to you \u2013 each one of us, just as we are. May this time of prayer be a real conversation, a space to be honest and known."
     },
     "threeSmallBeads": [
       {
@@ -92,7 +93,7 @@
       "theme": "For My Parents",
       "largeBead": {
         "title": "Meditation",
-        "content": "God, I thank you for my parents. For the life they gave me, for the lessons they taught – both the easy and the hard. Bless them in this season of their lives. Be their comfort and their strength."
+        "content": "God, I thank you for my parents. For the life they gave me, for the lessons they taught \u2013 both the easy and the hard. Bless them in this season of their lives. Be their comfort and their strength."
       },
       "smallBeads": {
         "type": "INDIVIDUAL_PRAYERS",

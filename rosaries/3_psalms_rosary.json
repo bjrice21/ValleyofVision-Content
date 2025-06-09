@@ -2,6 +2,7 @@
   "id": 3,
   "name": "Psalms Rosary",
   "description": "A rosary journey through beloved Psalms of praise and petition",
+  "section": "Scriptural",
   "type": "SIMPLE",
   "introSection": {
     "cross": {

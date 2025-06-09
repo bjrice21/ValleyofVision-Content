@@ -2,6 +2,7 @@
   "id": 1,
   "name": "Jesus Prayer Rosary",
   "description": "A contemplative rosary focusing on the Jesus Prayer",
+  "section": "Traditional",
   "type": "SIMPLE",
   "introSection": {
     "cross": {
