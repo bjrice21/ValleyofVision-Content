@@ -1,5 +1,5 @@
 {
-  "id": "rosary-1",
+  "id": 1,
   "category": {
     "id": "rosary-prayers",
     "name": "Rosary Prayers",
@@ -123,5 +123,9 @@
   },
   "metadata": {
     "originalId": 1
-  }
+  },
+  "name": "Jesus Prayer Rosary",
+  "type": "SIMPLE",
+  "introSection": "{\"cross\": {\"title\": \"At the Cross\", \"content\": \"In the name of the Father, and of the Son, and of the Holy Spirit. Amen.\", \"displayHint\": \"EMPHASIZED\"}, \"firstLargeBead\": {\"title\": \"Opening Prayer\", \"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}, \"threeSmallBeads\": [{\"content\": \"Lord, increase my faith\"}, {\"content\": \"Lord, increase my hope\"}, {\"content\": \"Lord, increase my love\"}], \"secondLargeBead\": {\"title\": \"Glory Be\", \"content\": \"Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.\"}}",
+  "decades": "[{\"number\": 1, \"theme\": \"The Incarnation\", \"largeBead\": {\"title\": \"Mystery\", \"content\": \"We contemplate the Word becoming flesh and dwelling among us, full of grace and truth.\", \"scriptureReference\": \"John 1:14\"}, \"smallBeads\": {\"type\": \"SINGLE_REFRAIN\", \"refrain\": {\"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}}}, {\"number\": 2, \"theme\": \"The Baptism of Christ\", \"largeBead\": {\"title\": \"Mystery\", \"content\": \"We remember Christ's baptism, when the heavens opened and the Father declared: This is my beloved Son.\", \"scriptureReference\": \"Matthew 3:16-17\"}, \"smallBeads\": {\"type\": \"SINGLE_REFRAIN\", \"refrain\": {\"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}}}, {\"number\": 3, \"theme\": \"The Transfiguration\", \"largeBead\": {\"title\": \"Mystery\", \"content\": \"We behold Christ transfigured in glory, revealing His divine nature to Peter, James, and John.\", \"scriptureReference\": \"Matthew 17:1-8\"}, \"smallBeads\": {\"type\": \"SINGLE_REFRAIN\", \"refrain\": {\"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}}}, {\"number\": 4, \"theme\": \"The Crucifixion\", \"largeBead\": {\"title\": \"Mystery\", \"content\": \"We stand at the foot of the cross, where Christ gave His life for the salvation of the world.\", \"scriptureReference\": \"John 19:28-30\"}, \"smallBeads\": {\"type\": \"SINGLE_REFRAIN\", \"refrain\": {\"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}}}, {\"number\": 5, \"theme\": \"The Resurrection\", \"largeBead\": {\"title\": \"Mystery\", \"content\": \"We rejoice in Christ's victory over death, as He rose from the grave on the third day.\", \"scriptureReference\": \"Luke 24:1-12\"}, \"smallBeads\": {\"type\": \"SINGLE_REFRAIN\", \"refrain\": {\"content\": \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\"}}}]"
 }
