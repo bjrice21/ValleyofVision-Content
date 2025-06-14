@@ -1,112 +1,129 @@
 {
-  "id": 4,
-  "name": "Freedom from Overeating Rosary",
+  "id": "rosary-4",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "Freedom from Overeating Rosary",
+  "subtitle": null,
   "description": "A rosary for seeking strength and self-control when tempted to overeat.",
   "section": "Healing",
-  "type": "SIMPLE",
-  "introSection": {
-    "cross": {
-      "title": "A Temple of the Spirit",
-      "content": "Do you not know that your body is a temple of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your body.",
-      "scriptureReference": "1 Corinthians 6:19-20",
-      "displayHint": "EMPHASIZED"
-    },
-    "firstLargeBead": {
-      "title": "Opening Petition",
-      "content": "Lord, grant me the grace to hunger and thirst for righteousness more than for food."
-    },
-    "threeSmallBeads": [
-      {
-        "content": "Lord, grant me self-control."
+  "sortOrder": 4,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
+      "cross": {
+        "title": "A Temple of the Spirit",
+        "content": "Do you not know that your body is a temple of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your body.",
+        "scriptureReference": "1 Corinthians 6:19-20",
+        "displayHint": "EMPHASIZED"
       },
-      {
-        "content": "Lord, nourish my soul."
+      "firstLargeBead": {
+        "title": "Opening Petition",
+        "content": "Lord, grant me the grace to hunger and thirst for righteousness more than for food."
       },
-      {
-        "content": "Lord, break the power of appetite."
+      "threeSmallBeads": [
+        {
+          "content": "Lord, grant me self-control."
+        },
+        {
+          "content": "Lord, nourish my soul."
+        },
+        {
+          "content": "Lord, break the power of appetite."
+        }
+      ],
+      "secondLargeBead": {
+        "title": "Declaration of Truth",
+        "content": "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit.",
+        "scriptureReference": "Romans 14:17"
       }
-    ],
-    "secondLargeBead": {
-      "title": "Declaration of Truth",
-      "content": "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit.",
-      "scriptureReference": "Romans 14:17"
-    }
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "Recognizing the Temptation",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry.",
+          "scriptureReference": "Luke 4:1-2"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+          }
+        }
+      },
+      {
+        "number": 2,
+        "theme": "Seeking True Satisfaction",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.'",
+          "scriptureReference": "John 6:35"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+          }
+        }
+      },
+      {
+        "number": 3,
+        "theme": "The Fruit of Self-Control",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
+          "scriptureReference": "Galatians 5:22-23"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "God's Power in Weakness",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.",
+          "scriptureReference": "2 Corinthians 12:9"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "Walking in Freedom",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "So I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh.",
+          "scriptureReference": "Galatians 5:16-17"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
+          }
+        }
+      }
+    ]
   },
-  "decades": [
-    {
-      "number": 1,
-      "theme": "Recognizing the Temptation",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry.",
-        "scriptureReference": "Luke 4:1-2"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
-        }
-      }
-    },
-    {
-      "number": 2,
-      "theme": "Seeking True Satisfaction",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.'",
-        "scriptureReference": "John 6:35"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
-        }
-      }
-    },
-    {
-      "number": 3,
-      "theme": "The Fruit of Self-Control",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
-        "scriptureReference": "Galatians 5:22-23"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
-        }
-      }
-    },
-    {
-      "number": 4,
-      "theme": "God's Power in Weakness",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.",
-        "scriptureReference": "2 Corinthians 12:9"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
-        }
-      }
-    },
-    {
-      "number": 5,
-      "theme": "Walking in Freedom",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "So I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh.",
-        "scriptureReference": "Galatians 5:16-17"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Man shall not live by bread alone, but by every word that comes from the mouth of God."
-        }
-      }
-    }
-  ]
+  "metadata": {
+    "originalId": 4
+  }
 }

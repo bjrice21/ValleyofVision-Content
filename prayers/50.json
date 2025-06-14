@@ -1,6 +1,25 @@
 {
-  "id": 50,
+  "id": "prayer-50",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A CONVERT'S FIRST PRAYER",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "I could never have sought my happiness in thy love,\nunless thou had'st first loved me.\nThy Spirit has encouraged me by grace to seek thee,\nhas made known to me thy reconciliation in Jesus,\nhas taught me to believe it,\nhas helped me to take thee for my God and portion.\nMay he grant me to grow in the knowledge and experience of thy love,\nand walk in it all the way to glory.\nBlessed for ever be thy fatherly affection,\nwhich chose me to be one of thy children\nby faith in Jesus:\nI thank thee for giving me the desire to live as such.\nIn Jesus, my brother, I have my new birth,\nevery restraining power,\nevery renewing grace.\nIt is by thy Spirit I call thee Father,\nbelieve in thee, love thee;\nStrengthen me inwardly for every purpose of my Christian life;\nLet the Spirit continually reveal to me my interest in Christ,\nand open to me the riches of thy love in him;\nMay he abide in me that I may know my union with Jesus,\nand enter into constant fellowship with him;\nBy the Spirit may I daily live to thee,\nrejoice in thy love,\nfind it the same to me as to thy Son,\nand become rooted and grounded in it as a house on rock;\nI know but little--\nincrease my knowledge of thy love in Jesus,\nkeep me pressing forward for clearer discoveries of it,\nso that I may find its eternal fullness;\nMagnify thy love to me according to its greatness,\nand not according to my deserts or prayers,\nand whatever increase thou givest, let it draw out greater love\nto thee."
+  "sortOrder": 50,
+  "content": {
+    "type": "TextContent",
+    "text": "I could never have sought my happiness in thy love,\nunless thou had'st first loved me.\nThy Spirit has encouraged me by grace to seek thee,\nhas made known to me thy reconciliation in Jesus,\nhas taught me to believe it,\nhas helped me to take thee for my God and portion.\nMay he grant me to grow in the knowledge and experience of thy love,\nand walk in it all the way to glory.\nBlessed for ever be thy fatherly affection,\nwhich chose me to be one of thy children\nby faith in Jesus:\nI thank thee for giving me the desire to live as such.\nIn Jesus, my brother, I have my new birth,\nevery restraining power,\nevery renewing grace.\nIt is by thy Spirit I call thee Father,\nbelieve in thee, love thee;\nStrengthen me inwardly for every purpose of my Christian life;\nLet the Spirit continually reveal to me my interest in Christ,\nand open to me the riches of thy love in him;\nMay he abide in me that I may know my union with Jesus,\nand enter into constant fellowship with him;\nBy the Spirit may I daily live to thee,\nrejoice in thy love,\nfind it the same to me as to thy Son,\nand become rooted and grounded in it as a house on rock;\nI know but little--\nincrease my knowledge of thy love in Jesus,\nkeep me pressing forward for clearer discoveries of it,\nso that I may find its eternal fullness;\nMagnify thy love to me according to its greatness,\nand not according to my deserts or prayers,\nand whatever increase thou givest, let it draw out greater love\nto thee.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 50
+  }
 }

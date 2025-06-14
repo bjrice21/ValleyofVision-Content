@@ -1,6 +1,25 @@
 {
-  "id": 64,
+  "id": "prayer-64",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "YET I SIN",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "Thou art good beyond all thought,\nBut I am vile, wretched, miserable, blind;\nMy lips are ready to confess, but my heart is slow to feel,\nand my ways reluctant to amend.\nI bring my soul to thee;\nbreak it, wound it, bend it, mould it.\nUnmask to me sin's deformity,\nthat I may hate it, abhor it, flee from it.\nMy faculties have been a weapon of revolt against thee;\nas a rebel I have misused my strength,\nand served the foul adversary of thy kingdom.\nGive me grace to bewail my insensate folly,\nGrant me to know that the way of transgressors is hard,\nthat evil paths are wretched paths,\nthat to depart from thee is to lose all good.\nI have seen the purity and beauty of thy perfect law,\nthe happiness of those in whose heart it reigns,\nthe calm dignity of the walk to which it calls,\nyet I daily violate and contemn its precepts.\nThy loving Spirit strives within me,\nbrings me Scripture warnings,\nspeaks in startling providences,\nallures by secret whispers,\nyet I choose devices and desires to my own hurt,\nimpiously resent, grieve,\nand provoke him to abandon me.\nAll these sins I mourn, lament, and for them cry pardon.\nWork in me more profound and abiding repentance;\nGive me the fullness of a godly grief that trembles and fears,\nyet ever trusts and loves,\nwhich is ever powerful, and ever confident;\nGrant that through the tears of repentance I may see more clearly\nthe brightness and glories of the saving cross."
+  "sortOrder": 64,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou art good beyond all thought,\nBut I am vile, wretched, miserable, blind;\nMy lips are ready to confess, but my heart is slow to feel,\nand my ways reluctant to amend.\nI bring my soul to thee;\nbreak it, wound it, bend it, mould it.\nUnmask to me sin's deformity,\nthat I may hate it, abhor it, flee from it.\nMy faculties have been a weapon of revolt against thee;\nas a rebel I have misused my strength,\nand served the foul adversary of thy kingdom.\nGive me grace to bewail my insensate folly,\nGrant me to know that the way of transgressors is hard,\nthat evil paths are wretched paths,\nthat to depart from thee is to lose all good.\nI have seen the purity and beauty of thy perfect law,\nthe happiness of those in whose heart it reigns,\nthe calm dignity of the walk to which it calls,\nyet I daily violate and contemn its precepts.\nThy loving Spirit strives within me,\nbrings me Scripture warnings,\nspeaks in startling providences,\nallures by secret whispers,\nyet I choose devices and desires to my own hurt,\nimpiously resent, grieve,\nand provoke him to abandon me.\nAll these sins I mourn, lament, and for them cry pardon.\nWork in me more profound and abiding repentance;\nGive me the fullness of a godly grief that trembles and fears,\nyet ever trusts and loves,\nwhich is ever powerful, and ever confident;\nGrant that through the tears of repentance I may see more clearly\nthe brightness and glories of the saving cross.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 64
+  }
 }

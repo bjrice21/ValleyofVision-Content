@@ -1,6 +1,25 @@
 {
-  "id": 183,
+  "id": "prayer-183",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "HEAVEN DESIRED",
+  "subtitle": null,
+  "description": null,
   "section": "Valediction",
-  "content": "May I arrive where means of grace cease\nand I need no more to fast, pray, weep, watch,\nbe tempted, attend preaching and sacrament;\nwhere nothing defiles,\nwhere is no grief, sorrow, sin, death, separation, tears,\npale face, languid body, aching joints, feeble infancy,\ndecrepit age, peccant humours, pining sickness,\ngriping fears, consuming cares;\nwhere is personal completeness;\nwhere the more perfect the sight the more beautiful the object,\nthe more perfect the appetite the sweeter the food,\nthe more musical the ear the more pleasant the melody,\nthe more complete the soul the more happy its joys,\nwhere is full knowledge of thee.\nHere I am an ant, and as I view a nest of ants\nso dost thou view me and my fellow-creatures;\nBut as an ant knows not me, my nature, my thoughts,\nso here I cannot know thee clearly,\nBut there I shall be near thee,\ndwell with thy family,\nstand in thy presence chamber,\nbe an heir of thy kingdom,\nas the spouse of Christ,\nas a member of his body,\none with him who is one with thee,\nand exercise all my powers of body and soul\nin the enjoyment of thee.\nAs praise in the mouth of thy saints is comely,\nso teach me to exercise this divine gift,\nwhen I pray, read, hear, see, do,\nin the presence of people and of my enemies,\nas I hope to praise thee eternally hereafter."
+  "sortOrder": 183,
+  "content": {
+    "type": "TextContent",
+    "text": "May I arrive where means of grace cease\nand I need no more to fast, pray, weep, watch,\nbe tempted, attend preaching and sacrament;\nwhere nothing defiles,\nwhere is no grief, sorrow, sin, death, separation, tears,\npale face, languid body, aching joints, feeble infancy,\ndecrepit age, peccant humours, pining sickness,\ngriping fears, consuming cares;\nwhere is personal completeness;\nwhere the more perfect the sight the more beautiful the object,\nthe more perfect the appetite the sweeter the food,\nthe more musical the ear the more pleasant the melody,\nthe more complete the soul the more happy its joys,\nwhere is full knowledge of thee.\nHere I am an ant, and as I view a nest of ants\nso dost thou view me and my fellow-creatures;\nBut as an ant knows not me, my nature, my thoughts,\nso here I cannot know thee clearly,\nBut there I shall be near thee,\ndwell with thy family,\nstand in thy presence chamber,\nbe an heir of thy kingdom,\nas the spouse of Christ,\nas a member of his body,\none with him who is one with thee,\nand exercise all my powers of body and soul\nin the enjoyment of thee.\nAs praise in the mouth of thy saints is comely,\nso teach me to exercise this divine gift,\nwhen I pray, read, hear, see, do,\nin the presence of people and of my enemies,\nas I hope to praise thee eternally hereafter.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 183
+  }
 }

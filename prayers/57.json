@@ -1,6 +1,25 @@
 {
-  "id": 57,
+  "id": "prayer-57",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A CHRISTIAN'S PRAYER",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "BLESSED GOD,\nTen thousand snares are mine without and within,\ndefend thou me;\nWhen sloth and indolence seize me,\ngive me views of heaven;\nWhen sinners entice me,\ngive me disrelish of their ways;\nWhen sensual pleasures tempt me,\npurify and refute me;\nWhen I desire worldly possessions,\nhelp me to be rich toward thee;\nWhen the vanities of the world ensnare me,\nlet me not plunge into new guilt and ruin.\nMay I remember the dignity of my spiritual release,\nnever be too busy to attend to my soul,\nnever be so engrossed with time\nthat I neglect the things of eternity;\nthus may I not only live, but grow towards thee.\nForm my mind to right notions of religion,\nthat I may not judge of grace by wrong conceptions,\nnor measure my spiritual advances\nby the efforts of my natural being.\nMay I seek after an increase of divine love to thee,\nafter unreserved resignation to thy will,\nafter extensive benevolence to my fellow\ncreatures,\nafter patience and fortitude of soul,\nafter a heavenly disposition\nafter a concern that I may please thee in public\nand private.\nDraw on my soul the lineaments of Christ,\nin every trace and feature of which thou wilt take\ndelight, for I am thy workmanship,\ncreated in Christ Jesus,\nthy letter written with the Holy Spirit's pen,\nthy tilled soil ready for the sowing, then harvest."
+  "sortOrder": 57,
+  "content": {
+    "type": "TextContent",
+    "text": "BLESSED GOD,\nTen thousand snares are mine without and within,\ndefend thou me;\nWhen sloth and indolence seize me,\ngive me views of heaven;\nWhen sinners entice me,\ngive me disrelish of their ways;\nWhen sensual pleasures tempt me,\npurify and refute me;\nWhen I desire worldly possessions,\nhelp me to be rich toward thee;\nWhen the vanities of the world ensnare me,\nlet me not plunge into new guilt and ruin.\nMay I remember the dignity of my spiritual release,\nnever be too busy to attend to my soul,\nnever be so engrossed with time\nthat I neglect the things of eternity;\nthus may I not only live, but grow towards thee.\nForm my mind to right notions of religion,\nthat I may not judge of grace by wrong conceptions,\nnor measure my spiritual advances\nby the efforts of my natural being.\nMay I seek after an increase of divine love to thee,\nafter unreserved resignation to thy will,\nafter extensive benevolence to my fellow\ncreatures,\nafter patience and fortitude of soul,\nafter a heavenly disposition\nafter a concern that I may please thee in public\nand private.\nDraw on my soul the lineaments of Christ,\nin every trace and feature of which thou wilt take\ndelight, for I am thy workmanship,\ncreated in Christ Jesus,\nthy letter written with the Holy Spirit's pen,\nthy tilled soil ready for the sowing, then harvest.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 57
+  }
 }

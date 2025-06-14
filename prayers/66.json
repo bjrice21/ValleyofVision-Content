@@ -1,6 +1,25 @@
 {
-  "id": 66,
+  "id": "prayer-66",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "PARADOXES",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "O CHANGELESS GOD,\nUnder the conviction of thy Spirit I learn that\nthe more I do, the worse I am,\nthe more I know, the less I know,\nthe more holiness I have, the more sinful I am,\nthe more I love, the more there is to love.\nO wretched man that I am!\nO Lord,\nI have a wild heart, and cannot stand before thee;\nI am like a bird before a man.\nHow little I love thy truth and ways!\nI neglect prayer,\nby thinking I have prayed enough and earnestly,\nby knowing thou hast saved my soul.\nOf all hypocrites, grant that I may not be an evangelical hypocrite,\nwho sins more safely because grace abounds,\nwho tells his lusts that Christ's blood cleanseth them,\nwho reasons that God cannot cast him into hell, for he is saved,\nwho loves evangelical preaching, churches, Christians, but lives\nunholily.\nMy mind is a bucket without a bottom,\nwith no spiritual understanding,\nno desire for the Lord's Day,\never learning but never reaching the truth,\nalways at the gospel-well but never holding water.\nMy conscience is without conviction or contrition,\nwith nothing to repent of.\nMy will is without power of decision or resolution.\nMy heart is without affection, and full of leaks.\nMy memory has no retention,\nso I forget easily the lessons learned,\nand thy truths seep away.\nGive me a broken heart that yet carries home the water of grace."
+  "sortOrder": 66,
+  "content": {
+    "type": "TextContent",
+    "text": "O CHANGELESS GOD,\nUnder the conviction of thy Spirit I learn that\nthe more I do, the worse I am,\nthe more I know, the less I know,\nthe more holiness I have, the more sinful I am,\nthe more I love, the more there is to love.\nO wretched man that I am!\nO Lord,\nI have a wild heart, and cannot stand before thee;\nI am like a bird before a man.\nHow little I love thy truth and ways!\nI neglect prayer,\nby thinking I have prayed enough and earnestly,\nby knowing thou hast saved my soul.\nOf all hypocrites, grant that I may not be an evangelical hypocrite,\nwho sins more safely because grace abounds,\nwho tells his lusts that Christ's blood cleanseth them,\nwho reasons that God cannot cast him into hell, for he is saved,\nwho loves evangelical preaching, churches, Christians, but lives\nunholily.\nMy mind is a bucket without a bottom,\nwith no spiritual understanding,\nno desire for the Lord's Day,\never learning but never reaching the truth,\nalways at the gospel-well but never holding water.\nMy conscience is without conviction or contrition,\nwith nothing to repent of.\nMy will is without power of decision or resolution.\nMy heart is without affection, and full of leaks.\nMy memory has no retention,\nso I forget easily the lessons learned,\nand thy truths seep away.\nGive me a broken heart that yet carries home the water of grace.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 66
+  }
 }

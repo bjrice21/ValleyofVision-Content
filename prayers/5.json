@@ -1,6 +1,25 @@
 {
-  "id": 5,
+  "id": "prayer-5",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE GREAT GOD",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "o fountain of all good,\nDestroy in me every lofty thought,\nBreak pride to pieces and scatter it to the winds,\nAnnihilate each clinging shred of self-righteousness,\nImplant in me true lowliness of spirit,\nAbase me to self-loathing and self-abhorrence,\nOpen in me a fount of penitential tears,\nBreak me, then bind me up;\nThus will my heart be a prepared dwelling for my God;\nThen can the Father take up his abode in me,\nThen can the blessed Jesus come with healing in his touch,\nThen can the Holy Spirit descend in sanctifying grace;\nO Holy Trinity, three Persons and one God,\ninhabit me, a temple consecrated to thy glory.\nWhen thou art present, evil cannot abide;\nIn thy fellowship is fullness of joy,\nBeneath thy smile is peace of conscience,\nBy thy side no fears disturb,\nno apprehensions banish rest of mind,\nWith thee my heart shall bloom with fragrance;\nMake me meet, through repentance, for thine indwelling.\nNothing exceeds thy power,\nNothing is too great for thee to do,\nNothing too good for thee to give.\nInfinite is thy might, boundless thy love,\nlimitless thy grace, glorious thy saving name.\nLet angels sing for sinners repenting, prodigals restored,\nbacksliders reclaimed, Satan's captives released,\nblind eyes opened, broken hearts bound up,\nthe despondent cheered, the self-righteous stripped,\nthe formalist driven from a refuge of lies,\nthe ignorant enlightened, and saints built up in their holy faith.\nI ask great things of a great God."
+  "sortOrder": 5,
+  "content": {
+    "type": "TextContent",
+    "text": "o fountain of all good,\nDestroy in me every lofty thought,\nBreak pride to pieces and scatter it to the winds,\nAnnihilate each clinging shred of self-righteousness,\nImplant in me true lowliness of spirit,\nAbase me to self-loathing and self-abhorrence,\nOpen in me a fount of penitential tears,\nBreak me, then bind me up;\nThus will my heart be a prepared dwelling for my God;\nThen can the Father take up his abode in me,\nThen can the blessed Jesus come with healing in his touch,\nThen can the Holy Spirit descend in sanctifying grace;\nO Holy Trinity, three Persons and one God,\ninhabit me, a temple consecrated to thy glory.\nWhen thou art present, evil cannot abide;\nIn thy fellowship is fullness of joy,\nBeneath thy smile is peace of conscience,\nBy thy side no fears disturb,\nno apprehensions banish rest of mind,\nWith thee my heart shall bloom with fragrance;\nMake me meet, through repentance, for thine indwelling.\nNothing exceeds thy power,\nNothing is too great for thee to do,\nNothing too good for thee to give.\nInfinite is thy might, boundless thy love,\nlimitless thy grace, glorious thy saving name.\nLet angels sing for sinners repenting, prodigals restored,\nbacksliders reclaimed, Satan's captives released,\nblind eyes opened, broken hearts bound up,\nthe despondent cheered, the self-righteous stripped,\nthe formalist driven from a refuge of lies,\nthe ignorant enlightened, and saints built up in their holy faith.\nI ask great things of a great God.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 5
+  }
 }

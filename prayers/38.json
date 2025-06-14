@@ -1,6 +1,25 @@
 {
-  "id": 38,
+  "id": "prayer-38",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE PRECIOUS BLOOD",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "Before thy cross I kneel and see\nthe heinousness of my sin,\nmy iniquity that caused thee to be 'made a curse',\nthe evil that excites the severity of divine wrath.\nShow me the enormity of my guilt by\nthe crown of thorns,\nthe pierced hands and feet,\nthe bruised body, the dying cries.\nThy blood is the blood of incarnate God,\nits worth infinite, its value beyond all thought\nInfinite must be the evil and guilt that demands such a price.\nSin is my malady, my monster, my foe, my viper,\nborn in my birth, alive in my life, strong in my character,\ndominating my faculties,\nfollowing me as a shadow,\nintermingling with my every thought,\nmy chain that holds me captive in the empire of my soul\nSinner that I am,\nwhy should the sun give me light,\nthe air supply breath, the earth bear my tread,\nits fruits nourish me,\nits creatures subserve my ends?\nYet thy compassions yearn over me,\nthy heart hastens to my rescue,\nthy love endured my curse,\nthy mercy bore my deserved stripes.\nLet me walk humbly in the lowest depths of humiliation,\nbathed in thy blood,\ntender of conscience,\ntriumphing gloriously as an heir of salvation."
+  "sortOrder": 38,
+  "content": {
+    "type": "TextContent",
+    "text": "Before thy cross I kneel and see\nthe heinousness of my sin,\nmy iniquity that caused thee to be 'made a curse',\nthe evil that excites the severity of divine wrath.\nShow me the enormity of my guilt by\nthe crown of thorns,\nthe pierced hands and feet,\nthe bruised body, the dying cries.\nThy blood is the blood of incarnate God,\nits worth infinite, its value beyond all thought\nInfinite must be the evil and guilt that demands such a price.\nSin is my malady, my monster, my foe, my viper,\nborn in my birth, alive in my life, strong in my character,\ndominating my faculties,\nfollowing me as a shadow,\nintermingling with my every thought,\nmy chain that holds me captive in the empire of my soul\nSinner that I am,\nwhy should the sun give me light,\nthe air supply breath, the earth bear my tread,\nits fruits nourish me,\nits creatures subserve my ends?\nYet thy compassions yearn over me,\nthy heart hastens to my rescue,\nthy love endured my curse,\nthy mercy bore my deserved stripes.\nLet me walk humbly in the lowest depths of humiliation,\nbathed in thy blood,\ntender of conscience,\ntriumphing gloriously as an heir of salvation.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 38
+  }
 }

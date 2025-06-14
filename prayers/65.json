@@ -1,6 +1,25 @@
 {
-  "id": 65,
+  "id": "prayer-65",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE DARK GUEST",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "Bend my hands and cut them off,\nfor I have often struck thee with a wayward will,\nwhen these fingers should embrace thee by faith.\nI am not yet weaned from all created glory,\nhonour, wisdom, and esteem of others,\nfor I have a secret motive to eye my name in all I do.\nLet me not only speak the word sin, but see the thing itself.\nGive me to view a discovered sinfulness,\nto know that though my sins are crucified\nthey are never wholly mortified.\nHatred, malice, ill-will,\nvain-glory that hungers for and hunts after\nman's approval and applause,\nall are crucified, forgiven,\nbut they rise again in my sinful heart.\nO my crucified but never wholly mortified sinfulness!\nO my life-long damage and daily shame!\nO my indwelling and besetting sins!\nO the tormenting slavery of a sinful heart!\nDestroy, O God, the dark guest within\nwhose hidden presence makes my life a hell.\nYet thou hast not left me here without grace;\nThe cross still stands and meets my needs\nin the deepest straits of the soul.-\nI thank thee that my remembrance of it\nis like David's sight of Goliath's sword\nwhich preached forth thy deliverance.\nThe memory of my great sins, my many temptations, my falls,\nbring afresh into my mind the remembrance\nof thy great help, of thy support from heaven,\nof the great grace that saved such a wretch as I am.\nThere is no treasure so wonderful\nas that continuous experience of thy grace toward me\nwhich alone can subdue the risings of sin within:\nGive me more of it."
+  "sortOrder": 65,
+  "content": {
+    "type": "TextContent",
+    "text": "Bend my hands and cut them off,\nfor I have often struck thee with a wayward will,\nwhen these fingers should embrace thee by faith.\nI am not yet weaned from all created glory,\nhonour, wisdom, and esteem of others,\nfor I have a secret motive to eye my name in all I do.\nLet me not only speak the word sin, but see the thing itself.\nGive me to view a discovered sinfulness,\nto know that though my sins are crucified\nthey are never wholly mortified.\nHatred, malice, ill-will,\nvain-glory that hungers for and hunts after\nman's approval and applause,\nall are crucified, forgiven,\nbut they rise again in my sinful heart.\nO my crucified but never wholly mortified sinfulness!\nO my life-long damage and daily shame!\nO my indwelling and besetting sins!\nO the tormenting slavery of a sinful heart!\nDestroy, O God, the dark guest within\nwhose hidden presence makes my life a hell.\nYet thou hast not left me here without grace;\nThe cross still stands and meets my needs\nin the deepest straits of the soul.-\nI thank thee that my remembrance of it\nis like David's sight of Goliath's sword\nwhich preached forth thy deliverance.\nThe memory of my great sins, my many temptations, my falls,\nbring afresh into my mind the remembrance\nof thy great help, of thy support from heaven,\nof the great grace that saved such a wretch as I am.\nThere is no treasure so wonderful\nas that continuous experience of thy grace toward me\nwhich alone can subdue the risings of sin within:\nGive me more of it.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 65
+  }
 }

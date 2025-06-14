@@ -1,6 +1,25 @@
 {
-  "id": 186,
+  "id": "prayer-186",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "FIRST DAY EVENING THE TEACHER",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "We bless thee,\nour creator, preserver, benefactor, teacher,\nfor opening to us the volume of nature\nwhere we may read and consider thy works.\nThou hast this day spread before us the fuller pages of revelation,\nand in them we see what thou wouldest have us do,\nwhat thou requirest of us,\nwhat thou hast done for us,\nwhat thou hast promised to us,\nwhat thou hast given us in Jesus.\nWe pray thee for a conscious experience of his salvation,\nin our deliverance from sin,\nin our bearing his image,\nin our enjoying his presence,\nin our being upheld by his free Spirit\nLet us not live uncertain of what we are,\nof where we are going.\nBear witness with our spirit that we are thy children;\nAnd enable each one to say, 'I know my redeemer.'\nBless us with a growing sense of this salvation.\nIf already enlightened in Christ, may we see greater things;\nIf quickened, may we have more abundant life;\nIf renewed, let us go on from strength to strength.\nGive us closer abiding in Jesus that we may\nbring forth more fruit\nhave a deeper sense of our obligations to him,\nthat we may surrender all,\nhave a fuller joy,\nthat we may serve him more completely.\nAnd may our faith work by love\ntowards him who died\ntowards our fellow-believers,\ntowards our fellow-men."
+  "sortOrder": 186,
+  "content": {
+    "type": "TextContent",
+    "text": "We bless thee,\nour creator, preserver, benefactor, teacher,\nfor opening to us the volume of nature\nwhere we may read and consider thy works.\nThou hast this day spread before us the fuller pages of revelation,\nand in them we see what thou wouldest have us do,\nwhat thou requirest of us,\nwhat thou hast done for us,\nwhat thou hast promised to us,\nwhat thou hast given us in Jesus.\nWe pray thee for a conscious experience of his salvation,\nin our deliverance from sin,\nin our bearing his image,\nin our enjoying his presence,\nin our being upheld by his free Spirit\nLet us not live uncertain of what we are,\nof where we are going.\nBear witness with our spirit that we are thy children;\nAnd enable each one to say, 'I know my redeemer.'\nBless us with a growing sense of this salvation.\nIf already enlightened in Christ, may we see greater things;\nIf quickened, may we have more abundant life;\nIf renewed, let us go on from strength to strength.\nGive us closer abiding in Jesus that we may\nbring forth more fruit\nhave a deeper sense of our obligations to him,\nthat we may surrender all,\nhave a fuller joy,\nthat we may serve him more completely.\nAnd may our faith work by love\ntowards him who died\ntowards our fellow-believers,\ntowards our fellow-men.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 186
+  }
 }

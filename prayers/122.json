@@ -1,6 +1,25 @@
 {
-  "id": 122,
+  "id": "prayer-122",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "SPIRITUAL HELPS",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "It is amazing love,\nthat thou hast sent thy Son to suffer in my stead,\nthat thou hast added the Spirit to teach, comfort, guide,\nthat thou hast allowed the ministry of angels to wall me round;\nAll heaven subserves the welfare of a poor worm.\nPermit thy unseen servants to be ever active on my behalf,\nand to rejoice when grace expands in me.\nSuffer them never to rest until my conflict is over,\nand I stand victorious on salvation's shore.\nGrant that my proneness to evil, deadness to good,\nresistance to thy Spirit's motions,\nmay never provoke thee to abandon me.\nMay my hard heart awake thy pity, not thy wrath,\nAnd if the enemy gets an advantage through my corruption,\nlet it be seen that heaven is mightier than hell,\nthat those for me are greater than those against me.\nArise to my help in richness of covenant blessings,\nKeep me feeding in the pastures of thy strengthening Word,\nsearching Scripture to find thee there.\nIf my waywardness is visited with a scourge,\nenable me to receive correction meekly,\nto bless the reproving hand,\nto discern the motive of rebuke,\nto respond promptly, and do the first work.\nLet all thy fatherly dealings make me a partaker of thy holiness.\nGrant that in every fall I may sink lower on my knees,\nand that when I rise it may be to loftier heights of devotion.\nMay my every cross be sanctified,\nevery loss be gain,\nevery denial a spiritual advantage,\nevery dark day a light of the Holy Spirit,\nevery night of trial a song."
+  "sortOrder": 122,
+  "content": {
+    "type": "TextContent",
+    "text": "It is amazing love,\nthat thou hast sent thy Son to suffer in my stead,\nthat thou hast added the Spirit to teach, comfort, guide,\nthat thou hast allowed the ministry of angels to wall me round;\nAll heaven subserves the welfare of a poor worm.\nPermit thy unseen servants to be ever active on my behalf,\nand to rejoice when grace expands in me.\nSuffer them never to rest until my conflict is over,\nand I stand victorious on salvation's shore.\nGrant that my proneness to evil, deadness to good,\nresistance to thy Spirit's motions,\nmay never provoke thee to abandon me.\nMay my hard heart awake thy pity, not thy wrath,\nAnd if the enemy gets an advantage through my corruption,\nlet it be seen that heaven is mightier than hell,\nthat those for me are greater than those against me.\nArise to my help in richness of covenant blessings,\nKeep me feeding in the pastures of thy strengthening Word,\nsearching Scripture to find thee there.\nIf my waywardness is visited with a scourge,\nenable me to receive correction meekly,\nto bless the reproving hand,\nto discern the motive of rebuke,\nto respond promptly, and do the first work.\nLet all thy fatherly dealings make me a partaker of thy holiness.\nGrant that in every fall I may sink lower on my knees,\nand that when I rise it may be to loftier heights of devotion.\nMay my every cross be sanctified,\nevery loss be gain,\nevery denial a spiritual advantage,\nevery dark day a light of the Holy Spirit,\nevery night of trial a song.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 122
+  }
 }

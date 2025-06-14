@@ -1,6 +1,25 @@
 {
-  "id": 1,
+  "id": "prayer-1",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE VALLEY OF VISION",
+  "subtitle": null,
+  "description": null,
   "section": "Introduction",
-  "content": "lord, high and holy, meek and lowly,\nThou hast brought me to the valley of vision,\nwhere I live in the depths but see thee in the heights;\nhemmed in by mountains of sin I behold thy glory.\nLet me learn by paradox\nthat the way down is the way up,\nthat to be low is to be high,\nthat the broken heart is the healed heart,\nthat the contrite spirit is the rejoicing spirit,\nthat the repenting soul is the victorious soul,\nthat to have nothing is to possess all,\nthat to bear the cross is to wear the crown,\nthat to give is to receive, that the valley is the place of vision.\nLord, in the daytime stars can be seen from deepest wells,\nand the deeper the wells the brighter thy stars shine;\nLet me find thy light in my darkness,\nthy life in my death,\nthy joy in my sorrow,\nthy grace in my sin,\nthy riches in my poverty,\nthy glory in my valley."
+  "sortOrder": 1,
+  "content": {
+    "type": "TextContent",
+    "text": "lord, high and holy, meek and lowly,\nThou hast brought me to the valley of vision,\nwhere I live in the depths but see thee in the heights;\nhemmed in by mountains of sin I behold thy glory.\nLet me learn by paradox\nthat the way down is the way up,\nthat to be low is to be high,\nthat the broken heart is the healed heart,\nthat the contrite spirit is the rejoicing spirit,\nthat the repenting soul is the victorious soul,\nthat to have nothing is to possess all,\nthat to bear the cross is to wear the crown,\nthat to give is to receive, that the valley is the place of vision.\nLord, in the daytime stars can be seen from deepest wells,\nand the deeper the wells the brighter thy stars shine;\nLet me find thy light in my darkness,\nthy life in my death,\nthy joy in my sorrow,\nthy grace in my sin,\nthy riches in my poverty,\nthy glory in my valley.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 1
+  }
 }

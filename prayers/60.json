@@ -1,6 +1,25 @@
 {
-  "id": 60,
+  "id": "prayer-60",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A NEOPHYTE'S DEVOTION",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "GLORIOUS AND HOLY GOD,\nProvocations against thy divine majesty have filled my whole life,\nMy offences have been countless and aggravated.\nConscience has rebuked me, friends have admonished me,\nthe examples of others have reproached me,\nthy rod has chastised me,\nthy kindnesses allured me.\nThou hast seen and abhorred all my sins and\ncouldst easily and justly have punished me,\nyet thou hast spared me,\nbeen gracious unto me,\ngiven me thy help,\ninvited me to thy table.\nLord, I thankfully obey thy call,\naccept of thy goodness,\nacquiesce in thy gospel appointments.\nI believe that Jesus thy Son has plenteous redemption;\nI apply to him for his benefits,\ngive up my mind implicitly to his instructions,\ntrust and glory in his sacrifice,\nrevere and love his authority,\npray that his grace may reign in my life.\nI will not love a world that crucified him,\nneither cherish nor endure the sin that put him to grief,\nnor suffer him to be wounded by others.\nAt the cross that relieves my conscience\nlet me learn lessons of self-denial, forgiveness and submission,\nfeel motives to obedience,\nfind resources for all needs of the divine life.\nThen let me be what I profess,\ndo as well as teach,\nlive as well as hear religion."
+  "sortOrder": 60,
+  "content": {
+    "type": "TextContent",
+    "text": "GLORIOUS AND HOLY GOD,\nProvocations against thy divine majesty have filled my whole life,\nMy offences have been countless and aggravated.\nConscience has rebuked me, friends have admonished me,\nthe examples of others have reproached me,\nthy rod has chastised me,\nthy kindnesses allured me.\nThou hast seen and abhorred all my sins and\ncouldst easily and justly have punished me,\nyet thou hast spared me,\nbeen gracious unto me,\ngiven me thy help,\ninvited me to thy table.\nLord, I thankfully obey thy call,\naccept of thy goodness,\nacquiesce in thy gospel appointments.\nI believe that Jesus thy Son has plenteous redemption;\nI apply to him for his benefits,\ngive up my mind implicitly to his instructions,\ntrust and glory in his sacrifice,\nrevere and love his authority,\npray that his grace may reign in my life.\nI will not love a world that crucified him,\nneither cherish nor endure the sin that put him to grief,\nnor suffer him to be wounded by others.\nAt the cross that relieves my conscience\nlet me learn lessons of self-denial, forgiveness and submission,\nfeel motives to obedience,\nfind resources for all needs of the divine life.\nThen let me be what I profess,\ndo as well as teach,\nlive as well as hear religion.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 60
+  }
 }

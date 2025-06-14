@@ -1,6 +1,25 @@
 {
-  "id": 158,
+  "id": "prayer-158",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "GOD'S CAUSE",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "Thy cause, not my own, engages my heart,\nand I appeal to thee with greatest freedom\nto set up thy kingdom in every place where Satan reigns;\nGlorify thyself and I shall rejoice,\nfor to bring honour to thy name is my sole desire.\nI adore thee that thou art God,\nand long that others should know it, feel it,\nand rejoice in it,\nO that all men might love and praise thee,\nthat thou mightest have all glory from the intelligent world!\nLet sinners be brought to thee for thy dear name!\nTo the eye of reason everything respecting the conversion of others\nis as dark as midnight,\nBut thou canst accomplish great things;\nthe cause is thine,\nand it is to thy glory that men should be saved.\nLord, use me as thou wilt,\ndo with me what thou wilt;\nbut, O, promote thy cause,\nlet thy kingdom come,\nlet thy blessed interest be advanced in this world!\nO do thou bring in great numbers to Jesus!\nlet me see that glorious day,\nand give me to grasp for multitudes of souls;\nlet me be willing to die to that end;\nand while I live let me labour for thee\nto the utmost of my strength,\nspending time profitably in this work,\nboth in health and in weakness.\nIt is thy cause and kingdom I long for, not my own.\nO, answer thou my request!"
+  "sortOrder": 158,
+  "content": {
+    "type": "TextContent",
+    "text": "Thy cause, not my own, engages my heart,\nand I appeal to thee with greatest freedom\nto set up thy kingdom in every place where Satan reigns;\nGlorify thyself and I shall rejoice,\nfor to bring honour to thy name is my sole desire.\nI adore thee that thou art God,\nand long that others should know it, feel it,\nand rejoice in it,\nO that all men might love and praise thee,\nthat thou mightest have all glory from the intelligent world!\nLet sinners be brought to thee for thy dear name!\nTo the eye of reason everything respecting the conversion of others\nis as dark as midnight,\nBut thou canst accomplish great things;\nthe cause is thine,\nand it is to thy glory that men should be saved.\nLord, use me as thou wilt,\ndo with me what thou wilt;\nbut, O, promote thy cause,\nlet thy kingdom come,\nlet thy blessed interest be advanced in this world!\nO do thou bring in great numbers to Jesus!\nlet me see that glorious day,\nand give me to grasp for multitudes of souls;\nlet me be willing to die to that end;\nand while I live let me labour for thee\nto the utmost of my strength,\nspending time profitably in this work,\nboth in health and in weakness.\nIt is thy cause and kingdom I long for, not my own.\nO, answer thou my request!",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 158
+  }
 }

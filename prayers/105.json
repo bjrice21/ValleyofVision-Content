@@ -1,6 +1,25 @@
 {
-  "id": 105,
+  "id": "prayer-105",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE FAMILY",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "O SOVEREIGN LORD,\nThou art the creator-Father of all men, for thou hast made and dost\nsupport them;\nThou art the special Father of those who know, love and honour thee,\nwho find thy yoke easy, and thy burden light,\nthy work honourable,\nthy commandments glorious.\nBut how little thy undeserved goodness has affected me!\nhow imperfectly have I improved my religious privileges!\nhow negligent have I been in doing good to others!\nI am before thee in my trespasses and sins,\nhave mercy on me,\nand may thy goodness bring me to repentance.\nHelp me to hate and forsake every false way,\nto be attentive to my condition and character,\nto bridle my tongue,\nto keep my heart with all diligence,\nto watch and pray against temptation,\nto mortify sin,\nto be concerned for the salvation of others.\nO God, I cannot endure to see the destruction of my kindred.\nLet those that are united to me in tender ties\nbe precious in thy sight and devoted to thy glory.\nSanctify and prosper my domestic devotion,\ninstruction, discipline, example,\nthat my house may be a nursery for heaven,\nmy church the garden of the Lord,\nenriched with trees of righteousness of thy planting,\nfor thy glory;\nLet not those of my family who are amiable, moral, attractive,\nfall short of heaven at last;\nGrant that the promising appearances of a tender conscience,\nsoft heart, the alarms and delights of thy Word,\nbe not finally blotted out,\nbut bring forth judgment unto victory in all whom I love."
+  "sortOrder": 105,
+  "content": {
+    "type": "TextContent",
+    "text": "O SOVEREIGN LORD,\nThou art the creator-Father of all men, for thou hast made and dost\nsupport them;\nThou art the special Father of those who know, love and honour thee,\nwho find thy yoke easy, and thy burden light,\nthy work honourable,\nthy commandments glorious.\nBut how little thy undeserved goodness has affected me!\nhow imperfectly have I improved my religious privileges!\nhow negligent have I been in doing good to others!\nI am before thee in my trespasses and sins,\nhave mercy on me,\nand may thy goodness bring me to repentance.\nHelp me to hate and forsake every false way,\nto be attentive to my condition and character,\nto bridle my tongue,\nto keep my heart with all diligence,\nto watch and pray against temptation,\nto mortify sin,\nto be concerned for the salvation of others.\nO God, I cannot endure to see the destruction of my kindred.\nLet those that are united to me in tender ties\nbe precious in thy sight and devoted to thy glory.\nSanctify and prosper my domestic devotion,\ninstruction, discipline, example,\nthat my house may be a nursery for heaven,\nmy church the garden of the Lord,\nenriched with trees of righteousness of thy planting,\nfor thy glory;\nLet not those of my family who are amiable, moral, attractive,\nfall short of heaven at last;\nGrant that the promising appearances of a tender conscience,\nsoft heart, the alarms and delights of thy Word,\nbe not finally blotted out,\nbut bring forth judgment unto victory in all whom I love.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 105
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 120,
+  "id": "prayer-120",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE PERSONAL TOUCH",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "I acknowledge and confess that all things come of thee --\nlife, breath, happiness, advancement,\nsight, touch, hearing,\ngoodness, truth, beauty --\nall that makes existence amiable.\nIn the spiritual world also I am dependent entirely upon thee.\nGive me grace to know more of my need of grace;\nShow me my sinfulness that I may willingly confess it;\nReveal to me my weakness that I may know my strength in thee.\nI thank thee for any sign of penitence; give me more of it;\nMy sins are black and deep,\nand rise from a stony, proud, self-righteous heart;\nHelp me to confess them with mourning, regret, self-loathing,\nwith no pretence to merit or excuse;\nI need healing,\nGood physician, here is scope for thee,\ncome and manifest thy power;\nI need faith;\nThou who hast given it me, maintain, strengthen, increase it,\nCentre it upon the Saviour's work,\nupon the majesty of the Father, upon the operations of the Spirit;\nWork it in me now that I may never doubt thee\nas the truthful, mighty, faithful God.\nThen I can bring my heart to thee\nfull of love, gratitude, hope, joy.\nMay I lay at thy feet these fruits grown in thy garden,\nlove thee with a passion that can never cool,\nbelieve in thee with a confidence that never staggers,\nhope in thee with an expectation that can never be dim,\ndelight in thee with a rejoicing that cannot be stifled,\nglorify thee with the highest of my powers,\nburning, blazing, glowing, radiating, as from thy own glory."
+  "sortOrder": 120,
+  "content": {
+    "type": "TextContent",
+    "text": "I acknowledge and confess that all things come of thee --\nlife, breath, happiness, advancement,\nsight, touch, hearing,\ngoodness, truth, beauty --\nall that makes existence amiable.\nIn the spiritual world also I am dependent entirely upon thee.\nGive me grace to know more of my need of grace;\nShow me my sinfulness that I may willingly confess it;\nReveal to me my weakness that I may know my strength in thee.\nI thank thee for any sign of penitence; give me more of it;\nMy sins are black and deep,\nand rise from a stony, proud, self-righteous heart;\nHelp me to confess them with mourning, regret, self-loathing,\nwith no pretence to merit or excuse;\nI need healing,\nGood physician, here is scope for thee,\ncome and manifest thy power;\nI need faith;\nThou who hast given it me, maintain, strengthen, increase it,\nCentre it upon the Saviour's work,\nupon the majesty of the Father, upon the operations of the Spirit;\nWork it in me now that I may never doubt thee\nas the truthful, mighty, faithful God.\nThen I can bring my heart to thee\nfull of love, gratitude, hope, joy.\nMay I lay at thy feet these fruits grown in thy garden,\nlove thee with a passion that can never cool,\nbelieve in thee with a confidence that never staggers,\nhope in thee with an expectation that can never be dim,\ndelight in thee with a rejoicing that cannot be stifled,\nglorify thee with the highest of my powers,\nburning, blazing, glowing, radiating, as from thy own glory.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 120
+  }
 }

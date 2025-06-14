@@ -1,6 +1,25 @@
 {
-  "id": 194,
+  "id": "prayer-194",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "FIFTH DAY EVENING PROTECTION",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "Thou art our preserver, governor, saviour,\nand coming judge.\nQuieten our souls to call upon thy name;\nDetach us from the influence of the flesh and the senses;\nImpress us with the power of faith;\nPromote in us spirituality of mind\nthat will render our services acceptable to thee,\nand delightful and profitable to ourselves.\nBring us into that state which attracts thine eye,\nand prepare us to receive the proofs of thy love.\nShow us our danger, that we may fly to thee for refuge.\nMake us sensible of our sin's disease, that we may value the good\nphysician.\nPlacard to us the cross, that it may slay the enmity of our hearts.\nHelp us to be watchful over our ways,\njealous over our tempers,\ndiligent over our hearts.\nWhen we droop, revive us,\nWhen we loiter, quicken us,\nWhen we go astray, restore us.\nPossess us with more of that faith\nwhich is the principle of all vital godliness.\nMay we be rich in faith, strong in faith, live by faith, walk by faith,\nexperience the joy of faith, do the work of faith, hope through faith.\nPerceiving nothing in ourselves,\nmay we find in die Saviour\nwisdom, righteousness, sanctification, redemption."
+  "sortOrder": 194,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou art our preserver, governor, saviour,\nand coming judge.\nQuieten our souls to call upon thy name;\nDetach us from the influence of the flesh and the senses;\nImpress us with the power of faith;\nPromote in us spirituality of mind\nthat will render our services acceptable to thee,\nand delightful and profitable to ourselves.\nBring us into that state which attracts thine eye,\nand prepare us to receive the proofs of thy love.\nShow us our danger, that we may fly to thee for refuge.\nMake us sensible of our sin's disease, that we may value the good\nphysician.\nPlacard to us the cross, that it may slay the enmity of our hearts.\nHelp us to be watchful over our ways,\njealous over our tempers,\ndiligent over our hearts.\nWhen we droop, revive us,\nWhen we loiter, quicken us,\nWhen we go astray, restore us.\nPossess us with more of that faith\nwhich is the principle of all vital godliness.\nMay we be rich in faith, strong in faith, live by faith, walk by faith,\nexperience the joy of faith, do the work of faith, hope through faith.\nPerceiving nothing in ourselves,\nmay we find in die Saviour\nwisdom, righteousness, sanctification, redemption.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 194
+  }
 }

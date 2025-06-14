@@ -1,6 +1,25 @@
 {
-  "id": 6,
+  "id": "prayer-6",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE ALL-GOOD",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "Thou hast helped me to see,\nthat whatever good be in honour and rejoicing,\nhow good is he who gives them, and can withdraw them;\nthat blessedness does not lie so much\nin receiving good from and in thee, but\nin holding forth thy glory and virtue: that it is an amazing thing\nto see Deity in a creature, speaking, acting,\nfilling, shining through it;\nthat nothing is good but thee,\nthat I am near good when I am near thee,\nthat to be like thee is a glorious thing:\nThis is my magnet, my attraction.\nThou art all my good in times of peace,\nmy only support in days of trouble,\nmy one sufficiency when life shall end.\nHelp me to see how good thy will is in all,\nand even when it crosses mine\nteach me to be pleased with it.\nGrant me to feel thee in fire, and food and every providence,\nand to see that thy many gifts and creatures\nare but thy hands and fingers taking hold of me.\nThou bottomless fountain of all good,\nI give myself to thee out of love,\nfor all I have or own is thine,\nmy goods, family, church, self,\nto do with as thou wilt,\nto honour thyself by me, and by all mine.\nIf it be consistent with thy eternal counsels,\nthe purpose of thy grace, and the great ends of thy glory,\nthen bestow upon me the blessings of thy comforts;\nIf not, let me resign myself to thy wiser determinations."
+  "sortOrder": 6,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou hast helped me to see,\nthat whatever good be in honour and rejoicing,\nhow good is he who gives them, and can withdraw them;\nthat blessedness does not lie so much\nin receiving good from and in thee, but\nin holding forth thy glory and virtue: that it is an amazing thing\nto see Deity in a creature, speaking, acting,\nfilling, shining through it;\nthat nothing is good but thee,\nthat I am near good when I am near thee,\nthat to be like thee is a glorious thing:\nThis is my magnet, my attraction.\nThou art all my good in times of peace,\nmy only support in days of trouble,\nmy one sufficiency when life shall end.\nHelp me to see how good thy will is in all,\nand even when it crosses mine\nteach me to be pleased with it.\nGrant me to feel thee in fire, and food and every providence,\nand to see that thy many gifts and creatures\nare but thy hands and fingers taking hold of me.\nThou bottomless fountain of all good,\nI give myself to thee out of love,\nfor all I have or own is thine,\nmy goods, family, church, self,\nto do with as thou wilt,\nto honour thyself by me, and by all mine.\nIf it be consistent with thy eternal counsels,\nthe purpose of thy grace, and the great ends of thy glory,\nthen bestow upon me the blessings of thy comforts;\nIf not, let me resign myself to thy wiser determinations.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 6
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 55,
+  "id": "prayer-55",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "LIVING FOR JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "O SAVIOUR OF SINNERS,\nThy name is excellent,\nthy glory high, thy compassions unfailing,\nthy condescension wonderful,\nthy mercy tender.\nI bless thee for the discoveries, invitations, promises of the gospel,\nfor in them is pardon for rebels,\nliberty for captives,\nhealth for the sick, salvation for the lost.\nI come to thee in thy beloved name of Jesus;\nre-impress thy image upon my soul;\nRaise me above the smiles and frowns of the world,\nregarding it as a light thing to be judged by men;\nMay thy approbation be my only aim,\nthy Word my one rule.\nMake me to abhor that which grieves thy Holy Spirit,\nto suspect consolations of a worldly nature,\nto shun a careless way of life,\nto reprove evil,\nto instruct with meekness those who oppose me,\nto be gentle and patient towards all men,\nto be not only a professor but an example of the gospel,\ndisplaying in every relation, office, and condition\nits excellency, loveliness and advantages.\nHow little have I illustrated my principles\nand improved my privileges!\nHow seldom have I served my generation!\nHow often have I injured and not recommended my redeemer!\nHow few are those blessed through me!\nIn many things I have offended,\nin all come short of thy glory;\nPardon my iniquity, for it is great."
+  "sortOrder": 55,
+  "content": {
+    "type": "TextContent",
+    "text": "O SAVIOUR OF SINNERS,\nThy name is excellent,\nthy glory high, thy compassions unfailing,\nthy condescension wonderful,\nthy mercy tender.\nI bless thee for the discoveries, invitations, promises of the gospel,\nfor in them is pardon for rebels,\nliberty for captives,\nhealth for the sick, salvation for the lost.\nI come to thee in thy beloved name of Jesus;\nre-impress thy image upon my soul;\nRaise me above the smiles and frowns of the world,\nregarding it as a light thing to be judged by men;\nMay thy approbation be my only aim,\nthy Word my one rule.\nMake me to abhor that which grieves thy Holy Spirit,\nto suspect consolations of a worldly nature,\nto shun a careless way of life,\nto reprove evil,\nto instruct with meekness those who oppose me,\nto be gentle and patient towards all men,\nto be not only a professor but an example of the gospel,\ndisplaying in every relation, office, and condition\nits excellency, loveliness and advantages.\nHow little have I illustrated my principles\nand improved my privileges!\nHow seldom have I served my generation!\nHow often have I injured and not recommended my redeemer!\nHow few are those blessed through me!\nIn many things I have offended,\nin all come short of thy glory;\nPardon my iniquity, for it is great.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 55
+  }
 }

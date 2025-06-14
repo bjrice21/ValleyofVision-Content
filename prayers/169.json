@@ -1,6 +1,25 @@
 {
-  "id": 169,
+  "id": "prayer-169",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A MINISTER'S STRENGTH",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "UNCHANGEABLE JEHOVAH,\nWhen I am discouraged in my ministry\nand full of doubts of my self,\nfasten me upon the rock of thy eternal election,\nthen my hands will not hang down,\nand I shall have hope for myself and others.\nThou dost know thy people by name,\nand wilt at the appointed season\nlead them out of a natural to a gracious state\nby thy effectual calling.\nThis is the ground of my salvation,\nthe object of my desire,\nthe motive of my ministry.\nKeep me from high thoughts of myself or my work,\nfor I am nothing but sin and weakness;\nin me no good dwells,\nand my best works are but sin.\nHumble me to the dust before thee.\nRoot and tear out the poisonous weed of self-righteousness,\nand show me my utter nothingness;\nKeep me sensible of my sinnership;\nSink me deeper into penitence and self-abhorrence;\nBreak the Dagon of pride in pieces before the ark of thy presence;\nDemolish the Babel of self-opinion, and scatter it to the wind;\nLevel to the ground my Jericho walls of a rebel heart;\nThen grace, grace, will be my experience and cry.\nI am a poor, feeble creature when faith is not in exercise,\nlike an eagle with pinioned wings;\nGrant me to rest on thy power and faithfulness,\nand to know that there are two things worth living for:\nto further thy cause in the world,\nand to do good to the souls and bodies of men;\nThis is my ministry, my life, my prayer, my end.\nGrant me grace that I shall not fail."
+  "sortOrder": 169,
+  "content": {
+    "type": "TextContent",
+    "text": "UNCHANGEABLE JEHOVAH,\nWhen I am discouraged in my ministry\nand full of doubts of my self,\nfasten me upon the rock of thy eternal election,\nthen my hands will not hang down,\nand I shall have hope for myself and others.\nThou dost know thy people by name,\nand wilt at the appointed season\nlead them out of a natural to a gracious state\nby thy effectual calling.\nThis is the ground of my salvation,\nthe object of my desire,\nthe motive of my ministry.\nKeep me from high thoughts of myself or my work,\nfor I am nothing but sin and weakness;\nin me no good dwells,\nand my best works are but sin.\nHumble me to the dust before thee.\nRoot and tear out the poisonous weed of self-righteousness,\nand show me my utter nothingness;\nKeep me sensible of my sinnership;\nSink me deeper into penitence and self-abhorrence;\nBreak the Dagon of pride in pieces before the ark of thy presence;\nDemolish the Babel of self-opinion, and scatter it to the wind;\nLevel to the ground my Jericho walls of a rebel heart;\nThen grace, grace, will be my experience and cry.\nI am a poor, feeble creature when faith is not in exercise,\nlike an eagle with pinioned wings;\nGrant me to rest on thy power and faithfulness,\nand to know that there are two things worth living for:\nto further thy cause in the world,\nand to do good to the souls and bodies of men;\nThis is my ministry, my life, my prayer, my end.\nGrant me grace that I shall not fail.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 169
+  }
 }

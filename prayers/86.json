@@ -1,6 +1,25 @@
 {
-  "id": 86,
+  "id": "prayer-86",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A CRY FOR DELIVERANCE",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "Save me entirely from sin.\nI know I am righteous through the righteousness of another,\nbut I pant and pine for likeness to thyself;\nI am thy child and should bear thy image,\nEnable me to recognize my death unto sin;\nWhen it tempts me may I be deaf unto its voice.\nDeliver me from the invasion as well as the dominion of sin.\nGrant me to walk as Christ walked,\nto live in the newness of his life,\nthe life of love, the life of faith, the life of holiness.\nI abhor my body of death,\nits indolence, envy, meanness, pride.\nForgive, and kill these vices,\nhave mercy on my unbelief,\non my corrupt and wandering heart.\nWhen thy blessings come I begin to idolize them,\nand set my affection on some beloved object--\nchildren, friends, wealth, honour;\nCleanse this spiritual adultery and give me chastity;\nclose my heart to all but thee.\nSin is my greatest curse;\nLet thy victory be apparent to my consciousness,\nand displayed in my life.\nHelp me to be always devoted, confident, obedient,\nresigned, childlike in my trust of thee,\nto love thee with soul, body, mind, strength,\nto love my fellow-man as I love myself,\nto be saved from unregenerate temper, hard thoughts,\nslanderous words, meanness, unkind manners,\nto master my tongue and keep the door of my lips.\nFill me with grace daily,\nthat my life be a fountain of sweet water."
+  "sortOrder": 86,
+  "content": {
+    "type": "TextContent",
+    "text": "Save me entirely from sin.\nI know I am righteous through the righteousness of another,\nbut I pant and pine for likeness to thyself;\nI am thy child and should bear thy image,\nEnable me to recognize my death unto sin;\nWhen it tempts me may I be deaf unto its voice.\nDeliver me from the invasion as well as the dominion of sin.\nGrant me to walk as Christ walked,\nto live in the newness of his life,\nthe life of love, the life of faith, the life of holiness.\nI abhor my body of death,\nits indolence, envy, meanness, pride.\nForgive, and kill these vices,\nhave mercy on my unbelief,\non my corrupt and wandering heart.\nWhen thy blessings come I begin to idolize them,\nand set my affection on some beloved object--\nchildren, friends, wealth, honour;\nCleanse this spiritual adultery and give me chastity;\nclose my heart to all but thee.\nSin is my greatest curse;\nLet thy victory be apparent to my consciousness,\nand displayed in my life.\nHelp me to be always devoted, confident, obedient,\nresigned, childlike in my trust of thee,\nto love thee with soul, body, mind, strength,\nto love my fellow-man as I love myself,\nto be saved from unregenerate temper, hard thoughts,\nslanderous words, meanness, unkind manners,\nto master my tongue and keep the door of my lips.\nFill me with grace daily,\nthat my life be a fountain of sweet water.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 86
+  }
 }

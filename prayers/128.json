@@ -1,6 +1,25 @@
 {
-  "id": 128,
+  "id": "prayer-128",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "TO BE FIT FOR GOD",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "THOU MAKER AND SUSTAINER OF ALL THINGS,\nDay and night arc thine,\nheaven and earth declare thy glory;\nbut I, a creature of thy power and bounty,\nhave sinned against thee\nby resisting the dictates of conscience,\nthe demands of thy law,\nthe calls of thy gospel;\nyet I live under the dispensation of a given hope.\nDeliver me from worldly dispositions,\nfor I am born from above and bound for glory.\nMay I view and long after holiness\nas the beauty and dignity of the soul.\nLet me never slumber, never lose my assurance,\nnever fail to wear armour when passing through enemy land.\nFit me for every scene and circumstance;\nStay my mind upon thee and turn my trials to blessings,\nthat they may draw out my gratitude and praise\nas I see their design and effects.\nRender my obedience to thy will holy, natural, and delightful.\nRectify all my principles by clear, consistent,\nand influential views of divine truth.\nLet me never undervalue or neglect any part of thy revealed will.\nMay I duly regard the doctrine and practice of the gospel,\nprizing its commands as well as its promises.\nSanctify me in every relation, office, transaction\nand condition of life,\nthat if I prosper I may not be unduly exalted,\nif I suffer I may not be over-sorrowful.\nBalance my mind in all varying circumstances\nand help me to cultivate a disposition\nthat renders every duty a spiritual privilege.\nThus may I be content, be a glory to thee\nand an example to others."
+  "sortOrder": 128,
+  "content": {
+    "type": "TextContent",
+    "text": "THOU MAKER AND SUSTAINER OF ALL THINGS,\nDay and night arc thine,\nheaven and earth declare thy glory;\nbut I, a creature of thy power and bounty,\nhave sinned against thee\nby resisting the dictates of conscience,\nthe demands of thy law,\nthe calls of thy gospel;\nyet I live under the dispensation of a given hope.\nDeliver me from worldly dispositions,\nfor I am born from above and bound for glory.\nMay I view and long after holiness\nas the beauty and dignity of the soul.\nLet me never slumber, never lose my assurance,\nnever fail to wear armour when passing through enemy land.\nFit me for every scene and circumstance;\nStay my mind upon thee and turn my trials to blessings,\nthat they may draw out my gratitude and praise\nas I see their design and effects.\nRender my obedience to thy will holy, natural, and delightful.\nRectify all my principles by clear, consistent,\nand influential views of divine truth.\nLet me never undervalue or neglect any part of thy revealed will.\nMay I duly regard the doctrine and practice of the gospel,\nprizing its commands as well as its promises.\nSanctify me in every relation, office, transaction\nand condition of life,\nthat if I prosper I may not be unduly exalted,\nif I suffer I may not be over-sorrowful.\nBalance my mind in all varying circumstances\nand help me to cultivate a disposition\nthat renders every duty a spiritual privilege.\nThus may I be content, be a glory to thee\nand an example to others.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 128
+  }
 }

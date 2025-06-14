@@ -1,6 +1,25 @@
 {
-  "id": 76,
+  "id": "prayer-76",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "REPROOFS",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "O MERCIFUL GOD,\nWhen I hear of disagreeable things amongst Christians,\nit brings an additional weight and burden on my spirit;\nI come to thee in my distress and make lamentable complaint;\nTeach me how to take reproofs from friends,\neven though I think I do not deserve them;\nUse them to make me tenderly afraid of sin,\nmore jealous over myself,\nmore concerned to keep heart and life unblameable;\nCause them to help me reflect on my want of spirituality,\nto abhor myself,\nto look upon myself as unworthy,\nand make them beneficial to my soul\nMay all thy people know how little, mean, and vile I am,\nthat they may see I am nothing,\nless than nothing,\nto be accounted nothing,\nthat so they may pray for me aright,\nand have not the least dependence upon me.\nIt is sweet to be nothing and have nothing,\nand to be fed with crumbs from thy hands.\nBlessed be thy name for anything that life brings.\nHow do poor souls live who have not thee,\nor when helpless have no God to go to,\nwho feel not the constraining force of thy love,\nand the sweetness of communion?\nO how admirably dost thou captivate the soul,\nmaking all desires and affections centre on thee!\nGive me such vivacity in religion,\nthat I may be able to take all reproofs from other men\nas from thy hands,\nand glorify thee for them\nfrom a sense of thy beneficent love\nand of my need to have my pride destroyed."
+  "sortOrder": 76,
+  "content": {
+    "type": "TextContent",
+    "text": "O MERCIFUL GOD,\nWhen I hear of disagreeable things amongst Christians,\nit brings an additional weight and burden on my spirit;\nI come to thee in my distress and make lamentable complaint;\nTeach me how to take reproofs from friends,\neven though I think I do not deserve them;\nUse them to make me tenderly afraid of sin,\nmore jealous over myself,\nmore concerned to keep heart and life unblameable;\nCause them to help me reflect on my want of spirituality,\nto abhor myself,\nto look upon myself as unworthy,\nand make them beneficial to my soul\nMay all thy people know how little, mean, and vile I am,\nthat they may see I am nothing,\nless than nothing,\nto be accounted nothing,\nthat so they may pray for me aright,\nand have not the least dependence upon me.\nIt is sweet to be nothing and have nothing,\nand to be fed with crumbs from thy hands.\nBlessed be thy name for anything that life brings.\nHow do poor souls live who have not thee,\nor when helpless have no God to go to,\nwho feel not the constraining force of thy love,\nand the sweetness of communion?\nO how admirably dost thou captivate the soul,\nmaking all desires and affections centre on thee!\nGive me such vivacity in religion,\nthat I may be able to take all reproofs from other men\nas from thy hands,\nand glorify thee for them\nfrom a sense of thy beneficent love\nand of my need to have my pride destroyed.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 76
+  }
 }

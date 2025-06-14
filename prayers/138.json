@@ -1,6 +1,25 @@
 {
-  "id": 138,
+  "id": "prayer-138",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "AFTER PRAYER",
+  "subtitle": null,
+  "description": null,
   "section": "Approach to God",
-  "content": "I bewail my cold, listless, heartless prayers;\ntheir poverty adds sin to sin.\nIf my hope were in them I should be undone.\nBut the worth of Jesus perfumes my feeble breathings,\nand wins their acceptance.\nDeepen my contrition of heart,\nConfirm my faith in the blood that washes from all sin.\nMay I walk lovingly with my great redeemer.\nFlood my soul with true repentance\nthat my heart may be broken for sin and unto sin.\nLet me be as slow to forgive myself as thou art ready to forgive me.\nGazing on the glories of thy grace\nmay I be cast into the lowest depths of shame,\nand walk with downcast head now thou art pacified towards me.\nO my great high priest,\npour down upon me streams of needful grace,\nbless me in all my undertakings,\nin every thought of my mind, every word of my lips,\nevery step of my feet, every deed of my hands.\nThou didst five to bless,\ndie to bless,\nrise to bless,\nascend to bless,\ntake thy throne to bless, and\nnow thou dost reign to bless.\nO give sincerity to my desires,\nearnestness to my supplications,\nfervour to my love."
+  "sortOrder": 138,
+  "content": {
+    "type": "TextContent",
+    "text": "I bewail my cold, listless, heartless prayers;\ntheir poverty adds sin to sin.\nIf my hope were in them I should be undone.\nBut the worth of Jesus perfumes my feeble breathings,\nand wins their acceptance.\nDeepen my contrition of heart,\nConfirm my faith in the blood that washes from all sin.\nMay I walk lovingly with my great redeemer.\nFlood my soul with true repentance\nthat my heart may be broken for sin and unto sin.\nLet me be as slow to forgive myself as thou art ready to forgive me.\nGazing on the glories of thy grace\nmay I be cast into the lowest depths of shame,\nand walk with downcast head now thou art pacified towards me.\nO my great high priest,\npour down upon me streams of needful grace,\nbless me in all my undertakings,\nin every thought of my mind, every word of my lips,\nevery step of my feet, every deed of my hands.\nThou didst five to bless,\ndie to bless,\nrise to bless,\nascend to bless,\ntake thy throne to bless, and\nnow thou dost reign to bless.\nO give sincerity to my desires,\nearnestness to my supplications,\nfervour to my love.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 138
+  }
 }

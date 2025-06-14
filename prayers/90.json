@@ -1,6 +1,25 @@
 {
-  "id": 90,
+  "id": "prayer-90",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "RELIANCE",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "When thou art angry towards me for my wrongs\nI try to pacify thee by abstaining from future sin;\nBut teach me that I cannot satisfy thy law,\nthat this effort is a resting in my righteousness,\nthat only Christ's righteousness,\nready made, already finished,\nis fit for that purpose;\nthat thy chastising me for my sin\nis not that I should try to reform,\nbut only that I may be more humbled,\nafflicted, and separated from sin,\nby being reconciled,\nand made righteous in Christ by faith;\nthat a sense of my sufficiency and ability in him\nis one means of my being immovable;\nthat I can never be so by resting on my own faith,\nbut by trusting in thee\nas my only support, by faith;\nthat if I cast away my faith I cast away thee,\nfor by faith I apprehend thee,\nand as thou art very precious,\nso is my faith very precious to me;\nthat I fall short of the purity thou requirest,\nbecause in thinking I am holy\nI do not seek holiness,\nor, believing I am impotent, I do no more.\nHumble me for not being as holy as I should be,\nor as holy as I might be through Christ,\nfor thou art all, and to possess thee is to possess all\nBut to make the creature something\nis to make it stand between thee and me,\nso that I do not walk humbly and holily.\nLord, forgive me for this."
+  "sortOrder": 90,
+  "content": {
+    "type": "TextContent",
+    "text": "When thou art angry towards me for my wrongs\nI try to pacify thee by abstaining from future sin;\nBut teach me that I cannot satisfy thy law,\nthat this effort is a resting in my righteousness,\nthat only Christ's righteousness,\nready made, already finished,\nis fit for that purpose;\nthat thy chastising me for my sin\nis not that I should try to reform,\nbut only that I may be more humbled,\nafflicted, and separated from sin,\nby being reconciled,\nand made righteous in Christ by faith;\nthat a sense of my sufficiency and ability in him\nis one means of my being immovable;\nthat I can never be so by resting on my own faith,\nbut by trusting in thee\nas my only support, by faith;\nthat if I cast away my faith I cast away thee,\nfor by faith I apprehend thee,\nand as thou art very precious,\nso is my faith very precious to me;\nthat I fall short of the purity thou requirest,\nbecause in thinking I am holy\nI do not seek holiness,\nor, believing I am impotent, I do no more.\nHumble me for not being as holy as I should be,\nor as holy as I might be through Christ,\nfor thou art all, and to possess thee is to possess all\nBut to make the creature something\nis to make it stand between thee and me,\nso that I do not walk humbly and holily.\nLord, forgive me for this.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 90
+  }
 }

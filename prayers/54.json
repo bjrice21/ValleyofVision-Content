@@ -1,6 +1,25 @@
 {
-  "id": 54,
+  "id": "prayer-54",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "BELONGING TO JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "Teach me to see\nthat if Christ has pacified thee and satisfied divine justice\nhe can also deliver mc from my sins;\nthat Christ docs not desire mc, now justified,\nto live in self-confidence in my own strength,\nbut gives me the law of the Spirit of life\nto enable me to obey thee;\nthat the Spirit and his power are mine\nby resting on Christ's death;\nthat the Spirit of Life within answers to the law without;\nthat if I sin not I should thank thee for it;\nthat if I sin I should be humbled daily under it;\nthat I should mourn for sin more than other men do,\nfor when I sec I shall die because of sin,\nthat makes me mourn;\nwhen I see how sin strikes at thee,\nthat makes me mourn;\nwhen I sec that sin caused Christ's death,\nthat makes me mourn;\nthat sanctification is the evidence of reconciliation,\nproving that faith has truly apprehended Christ;\nThou hast taught me\nthat faith is nothing else than receiving thy kindness;\nthat it is an adherence to Christ, a resting on him,\nlove clinging to him as a branch to the tree,\nto seek life and vigour from him.\nI thank thee for showing me the vast difference\nbetween knowing things by reason,\nand knowing them by the spirit of faith.\nBy reason I see a thing is so; by faith I know it as it is.\nI have seen thee by reason and have not been amazed,\nI have seen thee as thou art in thy Son\nand have been ravished to behold thee.\nI bless thee that I am thine in my Saviour, Jesus."
+  "sortOrder": 54,
+  "content": {
+    "type": "TextContent",
+    "text": "Teach me to see\nthat if Christ has pacified thee and satisfied divine justice\nhe can also deliver mc from my sins;\nthat Christ docs not desire mc, now justified,\nto live in self-confidence in my own strength,\nbut gives me the law of the Spirit of life\nto enable me to obey thee;\nthat the Spirit and his power are mine\nby resting on Christ's death;\nthat the Spirit of Life within answers to the law without;\nthat if I sin not I should thank thee for it;\nthat if I sin I should be humbled daily under it;\nthat I should mourn for sin more than other men do,\nfor when I sec I shall die because of sin,\nthat makes me mourn;\nwhen I see how sin strikes at thee,\nthat makes me mourn;\nwhen I sec that sin caused Christ's death,\nthat makes me mourn;\nthat sanctification is the evidence of reconciliation,\nproving that faith has truly apprehended Christ;\nThou hast taught me\nthat faith is nothing else than receiving thy kindness;\nthat it is an adherence to Christ, a resting on him,\nlove clinging to him as a branch to the tree,\nto seek life and vigour from him.\nI thank thee for showing me the vast difference\nbetween knowing things by reason,\nand knowing them by the spirit of faith.\nBy reason I see a thing is so; by faith I know it as it is.\nI have seen thee by reason and have not been amazed,\nI have seen thee as thou art in thy Son\nand have been ravished to behold thee.\nI bless thee that I am thine in my Saviour, Jesus.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 54
+  }
 }

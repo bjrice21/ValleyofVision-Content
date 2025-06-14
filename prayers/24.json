@@ -1,6 +1,25 @@
 {
-  "id": 24,
+  "id": "prayer-24",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE LOVE OF JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "Help me to approach thee with deepest reverence, not with\npresumption,\nnot with servile fear, but with holy boldness.\nThou art beyond the grasp of my understanding,\nbut not beyond that of my love,\nThou knowest that I love thee supremely,\nfor thou art supremely adorable, good, perfect.\nMy heart melts at the love of Jesus,\nmy brother, bone of my bone, flesh of my flesh,\nmarried to me, dead for me, risen for me;\nHe is mine and I am his,\ngiven to me as well as for me;\nI am never so much mine as when I am his,\nor so much lost to myself until lost in him;\nthen I find my true manhood.\nBut my love is frost and cold, ice and snow;\nLet his love warm me,\nlighten my burden, be my heaven;\nMay it be more revealed to me in all its influences\nthat my love to him may be more fervent and glowing;\nLet the mighty tide of his everlasting love\ncover the rocks of my sin and care;\nThen let my spirit float above those things\nwhich had else wrecked my life.\nMake me fruitful by living to that love,\nmy character becoming more beautiful every day.\nIf traces of Christ's love-artistry be upon me,\nmay he work on with his divine brush\nuntil the complete image be obtained\nand I be made a perfect copy of him, my master.\nO Lord Jesus, come to me,\nO Divine Spirit, rest upon me,\nO Holy Father, look on me in mercy for the sake of the well-beloved."
+  "sortOrder": 24,
+  "content": {
+    "type": "TextContent",
+    "text": "Help me to approach thee with deepest reverence, not with\npresumption,\nnot with servile fear, but with holy boldness.\nThou art beyond the grasp of my understanding,\nbut not beyond that of my love,\nThou knowest that I love thee supremely,\nfor thou art supremely adorable, good, perfect.\nMy heart melts at the love of Jesus,\nmy brother, bone of my bone, flesh of my flesh,\nmarried to me, dead for me, risen for me;\nHe is mine and I am his,\ngiven to me as well as for me;\nI am never so much mine as when I am his,\nor so much lost to myself until lost in him;\nthen I find my true manhood.\nBut my love is frost and cold, ice and snow;\nLet his love warm me,\nlighten my burden, be my heaven;\nMay it be more revealed to me in all its influences\nthat my love to him may be more fervent and glowing;\nLet the mighty tide of his everlasting love\ncover the rocks of my sin and care;\nThen let my spirit float above those things\nwhich had else wrecked my life.\nMake me fruitful by living to that love,\nmy character becoming more beautiful every day.\nIf traces of Christ's love-artistry be upon me,\nmay he work on with his divine brush\nuntil the complete image be obtained\nand I be made a perfect copy of him, my master.\nO Lord Jesus, come to me,\nO Divine Spirit, rest upon me,\nO Holy Father, look on me in mercy for the sake of the well-beloved.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 24
+  }
 }

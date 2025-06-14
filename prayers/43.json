@@ -1,6 +1,25 @@
 {
-  "id": 43,
+  "id": "prayer-43",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "DELIVERANCE",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "O god op unsearchable greatness,\nBefore thee I am nothing but vanity, iniquity, perishing;\nSin has forfeited thy favour,\nstripped me of thy image,\nbanished me from thy presence,\nexposed me to the curse of thy law;\nI cannot deliver myself, and am in despair.\nBut a resource is found in thee,\nfor without my desert or desire\nthou didst devise an everlasting plan,\nhonourable to thy perfections,\nand which angels desired to look into.\nAnd the Word which announces all the glory of this goodness\nis nigh me, invites me, beseeches me.\nMay I, a convinced and self-despairing sinner.\nfind Jesus as the power unto salvation,\nhis death the centre of all relief,\nthe source of all gospel-blessings.\nHelp me to repair to that cross,\nbe crucified to the world by it,\nand in it find deepest humiliation,\nmotives to patience and self-denial,\ngrace for active benevolence,\nfaith to grasp eternal life, hope to lift up my head,\nlove to bind me for ever\nto him who died and rose for me.\nMay his shed blood make me\nmore thankful for thy mercies,\nmore humble under thy correction,\nmore zealous in thy service,\nmore watchful against temptation,\nmore contented in my circumstances,\nmore useful to others."
+  "sortOrder": 43,
+  "content": {
+    "type": "TextContent",
+    "text": "O god op unsearchable greatness,\nBefore thee I am nothing but vanity, iniquity, perishing;\nSin has forfeited thy favour,\nstripped me of thy image,\nbanished me from thy presence,\nexposed me to the curse of thy law;\nI cannot deliver myself, and am in despair.\nBut a resource is found in thee,\nfor without my desert or desire\nthou didst devise an everlasting plan,\nhonourable to thy perfections,\nand which angels desired to look into.\nAnd the Word which announces all the glory of this goodness\nis nigh me, invites me, beseeches me.\nMay I, a convinced and self-despairing sinner.\nfind Jesus as the power unto salvation,\nhis death the centre of all relief,\nthe source of all gospel-blessings.\nHelp me to repair to that cross,\nbe crucified to the world by it,\nand in it find deepest humiliation,\nmotives to patience and self-denial,\ngrace for active benevolence,\nfaith to grasp eternal life, hope to lift up my head,\nlove to bind me for ever\nto him who died and rose for me.\nMay his shed blood make me\nmore thankful for thy mercies,\nmore humble under thy correction,\nmore zealous in thy service,\nmore watchful against temptation,\nmore contented in my circumstances,\nmore useful to others.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 43
+  }
 }

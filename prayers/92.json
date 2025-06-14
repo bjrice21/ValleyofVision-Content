@@ -1,6 +1,25 @@
 {
-  "id": 92,
+  "id": "prayer-92",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "CONFLICT",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "Thou art my protecting arm,\nfortress, refuge, shield, buckler.\nFight for me and my foes must flee;\nUphold me and I cannot fall;\nStrengthen me and I stand unmoved, unmoveable;\nEquip me and I shall receive no wound;\nStand by me and Satan will depart;\nAnoint my lips with a song of salvation\nand I shall shout thy victory;\nGive me abhorrence of all evil,\nas a vile monster that\ndefies thy law, casts off thy yoke,\ndefiles my nature, spreads misery.\nTeach me to look to Jesus on his cross\nand so to know sin's loathsomeness in thy sight\nThere is no pardon but through thy Son's death,\nno cleansing but in his precious blood,\nno atonement but his to expiate evil.\nShow me the shame, the agony, the bruises of incarnate God,\nthat I may read boundless guilt in the boundless price;\nMay I discern the deadly viper in its real malignity,\ntear it with holy indignation from my breast,\nresolutely turn from its every snare,\nrefuse to hold polluting dalliance with it\nBlessed Lord Jesus, at thy cross\nmay I be taught the awful miseries from which I am saved,\nponder what the word 'lost' implies,\nsee the fires of eternal destruction;\nThen may I cling more closely to thy broken self,\nadhere to thee with firmer faith,\nbe devoted to thee with total being,\ndetest sin as strongly as thy love to me is strong,\nAnd may holiness be the atmosphere in which I live."
+  "sortOrder": 92,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou art my protecting arm,\nfortress, refuge, shield, buckler.\nFight for me and my foes must flee;\nUphold me and I cannot fall;\nStrengthen me and I stand unmoved, unmoveable;\nEquip me and I shall receive no wound;\nStand by me and Satan will depart;\nAnoint my lips with a song of salvation\nand I shall shout thy victory;\nGive me abhorrence of all evil,\nas a vile monster that\ndefies thy law, casts off thy yoke,\ndefiles my nature, spreads misery.\nTeach me to look to Jesus on his cross\nand so to know sin's loathsomeness in thy sight\nThere is no pardon but through thy Son's death,\nno cleansing but in his precious blood,\nno atonement but his to expiate evil.\nShow me the shame, the agony, the bruises of incarnate God,\nthat I may read boundless guilt in the boundless price;\nMay I discern the deadly viper in its real malignity,\ntear it with holy indignation from my breast,\nresolutely turn from its every snare,\nrefuse to hold polluting dalliance with it\nBlessed Lord Jesus, at thy cross\nmay I be taught the awful miseries from which I am saved,\nponder what the word 'lost' implies,\nsee the fires of eternal destruction;\nThen may I cling more closely to thy broken self,\nadhere to thee with firmer faith,\nbe devoted to thee with total being,\ndetest sin as strongly as thy love to me is strong,\nAnd may holiness be the atmosphere in which I live.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 92
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 110,
+  "id": "prayer-110",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "MORNING NEEDS",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "O GOD, THE AUTHOR OF ALL GOOD,\nI come to thee for the grace another day will require\nfor its dudes and events.\nI step out into a wicked world,\nI carry about with me an evil heart,\nI know that without thee I can do nothing,\nthat everything with which I shall be concerned,\nhowever harmless in itself,\nmay prove an occasion of sin or folly,\nunless I am kept by thy power.\nHold thou me up and I shall be safe.\nPreserve my understanding from subtilty of error,\nmy affections from love of idols,\nmy character from stain of vice,\nmy profession from every form of evil.\nMay I engage in nothing in which I cannot implore thy blessing,\nand in which I cannot invite thy inspection.\nProsper me in all lawful undertakings,\nor prepare me for disappointments;\nGive me neither poverty nor riches;\nFeed me with food convenient for me,\nlest I be full and deny thee\nand say, Who is the Lord?\nor be poor, and steal, and take thy name in vain.\nMay every creature be made good to me by prayer and thy will\nTeach me how to use the world, and not abuse it,\nto improve my talents,\nto redeem my time,\nto walk in wisdom toward those without,\nand in kindness to those within,\nto do good to all men,\nand especially to my fellow Christians.\nAnd to thee be the glory."
+  "sortOrder": 110,
+  "content": {
+    "type": "TextContent",
+    "text": "O GOD, THE AUTHOR OF ALL GOOD,\nI come to thee for the grace another day will require\nfor its dudes and events.\nI step out into a wicked world,\nI carry about with me an evil heart,\nI know that without thee I can do nothing,\nthat everything with which I shall be concerned,\nhowever harmless in itself,\nmay prove an occasion of sin or folly,\nunless I am kept by thy power.\nHold thou me up and I shall be safe.\nPreserve my understanding from subtilty of error,\nmy affections from love of idols,\nmy character from stain of vice,\nmy profession from every form of evil.\nMay I engage in nothing in which I cannot implore thy blessing,\nand in which I cannot invite thy inspection.\nProsper me in all lawful undertakings,\nor prepare me for disappointments;\nGive me neither poverty nor riches;\nFeed me with food convenient for me,\nlest I be full and deny thee\nand say, Who is the Lord?\nor be poor, and steal, and take thy name in vain.\nMay every creature be made good to me by prayer and thy will\nTeach me how to use the world, and not abuse it,\nto improve my talents,\nto redeem my time,\nto walk in wisdom toward those without,\nand in kindness to those within,\nto do good to all men,\nand especially to my fellow Christians.\nAnd to thee be the glory.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 110
+  }
 }

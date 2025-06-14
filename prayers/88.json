@@ -1,6 +1,25 @@
 {
-  "id": 88,
+  "id": "prayer-88",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "CRUCIFIXION AND RESURRECTION",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "I marvel that thou shouldst become incarnate,\nbe crucified, dead, and buried.\nThe sepulchre calls forth my adoring wonder,\nfor it is empty and thou art risen;\nthe four-fold gospel attests it,\nthe living witnesses prove it,\nmy heart's experience knows it.\nGive me to die with thee that I may rise to new life,\nfor I wish to be as dead and buried\nto sin, to selfishness, to the world;\nthat I might not hear the voice of the charmer,\nand might be delivered from his lusts.\nO Lord, there is much ill about me - crucify it,\nmuch flesh within me - mortify it.\nPurge me from selfishness, the fear of man, the love of approbation,\nthe shame of being thought old-fashioned,\nthe desire to be cultivated or modern.\nLet me reckon my old life dead because of crucifixion,\nand never feed it as a living thing.\nGrant me to stand with my dying Saviour,\nto be content to be rejected,\nto be willing to take up unpopular truths,\nand to hold fast despised teachings until death.\nHelp me to be resolute and Christ-contained.\nNever let me wander from the path of obedience to thy will.\nStrengthen me for the battles ahead.\nGive me courage for all the trials, and grace for all the joys.\nHelp me to be a holy, happy person,\nfree from every wrong desire,\nfrom everything contrary to thy mind.\nGrant me more and more of the resurrection life:\nmay it rule me,\nmay I walk in its power, and be strengthened through its influence."
+  "sortOrder": 88,
+  "content": {
+    "type": "TextContent",
+    "text": "I marvel that thou shouldst become incarnate,\nbe crucified, dead, and buried.\nThe sepulchre calls forth my adoring wonder,\nfor it is empty and thou art risen;\nthe four-fold gospel attests it,\nthe living witnesses prove it,\nmy heart's experience knows it.\nGive me to die with thee that I may rise to new life,\nfor I wish to be as dead and buried\nto sin, to selfishness, to the world;\nthat I might not hear the voice of the charmer,\nand might be delivered from his lusts.\nO Lord, there is much ill about me - crucify it,\nmuch flesh within me - mortify it.\nPurge me from selfishness, the fear of man, the love of approbation,\nthe shame of being thought old-fashioned,\nthe desire to be cultivated or modern.\nLet me reckon my old life dead because of crucifixion,\nand never feed it as a living thing.\nGrant me to stand with my dying Saviour,\nto be content to be rejected,\nto be willing to take up unpopular truths,\nand to hold fast despised teachings until death.\nHelp me to be resolute and Christ-contained.\nNever let me wander from the path of obedience to thy will.\nStrengthen me for the battles ahead.\nGive me courage for all the trials, and grace for all the joys.\nHelp me to be a holy, happy person,\nfree from every wrong desire,\nfrom everything contrary to thy mind.\nGrant me more and more of the resurrection life:\nmay it rule me,\nmay I walk in its power, and be strengthened through its influence.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 88
+  }
 }

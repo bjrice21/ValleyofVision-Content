@@ -1,6 +1,25 @@
 {
-  "id": 161,
+  "id": "prayer-161",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "HUMILITY IN SERVICE",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "I humble myself for faculties misused,\nopportunities neglected,\nwords ill-advised,\nI repent of my folly and inconsiderate ways,\nmy broken resolutions, untrue service,\nmy backsliding steps,\nmy vain thoughts.\nO bury my sins in the ocean of Jesus' blood\nand let no evil result from my fretful temper,\nunseemly behaviour, provoking pettiness.\nIf by unkindness I have wounded or hurt another,\ndo thou pour in the balm of heavenly consolation;\nIf I have turned coldly from need, misery, grief,\ndo not in just anger forsake me;\nIf I have withheld relief from penury and pain,\ndo not withhold thy gracious bounty from me.\nIf I have shunned those who have offended me,\nkeep open the door of thy heart to my need.\nFill me with an over-flowing ocean of compassion,\nthe reign of love my motive,\nthe law of love my rule.\nO thou God of all grace, make me more thankful, more humble;\nInspire me with a deep sense of my unworthiness arising from\nthe depravity of my nature, my omitted duties,\nmy unimproved advantages, thy commands violated by me.\nWith all my calls to gratitude and joy may I remember\nthat I have reason for sorrow and humiliation;\nO give me repentance unto life;\nCement my oneness with my blessed Lord,\nthat faith may adhere to him more immovably,\nthat love may entwine itself round him more tightly,\nthat his spirit may pervade every fibre of my being.\nThen send me out to make him known to my fellow-men."
+  "sortOrder": 161,
+  "content": {
+    "type": "TextContent",
+    "text": "I humble myself for faculties misused,\nopportunities neglected,\nwords ill-advised,\nI repent of my folly and inconsiderate ways,\nmy broken resolutions, untrue service,\nmy backsliding steps,\nmy vain thoughts.\nO bury my sins in the ocean of Jesus' blood\nand let no evil result from my fretful temper,\nunseemly behaviour, provoking pettiness.\nIf by unkindness I have wounded or hurt another,\ndo thou pour in the balm of heavenly consolation;\nIf I have turned coldly from need, misery, grief,\ndo not in just anger forsake me;\nIf I have withheld relief from penury and pain,\ndo not withhold thy gracious bounty from me.\nIf I have shunned those who have offended me,\nkeep open the door of thy heart to my need.\nFill me with an over-flowing ocean of compassion,\nthe reign of love my motive,\nthe law of love my rule.\nO thou God of all grace, make me more thankful, more humble;\nInspire me with a deep sense of my unworthiness arising from\nthe depravity of my nature, my omitted duties,\nmy unimproved advantages, thy commands violated by me.\nWith all my calls to gratitude and joy may I remember\nthat I have reason for sorrow and humiliation;\nO give me repentance unto life;\nCement my oneness with my blessed Lord,\nthat faith may adhere to him more immovably,\nthat love may entwine itself round him more tightly,\nthat his spirit may pervade every fibre of my being.\nThen send me out to make him known to my fellow-men.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 161
+  }
 }

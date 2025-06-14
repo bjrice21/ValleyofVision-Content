@@ -1,6 +1,25 @@
 {
-  "id": 155,
+  "id": "prayer-155",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE GRACE OF THE CROSS",
+  "subtitle": null,
+  "description": null,
   "section": "Gifts of Grace",
-  "content": "O MY SAVIOUR,\nI thank thee from the depths of my being\nfor thy wondrous grace and love\nin bearing my sin in thine own body on the tree.\nMay thy cross be to me\nas the tree that sweetens my bitter Marahs,\nas the rod that blossoms with life and beauty,\nas the brazen serpent that calls forth the look of faith.\nBy thy cross crucify my every sin;\nUse it to increase my intimacy with thyself;\nMake it the ground of all my comfort,\nthe liveliness of all my duties,\nthe sum of all thy gospel promises,\nthe comfort of all my afflictions,\nthe vigour of my love, thankfulness, graces, the very essence of my religion; And by it give me that rest without rest, the rest of ceaseless praise.\nO MY LORD AND SAVIOUR,\nThou hast also appointed a cross for me to take up and carry,\na cross before thou givest me a crown.\nThou hast appointed it to be my portion,\nbut self-love hates it,\ncarnal reason is unreconciled to it;\nwithout the grace of patience I cannot bear it,\nwalk with it, profit by it.\nO blessed cross, what mercies dost thou bring with thee!\nThou art only esteemed hateful by my rebel will,\nheavy because I shirk thy load.\nTeach me, gracious Lord and Saviour,\nthat with my cross thou sendest promised grace\nso that I may bear it patiently,\nthat my cross is thy yoke which is easy,\nand thy burden which is light."
+  "sortOrder": 155,
+  "content": {
+    "type": "TextContent",
+    "text": "O MY SAVIOUR,\nI thank thee from the depths of my being\nfor thy wondrous grace and love\nin bearing my sin in thine own body on the tree.\nMay thy cross be to me\nas the tree that sweetens my bitter Marahs,\nas the rod that blossoms with life and beauty,\nas the brazen serpent that calls forth the look of faith.\nBy thy cross crucify my every sin;\nUse it to increase my intimacy with thyself;\nMake it the ground of all my comfort,\nthe liveliness of all my duties,\nthe sum of all thy gospel promises,\nthe comfort of all my afflictions,\nthe vigour of my love, thankfulness, graces, the very essence of my religion; And by it give me that rest without rest, the rest of ceaseless praise.\nO MY LORD AND SAVIOUR,\nThou hast also appointed a cross for me to take up and carry,\na cross before thou givest me a crown.\nThou hast appointed it to be my portion,\nbut self-love hates it,\ncarnal reason is unreconciled to it;\nwithout the grace of patience I cannot bear it,\nwalk with it, profit by it.\nO blessed cross, what mercies dost thou bring with thee!\nThou art only esteemed hateful by my rebel will,\nheavy because I shirk thy load.\nTeach me, gracious Lord and Saviour,\nthat with my cross thou sendest promised grace\nso that I may bear it patiently,\nthat my cross is thy yoke which is easy,\nand thy burden which is light.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 155
+  }
 }

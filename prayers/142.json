@@ -1,6 +1,25 @@
 {
-  "id": 142,
+  "id": "prayer-142",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "BLESSINGS",
+  "subtitle": null,
+  "description": null,
   "section": "Gifts of Grace",
-  "content": "THOU GREAT THREE-ONE,\nAuthor of all blessings I enjoy, of all I hope for,\nThou hast taught me\nthat neither the experience of present evils,\nnor the remembrances of former sins,\nnor the remonstrances of friends,\nwill or can affect a sinner's heart,\nexcept thou vouchsafe to reveal thy grace\nand quicken the dead in sin\nby the effectual working of thy Spirit's power.\nThou hast shown me\nthat the sensible effusions of divine love in the soul\nare superior to and distinct from bodily health,\nand that oft-times spiritual comforts are at their highest\nwhen physical well-being is at its lowest.\nThou hast given me the ordinance of song as a means of grace\nFit me to bear my part in that music ever new,\nwhich elect angels and saints made perfect\nnow sing before thy throne and before the Lamb.\nI bless thee for tempering every distress with joy;\ntoo much of the former might weigh me down,\ntoo much of the latter might puff me up;\nThou art wise to give me a taste of both.\nI love thee\nfor giving me clusters of grapes in the wilderness,\nand drops of heavenly wine\nthat set me longing to have my fill\nApart from thee I quickly die,\nbereft of thee I starve,\nfar from thee I thirst and droop; But thou art all I need.\nLet me continually grasp the promise,\nT will never leave thee nor forsake thee.'"
+  "sortOrder": 142,
+  "content": {
+    "type": "TextContent",
+    "text": "THOU GREAT THREE-ONE,\nAuthor of all blessings I enjoy, of all I hope for,\nThou hast taught me\nthat neither the experience of present evils,\nnor the remembrances of former sins,\nnor the remonstrances of friends,\nwill or can affect a sinner's heart,\nexcept thou vouchsafe to reveal thy grace\nand quicken the dead in sin\nby the effectual working of thy Spirit's power.\nThou hast shown me\nthat the sensible effusions of divine love in the soul\nare superior to and distinct from bodily health,\nand that oft-times spiritual comforts are at their highest\nwhen physical well-being is at its lowest.\nThou hast given me the ordinance of song as a means of grace\nFit me to bear my part in that music ever new,\nwhich elect angels and saints made perfect\nnow sing before thy throne and before the Lamb.\nI bless thee for tempering every distress with joy;\ntoo much of the former might weigh me down,\ntoo much of the latter might puff me up;\nThou art wise to give me a taste of both.\nI love thee\nfor giving me clusters of grapes in the wilderness,\nand drops of heavenly wine\nthat set me longing to have my fill\nApart from thee I quickly die,\nbereft of thee I starve,\nfar from thee I thirst and droop; But thou art all I need.\nLet me continually grasp the promise,\nT will never leave thee nor forsake thee.'",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 142
+  }
 }

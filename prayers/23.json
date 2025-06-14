@@ -1,6 +1,25 @@
 {
-  "id": 23,
+  "id": "prayer-23",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "JESUS MY GLORY",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "Thou hast commanded me to believe in Jesus;\nand I would flee to no other refuge,\nwash in no other fountain,\nbuild on no other foundation,\nreceive from no other fullness,\nrest in no other relief.\nHis water and blood were not severed in their flow at the cross,\nmay they never be separated in my creed and experiences;\nMay I be equally convinced of the guilt and pollution of sin,\nfeel my need of a prince and saviour,\nimplore of him repentance as well as forgiveness,\nlove holiness, and be pure in heart,\nhave the mind of Jesus, and tread in his steps.\nLet me not be at my own disposal,\nbut rejoice that I am under the care of one\nwho is too wise to err,\ntoo kind to injure,\ntoo tender to crush.\nMay I scandalize none by my temper and conduct, but\nrecommend and endear Christ to all around,\nbestow good on every one as circumstances permit,\nand decline no opportunity of usefulness.\nGrant that I may value my substance,\nnot as the medium of pride and luxury,\nbut as the means of my support and stewardship.\nHelp me to guide my affections with discretion,\nto owe no man anything,\nto be able to give to him that needeth,\nto feel it my duty and pleasure to be merciful and forgiving,\nto show to the world the likeness of Jesus."
+  "sortOrder": 23,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou hast commanded me to believe in Jesus;\nand I would flee to no other refuge,\nwash in no other fountain,\nbuild on no other foundation,\nreceive from no other fullness,\nrest in no other relief.\nHis water and blood were not severed in their flow at the cross,\nmay they never be separated in my creed and experiences;\nMay I be equally convinced of the guilt and pollution of sin,\nfeel my need of a prince and saviour,\nimplore of him repentance as well as forgiveness,\nlove holiness, and be pure in heart,\nhave the mind of Jesus, and tread in his steps.\nLet me not be at my own disposal,\nbut rejoice that I am under the care of one\nwho is too wise to err,\ntoo kind to injure,\ntoo tender to crush.\nMay I scandalize none by my temper and conduct, but\nrecommend and endear Christ to all around,\nbestow good on every one as circumstances permit,\nand decline no opportunity of usefulness.\nGrant that I may value my substance,\nnot as the medium of pride and luxury,\nbut as the means of my support and stewardship.\nHelp me to guide my affections with discretion,\nto owe no man anything,\nto be able to give to him that needeth,\nto feel it my duty and pleasure to be merciful and forgiving,\nto show to the world the likeness of Jesus.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 23
+  }
 }

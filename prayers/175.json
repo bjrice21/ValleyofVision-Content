@@ -1,6 +1,25 @@
 {
-  "id": 175,
+  "id": "prayer-175",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE LORD'S DAY",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "O LORD MY LORD,\nthis is thy day,\nthe heavenly ordinance of rest,\nthe open door of worship,\nthe record of Jesus' resurrection,\nthe seal of the sabbath to come,\nthe day when saints militant and triumphant unite in endless song.\nI bless thee for the throne of grace,\nthat here free favour reigns;\nthat open access to it is through the blood of Jesus;\nthat the veil is torn aside and I can enter the holiest\nand find thee ready to hear,\nwaiting to be gracious,\ninviting me to pour out my needs,\nencouraging my desires, promising to give more than I ask or think.\nBut while I bless thee, shame and confusion are mine:\nI remember my past misuse of sacred things,\nmy irreverent worship,\nmy base ingratitude,\nmy cold, dull praise.\nSprinkle all my past sabbaths with the cleansing blood of Jesus,\nand may this day witness deep improvement in me.\nGive me in rich abundance\nthe blessings the Lord's Day was designed to impart;\nMay my heart be fast bound against worldly thoughts or cares;\nFlood my mind with peace beyond understanding;\nmay my meditations be sweet,\nmy acts of worship life, liberty, joy,\nmy drink the streams that flow from thy throne,\nmy food the precious Word,\nmy defence the shield of faith,\nand may my heart be more knit to Jesus."
+  "sortOrder": 175,
+  "content": {
+    "type": "TextContent",
+    "text": "O LORD MY LORD,\nthis is thy day,\nthe heavenly ordinance of rest,\nthe open door of worship,\nthe record of Jesus' resurrection,\nthe seal of the sabbath to come,\nthe day when saints militant and triumphant unite in endless song.\nI bless thee for the throne of grace,\nthat here free favour reigns;\nthat open access to it is through the blood of Jesus;\nthat the veil is torn aside and I can enter the holiest\nand find thee ready to hear,\nwaiting to be gracious,\ninviting me to pour out my needs,\nencouraging my desires, promising to give more than I ask or think.\nBut while I bless thee, shame and confusion are mine:\nI remember my past misuse of sacred things,\nmy irreverent worship,\nmy base ingratitude,\nmy cold, dull praise.\nSprinkle all my past sabbaths with the cleansing blood of Jesus,\nand may this day witness deep improvement in me.\nGive me in rich abundance\nthe blessings the Lord's Day was designed to impart;\nMay my heart be fast bound against worldly thoughts or cares;\nFlood my mind with peace beyond understanding;\nmay my meditations be sweet,\nmy acts of worship life, liberty, joy,\nmy drink the streams that flow from thy throne,\nmy food the precious Word,\nmy defence the shield of faith,\nand may my heart be more knit to Jesus.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 175
+  }
 }

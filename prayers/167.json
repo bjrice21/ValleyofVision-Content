@@ -1,6 +1,25 @@
 {
-  "id": 167,
+  "id": "prayer-167",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A MINISTER'S PRAYER",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "Let not my ministry be approved only by men,\nor merely win the esteem and affections of people;\nBut do the work of grace in their hearts,\ncall in thy elect,\nseal and edify the regenerate ones,\nand command eternal blessings on their souls.\nSave me from self-opinion and self-seeking;\nWater the hearts of those who hear thy Word,\nthat seed sown in weakness may be raised in power;\nCause me and those that hear me\nto behold thee here in the light of special faith,\nand hereafter in the blaze of endless glory;\nMake my every sermon a means of grace to myself,\nand help me to experience the power of thy dying love,\nfor thy blood is balm,\nthy presence bliss,\nthy smile heaven,\nthy cross the place where truth and mercy meet.\nLook upon the doubts and discouragements of my ministry\nand keep me from self-importance;\nI beg pardon for my many sins, omissions, infirmities,\nas a man, as a minister;\nCommand thy blessing on my weak, unworthy labours,\nand on the message of salvation given;\nStay with thy people,\nand may thy presence be their portion and mine.\nWhen I preach to others let not my words be merely elegant and\nmasterly,\nmy reasoning polished and refined,\nmy performance powerless and tasteless,\nbut may I exalt thee and bumble sinners.\nO Lord of power and grace,\nall hearts are in thy hands, all events at thy disposal,\nset the seal of thy almighty will upon my ministry."
+  "sortOrder": 167,
+  "content": {
+    "type": "TextContent",
+    "text": "Let not my ministry be approved only by men,\nor merely win the esteem and affections of people;\nBut do the work of grace in their hearts,\ncall in thy elect,\nseal and edify the regenerate ones,\nand command eternal blessings on their souls.\nSave me from self-opinion and self-seeking;\nWater the hearts of those who hear thy Word,\nthat seed sown in weakness may be raised in power;\nCause me and those that hear me\nto behold thee here in the light of special faith,\nand hereafter in the blaze of endless glory;\nMake my every sermon a means of grace to myself,\nand help me to experience the power of thy dying love,\nfor thy blood is balm,\nthy presence bliss,\nthy smile heaven,\nthy cross the place where truth and mercy meet.\nLook upon the doubts and discouragements of my ministry\nand keep me from self-importance;\nI beg pardon for my many sins, omissions, infirmities,\nas a man, as a minister;\nCommand thy blessing on my weak, unworthy labours,\nand on the message of salvation given;\nStay with thy people,\nand may thy presence be their portion and mine.\nWhen I preach to others let not my words be merely elegant and\nmasterly,\nmy reasoning polished and refined,\nmy performance powerless and tasteless,\nbut may I exalt thee and bumble sinners.\nO Lord of power and grace,\nall hearts are in thy hands, all events at thy disposal,\nset the seal of thy almighty will upon my ministry.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 167
+  }
 }

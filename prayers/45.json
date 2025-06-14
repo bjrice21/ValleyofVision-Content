@@ -1,6 +1,25 @@
 {
-  "id": 45,
+  "id": "prayer-45",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "RESURRECTION",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "o god of my exodus,\nGreat was the joy of Israel's sons\nwhen Egypt died upon the shore,\nFar greater the joy\nwhen the redeemer's foe lay crushed in the dust.\nJesus strides forth as the victor,\nconqueror of death, hell, and all opposing might;\nHe bursts the bands of death,\ntramples the powers of darkness down,\nand lives for ever.\nHe, my gracious surety,\napprehended for payment of my debt,\ncomes forth from the prison house of the grave\nfree, and triumphant over sin, Satan, and death.\nShow me herein the proof that his vicarious offering is accepted,\nthat the claims of justice are satisfied,\nthat the devil's sceptre is shivered,\nthat his wrongful throne is levelled.\nGive me the assurance that in Christ I died, in him I rose,\nin his life I live, in his victory I triumph,\nin his ascension I shall be glorified.\nAdorable redeemer,\nthou who wast lifted up upon a cross\nart ascended to highest heaven.\nThou, who as man of sorrows wast crowned with thorns,\nart now as Lord of life wreathed with glory.\nOnce, no shame more deep than thine,\nno agony more bitter, no death more cruel.\nNow, no exaltation more high,\nno life more glorious, no advocate more effective.\nThou art in the triumph car leading captive thine enemies behind thee.\nWhat more could be done than thou hast done!\nThy death is my life, thy resurrection my peace,\nthy ascension my hope, thy prayers my comfort."
+  "sortOrder": 45,
+  "content": {
+    "type": "TextContent",
+    "text": "o god of my exodus,\nGreat was the joy of Israel's sons\nwhen Egypt died upon the shore,\nFar greater the joy\nwhen the redeemer's foe lay crushed in the dust.\nJesus strides forth as the victor,\nconqueror of death, hell, and all opposing might;\nHe bursts the bands of death,\ntramples the powers of darkness down,\nand lives for ever.\nHe, my gracious surety,\napprehended for payment of my debt,\ncomes forth from the prison house of the grave\nfree, and triumphant over sin, Satan, and death.\nShow me herein the proof that his vicarious offering is accepted,\nthat the claims of justice are satisfied,\nthat the devil's sceptre is shivered,\nthat his wrongful throne is levelled.\nGive me the assurance that in Christ I died, in him I rose,\nin his life I live, in his victory I triumph,\nin his ascension I shall be glorified.\nAdorable redeemer,\nthou who wast lifted up upon a cross\nart ascended to highest heaven.\nThou, who as man of sorrows wast crowned with thorns,\nart now as Lord of life wreathed with glory.\nOnce, no shame more deep than thine,\nno agony more bitter, no death more cruel.\nNow, no exaltation more high,\nno life more glorious, no advocate more effective.\nThou art in the triumph car leading captive thine enemies behind thee.\nWhat more could be done than thou hast done!\nThy death is my life, thy resurrection my peace,\nthy ascension my hope, thy prayers my comfort.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 45
+  }
 }

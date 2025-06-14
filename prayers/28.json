@@ -1,6 +1,25 @@
 {
-  "id": 28,
+  "id": "prayer-28",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "GOD THE SPIRIT",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "I pray not so much for graces as for the Spirit himself,\nbecause I feel his absence,\nand act by my own spirit in everything.\nGive me not weak desires but the power of his presence,\nfor this is the surest way to have all his graces,\nand when I have the seal I have the impression also;\nHe can heal, help, quicken, humble suddenly and easily,\ncan work grace and life effectually,\nand being eternal he can give grace eternally.\nSave me from great hindrances,\nfrom being content with a little measure of the Spirit,\nfrom thinking thou wilt not give me more.\nWhen I feel my lack of him, light up life and faith,\nfor when I lose thee I am either in the dark and cannot see thee,\nor Satan and my natural abilities content me with a little light,\nso that I seek no further for the Spirit of life.\nTeach me then what to do.\nShould I merely humble myself and not stir up my heart?\nShould I meditate and use all means to bring him near,\nnot being contented by one means,\nbut trust him to give me a blessing by the use of all,\ndepending only upon, and waiting always for, thy light, by use\nof means?\nIs it a duty or an error to pray\nand look for the fullness of the Spirit in me?\nAm I mistaken in feeling I am empty of the Spirit\nbecause I do not sense his presence within,\nwhen all the time I am most empty\nand could be more full by faith in Christ?\nWas the fullness of the Spirit in the apostles\nchiefly a power,\ngiving them subsistence outside themselves in Christ,\nin whom was their life and joy?\nTeach me to find and know fullness of the Spirit only in Jesus."
+  "sortOrder": 28,
+  "content": {
+    "type": "TextContent",
+    "text": "I pray not so much for graces as for the Spirit himself,\nbecause I feel his absence,\nand act by my own spirit in everything.\nGive me not weak desires but the power of his presence,\nfor this is the surest way to have all his graces,\nand when I have the seal I have the impression also;\nHe can heal, help, quicken, humble suddenly and easily,\ncan work grace and life effectually,\nand being eternal he can give grace eternally.\nSave me from great hindrances,\nfrom being content with a little measure of the Spirit,\nfrom thinking thou wilt not give me more.\nWhen I feel my lack of him, light up life and faith,\nfor when I lose thee I am either in the dark and cannot see thee,\nor Satan and my natural abilities content me with a little light,\nso that I seek no further for the Spirit of life.\nTeach me then what to do.\nShould I merely humble myself and not stir up my heart?\nShould I meditate and use all means to bring him near,\nnot being contented by one means,\nbut trust him to give me a blessing by the use of all,\ndepending only upon, and waiting always for, thy light, by use\nof means?\nIs it a duty or an error to pray\nand look for the fullness of the Spirit in me?\nAm I mistaken in feeling I am empty of the Spirit\nbecause I do not sense his presence within,\nwhen all the time I am most empty\nand could be more full by faith in Christ?\nWas the fullness of the Spirit in the apostles\nchiefly a power,\ngiving them subsistence outside themselves in Christ,\nin whom was their life and joy?\nTeach me to find and know fullness of the Spirit only in Jesus.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 28
+  }
 }

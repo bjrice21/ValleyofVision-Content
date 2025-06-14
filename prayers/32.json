@@ -1,6 +1,25 @@
 {
-  "id": 32,
+  "id": "prayer-32",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE GOSPEL WAY",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "No human mind could conceive or invent the gospel.\nActing in eternal grace, thou art both its messenger and its message,\nlived out on earth through infinite compassion,\napplying thy life to insult, injury, death,\nthat I might be redeemed, ransomed, freed.\nBlessed be thou, O Father, for contriving this way,\nEternal thanks to thee, O Lamb of God, for opening this way,\nPraise everlasting to thee, O Holy Spirit,\nfor applying this way to my heart.\nGlorious Trinity, impress the gospel on my soul,\nuntil its virtue diffuses every faculty;\nLet it be heard, acknowledged, professed, felt.\nTeach me to secure this mighty blessing;\nHelp me to give up every darling lust,\nto submit heart and life to its command,\nto have it in my will,\ncontrolling my affections,\nmoulding my understanding;\nto adhere strictly to the rules of true religion,\nnot departing from them in any instance,\nnor for any advantage in order to escape evil,\ninconvenience or danger.\nTake me to the cross to seek glory from its infamy;\nStrip me of every pleasing pretence of righteousness by my own\ndoings.\nO gracious redeemer,\nI have neglected thee too long,\noften crucified thee,\ncrucified thee afresh by my impenitence,\nput thee to open shame.\nI thank thee for the patience that has borne with me so long,\nand for the grace that now makes me willing to be thine.\nO unite me to thyself with inseparable bonds,\nthat nothing may ever draw me back from thee, my Lord, my\nSaviour."
+  "sortOrder": 32,
+  "content": {
+    "type": "TextContent",
+    "text": "No human mind could conceive or invent the gospel.\nActing in eternal grace, thou art both its messenger and its message,\nlived out on earth through infinite compassion,\napplying thy life to insult, injury, death,\nthat I might be redeemed, ransomed, freed.\nBlessed be thou, O Father, for contriving this way,\nEternal thanks to thee, O Lamb of God, for opening this way,\nPraise everlasting to thee, O Holy Spirit,\nfor applying this way to my heart.\nGlorious Trinity, impress the gospel on my soul,\nuntil its virtue diffuses every faculty;\nLet it be heard, acknowledged, professed, felt.\nTeach me to secure this mighty blessing;\nHelp me to give up every darling lust,\nto submit heart and life to its command,\nto have it in my will,\ncontrolling my affections,\nmoulding my understanding;\nto adhere strictly to the rules of true religion,\nnot departing from them in any instance,\nnor for any advantage in order to escape evil,\ninconvenience or danger.\nTake me to the cross to seek glory from its infamy;\nStrip me of every pleasing pretence of righteousness by my own\ndoings.\nO gracious redeemer,\nI have neglected thee too long,\noften crucified thee,\ncrucified thee afresh by my impenitence,\nput thee to open shame.\nI thank thee for the patience that has borne with me so long,\nand for the grace that now makes me willing to be thine.\nO unite me to thyself with inseparable bonds,\nthat nothing may ever draw me back from thee, my Lord, my\nSaviour.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 32
+  }
 }

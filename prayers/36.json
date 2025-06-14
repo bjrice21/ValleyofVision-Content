@@ -1,6 +1,25 @@
 {
-  "id": 36,
+  "id": "prayer-36",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "GOD AND MYSELF",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "Thy understanding is unsearchable and infinite,\nThy arm cannot be stayed,\nThy agency extends through limitless space,\nAll works hang on thy care,\nWith thee time is a present now.\nHoly is thy wisdom, power, mercy, ways, works.\nHow can I stand before thee\nwith my numberless and aggravated offences?\nI have often loved darkness,\nobserved lying vanities,\nforsaken thy given mercies,\ntrampled underfoot thy beloved Son,\nmocked thy providences,\nflattered thee with my lips,\nbroken thy covenant.\nIt is of thy compassion that I am not consumed.\nLead me to repentance, and save me from despair;\nLet me come to thee renouncing, condemning, loathing myself,\nbut hoping in the grace that flows even to the chief of sinners.\nAt the cross may I contemplate the evil of sin, and abhor it,\nlook on him whom I pierced,\nas one slain for me, and by me.\nMay I never despise his death by fearing its efficacy for my salvation.\nAnd whatever cross I am required to bear',\nlet me see him carrying a heavier.\nTeach me in health to think of sickness,\nin the brightest hours to be ready for darkness;\nin life prepare me for death.\nThus may my soul rest in thee, O immortal and transcendent one,\nrevealed as thou art in the Person and work of thy Son,\nthe friend of sinners."
+  "sortOrder": 36,
+  "content": {
+    "type": "TextContent",
+    "text": "Thy understanding is unsearchable and infinite,\nThy arm cannot be stayed,\nThy agency extends through limitless space,\nAll works hang on thy care,\nWith thee time is a present now.\nHoly is thy wisdom, power, mercy, ways, works.\nHow can I stand before thee\nwith my numberless and aggravated offences?\nI have often loved darkness,\nobserved lying vanities,\nforsaken thy given mercies,\ntrampled underfoot thy beloved Son,\nmocked thy providences,\nflattered thee with my lips,\nbroken thy covenant.\nIt is of thy compassion that I am not consumed.\nLead me to repentance, and save me from despair;\nLet me come to thee renouncing, condemning, loathing myself,\nbut hoping in the grace that flows even to the chief of sinners.\nAt the cross may I contemplate the evil of sin, and abhor it,\nlook on him whom I pierced,\nas one slain for me, and by me.\nMay I never despise his death by fearing its efficacy for my salvation.\nAnd whatever cross I am required to bear',\nlet me see him carrying a heavier.\nTeach me in health to think of sickness,\nin the brightest hours to be ready for darkness;\nin life prepare me for death.\nThus may my soul rest in thee, O immortal and transcendent one,\nrevealed as thou art in the Person and work of thy Son,\nthe friend of sinners.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 36
+  }
 }

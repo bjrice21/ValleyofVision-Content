@@ -1,6 +1,25 @@
 {
-  "id": 190,
+  "id": "prayer-190",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THIRD DAY EVENING BEFORE SLEEP",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "GOD OF ALL SOVEREIGNTY,\nThy greatness is unsearchable,\nThy name most excellent,\nThy glory above the heavens;\nTen thousand minister to thee,\nTen thousand times ten thousand stand before thee;\nIn thy awful presence we are less than nothing.\nWe do not approach thee because we deserve thy notice,\nfor we are sinners;\nOur necessities compel us,\nThy promises encourage us,\nOur broken hearts incite us, The mediator draws us,\nThy acceptance of others moves us.\nLook thou upon us and be merciful unto us;\nConvince us of the penalty and pollution of sin;\nGive us faith to believe, and, believing, to have life in Jesus;\nMay we enter into his sufferings;\nLet us see thy hand in the instruments of our grief,\nrejoicing that they are from thy over-ruling providence.\nLet not our weeping hinder sowing; nor sorrow, duty.\nWhile living in a world of change let us seek the abiding city.\nBe with us to our journey's end\nthat we may glorify thee in death as in life.\nWe bless thee for preservation, supplies, mercies,\nand to thee, keeper of souls, we commit all we are and have.\nMay no evil befall us, no sickness come nigh us,\nno horror disturb us!\nMay our conscience be clear, our hearts pure, our sleep sweet!\nAnd with the innumerable company who neither slumber nor rest\nwe join in ascribing blessing, honour, glory and power\nto the Lamb upon the throne, for ever and ever"
+  "sortOrder": 190,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD OF ALL SOVEREIGNTY,\nThy greatness is unsearchable,\nThy name most excellent,\nThy glory above the heavens;\nTen thousand minister to thee,\nTen thousand times ten thousand stand before thee;\nIn thy awful presence we are less than nothing.\nWe do not approach thee because we deserve thy notice,\nfor we are sinners;\nOur necessities compel us,\nThy promises encourage us,\nOur broken hearts incite us, The mediator draws us,\nThy acceptance of others moves us.\nLook thou upon us and be merciful unto us;\nConvince us of the penalty and pollution of sin;\nGive us faith to believe, and, believing, to have life in Jesus;\nMay we enter into his sufferings;\nLet us see thy hand in the instruments of our grief,\nrejoicing that they are from thy over-ruling providence.\nLet not our weeping hinder sowing; nor sorrow, duty.\nWhile living in a world of change let us seek the abiding city.\nBe with us to our journey's end\nthat we may glorify thee in death as in life.\nWe bless thee for preservation, supplies, mercies,\nand to thee, keeper of souls, we commit all we are and have.\nMay no evil befall us, no sickness come nigh us,\nno horror disturb us!\nMay our conscience be clear, our hearts pure, our sleep sweet!\nAnd with the innumerable company who neither slumber nor rest\nwe join in ascribing blessing, honour, glory and power\nto the Lamb upon the throne, for ever and ever",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 190
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 82,
+  "id": "prayer-82",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "PRIDE",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "O THOU TERRIBLE MEEK,\nLet not pride swell my heart\nMy nature is the mire beneath my feet\nthe dust to which I shall return.\nIn body I surpass not the meanest reptile;\nWhatever difference of form and intellect is mine,\nis a free grant of thy goodness;\nEvery faculty of mind and body is thy undeserved gift\nLow as I am as a creature, I am lower as a sinner;\nI have trampled thy law times without number;\nSin's deformity is stamped upon me,\ndarkens my brow, touches me with corruption:\nHow can I flaunt myself proudly?\nLowest abasement is my due place,\nfor I am less than nothing before thee.\nHelp me to see myself in thy sight,\nthen pride must wither, decay, die, perish.\nHumble my heart before thee,\nand replenish it with thy choicest gifts.\nAs water rests not on barren hill summits,\nbut flows down to fertilize lowest vales,\nSo make me the lowest of the lowly,\nthat my spiritual riches may exceedingly abound.\nWhen I leave duties undone,\nmay condemning thought strip me of pride,\ndeepen in me devotion to thy service,\nand quicken me to more watchful care.\nWhen I am tempted to think highly of myself,\ngrant me to see the wily power of my spiritual enemy;\nHelp me to stand with wary eye on the watch-tower of faith,\nand to cling with determined grasp to my humble Lord;\nIf I fall let me hide myself in my redeemer's righteousness,\nand when I escape, may I ascribe all deliverance to thy grace.\nKeep me humble, meek, lowly."
+  "sortOrder": 82,
+  "content": {
+    "type": "TextContent",
+    "text": "O THOU TERRIBLE MEEK,\nLet not pride swell my heart\nMy nature is the mire beneath my feet\nthe dust to which I shall return.\nIn body I surpass not the meanest reptile;\nWhatever difference of form and intellect is mine,\nis a free grant of thy goodness;\nEvery faculty of mind and body is thy undeserved gift\nLow as I am as a creature, I am lower as a sinner;\nI have trampled thy law times without number;\nSin's deformity is stamped upon me,\ndarkens my brow, touches me with corruption:\nHow can I flaunt myself proudly?\nLowest abasement is my due place,\nfor I am less than nothing before thee.\nHelp me to see myself in thy sight,\nthen pride must wither, decay, die, perish.\nHumble my heart before thee,\nand replenish it with thy choicest gifts.\nAs water rests not on barren hill summits,\nbut flows down to fertilize lowest vales,\nSo make me the lowest of the lowly,\nthat my spiritual riches may exceedingly abound.\nWhen I leave duties undone,\nmay condemning thought strip me of pride,\ndeepen in me devotion to thy service,\nand quicken me to more watchful care.\nWhen I am tempted to think highly of myself,\ngrant me to see the wily power of my spiritual enemy;\nHelp me to stand with wary eye on the watch-tower of faith,\nand to cling with determined grasp to my humble Lord;\nIf I fall let me hide myself in my redeemer's righteousness,\nand when I escape, may I ascribe all deliverance to thy grace.\nKeep me humble, meek, lowly.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 82
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 148,
+  "id": "prayer-148",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "SLEEP",
+  "subtitle": null,
+  "description": null,
   "section": "Gifts of Grace",
-  "content": "BLESSED CREATOR,\nThou hast promised thy beloved sleep;\nGive me restoring rest needful for tomorrow's toil\nIf dreams be mine, let them not be tinged with evil.\nLet thy Spirit make my time of repose a blessed temple of his holy\npresence.\nMay my frequent lying down make me familiar with death,\nthe bed I approach remind me of the grave,\nthe eyes I now close picture to me their final closing.\nKeep me always ready, waiting for admittance to thy presence.\nWeaken my attachment to earthly things.\nMay I hold life loosely in my hand,\nknowing that I receive it on condition of its surrender;\nAs pain and suffering betoken transitory health,\nmay I not shrink from a death\nthat introduces me to the freshness of eternal youth.\nI retire this night in full assurance of one day awaking with thee.\nAll glory for this precious hope,\nfor the gospel of grace,\nfor thine unspeakable gift of Jesus,\nfor the fellowship of the Trinity.\nWithhold not thy mercies in the night season;\nthy hand never wearies,\nthy power needs no repose,\nthine eye never sleeps.\nHelp me when I helpless lie,\nwhen my conscience accuses me of sin,\nwhen my mind is harassed by foreboding thoughts,\nwhen my eyes are held awake by personal anxieties.\nShow thyself to mc as the God of all grace, love and power;\nthou hast a balm for every wound,\na solace for all anguish,\na remedy for every pain,\na peace for all disquietude.\nPermit me to commit myself to thee awake or asleep."
+  "sortOrder": 148,
+  "content": {
+    "type": "TextContent",
+    "text": "BLESSED CREATOR,\nThou hast promised thy beloved sleep;\nGive me restoring rest needful for tomorrow's toil\nIf dreams be mine, let them not be tinged with evil.\nLet thy Spirit make my time of repose a blessed temple of his holy\npresence.\nMay my frequent lying down make me familiar with death,\nthe bed I approach remind me of the grave,\nthe eyes I now close picture to me their final closing.\nKeep me always ready, waiting for admittance to thy presence.\nWeaken my attachment to earthly things.\nMay I hold life loosely in my hand,\nknowing that I receive it on condition of its surrender;\nAs pain and suffering betoken transitory health,\nmay I not shrink from a death\nthat introduces me to the freshness of eternal youth.\nI retire this night in full assurance of one day awaking with thee.\nAll glory for this precious hope,\nfor the gospel of grace,\nfor thine unspeakable gift of Jesus,\nfor the fellowship of the Trinity.\nWithhold not thy mercies in the night season;\nthy hand never wearies,\nthy power needs no repose,\nthine eye never sleeps.\nHelp me when I helpless lie,\nwhen my conscience accuses me of sin,\nwhen my mind is harassed by foreboding thoughts,\nwhen my eyes are held awake by personal anxieties.\nShow thyself to mc as the God of all grace, love and power;\nthou hast a balm for every wound,\na solace for all anguish,\na remedy for every pain,\na peace for all disquietude.\nPermit me to commit myself to thee awake or asleep.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 148
+  }
 }

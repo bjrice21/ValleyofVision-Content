@@ -1,6 +1,25 @@
 {
-  "id": 132,
+  "id": "prayer-132",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "IN PRAYER",
+  "subtitle": null,
+  "description": null,
   "section": "Approach to God",
-  "content": "In prayer I launch far out into the eternal world,\nand on that broad ocean my soul triumphs\nover all evils on the shores of mortality.\nTime, with its gay amusements and cruel disappointments\nnever appears so inconsiderate as then.\nIn prayer I see myself as nothing;\nI find my heart going after thee with intensity,\nand long with vehement thirst to live to thee.\nBlessed be the strong gales of the Spirit\nthat speed me on my way to the New Jerusalem.\nIn prayer all things here below vanish,\nand nothing seems important\nbut holiness of heart and the salvation of others.\nIn* prayer all my worldly cares, fears, anxieties disappear,\nand are of as little significance as a puff of wind.\nIn prayer my soul inwardly exults with lively thoughts\nat what thou art doing for thy church,\nand I long that thou shouldest get thyself a great name\nfrom sinners returning to Zion.\nIn prayer I am lifted above the frowns and flatteries of life,\nand taste heavenly joys;\nentering into the eternal world\nI can give myself to thee with all my heart,\nto be thine for ever.\nIn prayer I can place all my concerns in thy hands,\nto be entirely at thy disposal,\nhaving no will or interest of my own.\nIn prayer I can intercede for my friends, ministers,\nsinners, the church, thy kingdom to come,\nwith greatest freedom, ardent hopes,\nas a son to his father,\nas a lover to the beloved.\nHelp me to be all prayer and never to cease praying."
+  "sortOrder": 132,
+  "content": {
+    "type": "TextContent",
+    "text": "In prayer I launch far out into the eternal world,\nand on that broad ocean my soul triumphs\nover all evils on the shores of mortality.\nTime, with its gay amusements and cruel disappointments\nnever appears so inconsiderate as then.\nIn prayer I see myself as nothing;\nI find my heart going after thee with intensity,\nand long with vehement thirst to live to thee.\nBlessed be the strong gales of the Spirit\nthat speed me on my way to the New Jerusalem.\nIn prayer all things here below vanish,\nand nothing seems important\nbut holiness of heart and the salvation of others.\nIn* prayer all my worldly cares, fears, anxieties disappear,\nand are of as little significance as a puff of wind.\nIn prayer my soul inwardly exults with lively thoughts\nat what thou art doing for thy church,\nand I long that thou shouldest get thyself a great name\nfrom sinners returning to Zion.\nIn prayer I am lifted above the frowns and flatteries of life,\nand taste heavenly joys;\nentering into the eternal world\nI can give myself to thee with all my heart,\nto be thine for ever.\nIn prayer I can place all my concerns in thy hands,\nto be entirely at thy disposal,\nhaving no will or interest of my own.\nIn prayer I can intercede for my friends, ministers,\nsinners, the church, thy kingdom to come,\nwith greatest freedom, ardent hopes,\nas a son to his father,\nas a lover to the beloved.\nHelp me to be all prayer and never to cease praying.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 132
+  }
 }

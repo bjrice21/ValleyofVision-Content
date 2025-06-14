@@ -1,6 +1,25 @@
 {
-  "id": 99,
+  "id": "prayer-99",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "FAITH AND THE WORLD",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "The world is artful to entrap,\napproaches in fascinating guise,\nextends many a gilded bait,\npresents many a charming face.\nLet my faith scan every painted bauble,\nand escape every bewitching snare\nin a victory that overcomes all things.\nIn my duties give me firmness, energy, zeal,\ndevotion to thy cause,\ncourage in thy name,\nlove as a working grace,\nand all commensurate with my trust.\nLet faith stride forth in giant power,\nand love respond with energy in every act.\nI often mourn the absence of my beloved Lord\nwhose smile makes earth a paradise,\nwhose voice is sweetest music,\nwhose presence gives all graces strength.\nBut by unbelief I often keep him outside my door.\nLet faith give entrance that he may abide with me for ever.\nThy Word is full of promises,\nflowers of sweet fragrance,\nfruit of refreshing flavor\nwhen culled by faith.\nMay I be made rich in its riches,\nbe strong in its power,\nbe happy in its joy.\nabide in its sweetness,\nfeast on its preciousness,\ndraw vigour from its manna.\nLord, increase my faith."
+  "sortOrder": 99,
+  "content": {
+    "type": "TextContent",
+    "text": "The world is artful to entrap,\napproaches in fascinating guise,\nextends many a gilded bait,\npresents many a charming face.\nLet my faith scan every painted bauble,\nand escape every bewitching snare\nin a victory that overcomes all things.\nIn my duties give me firmness, energy, zeal,\ndevotion to thy cause,\ncourage in thy name,\nlove as a working grace,\nand all commensurate with my trust.\nLet faith stride forth in giant power,\nand love respond with energy in every act.\nI often mourn the absence of my beloved Lord\nwhose smile makes earth a paradise,\nwhose voice is sweetest music,\nwhose presence gives all graces strength.\nBut by unbelief I often keep him outside my door.\nLet faith give entrance that he may abide with me for ever.\nThy Word is full of promises,\nflowers of sweet fragrance,\nfruit of refreshing flavor\nwhen culled by faith.\nMay I be made rich in its riches,\nbe strong in its power,\nbe happy in its joy.\nabide in its sweetness,\nfeast on its preciousness,\ndraw vigour from its manna.\nLord, increase my faith.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 99
+  }
 }

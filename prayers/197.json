@@ -1,6 +1,25 @@
 {
-  "id": 197,
+  "id": "prayer-197",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "But, sensible of our desert,",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "and impressed with the number and greatness of thy\nbenefits,\nmay we bless and praise thee at all times."
+  "sortOrder": 197,
+  "content": {
+    "type": "TextContent",
+    "text": "and impressed with the number and greatness of thy\nbenefits,\nmay we bless and praise thee at all times.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 197
+  }
 }

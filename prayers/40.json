@@ -1,6 +1,25 @@
 {
-  "id": 40,
+  "id": "prayer-40",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "my enemies crushed,",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "Satan baffled, defeated, destroyed,\nsin buried in the ocean of reconciling blood,\nhell's gates closed, heaven's portal open.\nGo forth, O conquering God, and show me die cross,\nmighty to subdue, comfort and save."
+  "sortOrder": 40,
+  "content": {
+    "type": "TextContent",
+    "text": "Satan baffled, defeated, destroyed,\nsin buried in the ocean of reconciling blood,\nhell's gates closed, heaven's portal open.\nGo forth, O conquering God, and show me die cross,\nmighty to subdue, comfort and save.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 40
+  }
 }

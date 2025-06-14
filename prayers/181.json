@@ -1,6 +1,25 @@
 {
-  "id": 181,
+  "id": "prayer-181",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE MINISTER'S COVENANT",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "True God, everlasting Life, redeemer of sinners,\nI give my body, soul, intellect, will, affections to thee.\nI call the day, sun, earth, trees, stones, wind, rain, frost, snow,\nmy home, bed, table, food, books, drink, clothes,\nto witness that I come to thee for rest of soul\nfrom the thunders of guilt and dread of eternity.\nGrant me a circumcised heart that I may love thee,\na right spirit that I may seek thy glory,\na principle within which thou wilt own,\nan interest in the blood that cleanses,\nthe righteousness that justifies,\nthe redemption that delivers,\nthat I may not be found a hypocrite on Judgment Day.\nFor the sake of thy cruel death\ntake my time, strength, gifts, talents, usefulness, piety,\nwhich in full purpose of heart I consecrate to thee.\nLet not sin find a place in my heart to becloud my vision,\nand may no foolish art wither my gifts.\nPreserve me from the falls by which others stumble,\nthat thy name may not be blasphemed or wounded,\nthat thy people may not be grieved,\nthat thine enemies may not be hardened,\nthat my peace may not be injured.\nGive me a heart full of love to thyself and to others.\nLet me discover in this life what I am before thee\nthat I may not find myself another character hereafter.\nPrepare me for death,\nthat I may not die after long affliction or suddenly,\nbut after short illness, with no confusion or disorder,\nand a quiet discharge in peace, with adieu to brethren.\nLet not my days end like lumber in a house,\nbut give me a silent removing from one world to another.\nInscribe these petitions in thy book, present them to thy Father,\nSet thine Amen to them as I do on my part of the covenant."
+  "sortOrder": 181,
+  "content": {
+    "type": "TextContent",
+    "text": "True God, everlasting Life, redeemer of sinners,\nI give my body, soul, intellect, will, affections to thee.\nI call the day, sun, earth, trees, stones, wind, rain, frost, snow,\nmy home, bed, table, food, books, drink, clothes,\nto witness that I come to thee for rest of soul\nfrom the thunders of guilt and dread of eternity.\nGrant me a circumcised heart that I may love thee,\na right spirit that I may seek thy glory,\na principle within which thou wilt own,\nan interest in the blood that cleanses,\nthe righteousness that justifies,\nthe redemption that delivers,\nthat I may not be found a hypocrite on Judgment Day.\nFor the sake of thy cruel death\ntake my time, strength, gifts, talents, usefulness, piety,\nwhich in full purpose of heart I consecrate to thee.\nLet not sin find a place in my heart to becloud my vision,\nand may no foolish art wither my gifts.\nPreserve me from the falls by which others stumble,\nthat thy name may not be blasphemed or wounded,\nthat thy people may not be grieved,\nthat thine enemies may not be hardened,\nthat my peace may not be injured.\nGive me a heart full of love to thyself and to others.\nLet me discover in this life what I am before thee\nthat I may not find myself another character hereafter.\nPrepare me for death,\nthat I may not die after long affliction or suddenly,\nbut after short illness, with no confusion or disorder,\nand a quiet discharge in peace, with adieu to brethren.\nLet not my days end like lumber in a house,\nbut give me a silent removing from one world to another.\nInscribe these petitions in thy book, present them to thy Father,\nSet thine Amen to them as I do on my part of the covenant.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 181
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 126,
+  "id": "prayer-126",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "CHRISTIAN LOVE",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "O LOVER OF THE LOVELESS,\nIt is thy will that I should love thee\nwith heart, soul, mind, strength,\nand my neighbour as myself.\nBut I am not sufficient for these things.\nThere is by nature no pure love in my soul;\nEvery affection in me is turned from thee;\nI am bound, a slave to lust,\nI cannot love thee, lovely as thou art,\nuntil thou dost set me free.\nBy grace I am thy freeman and would serve thee,\nfor I believe thou art my God in Jesus,\nand that through him I am redeemed,\nand my sins are forgiven.\nWith this freedom I would always obey thee,\nbut I cannot walk in liberty,\nany more than I could first attain it, of myself.\nMay thy Spirit draw me nearer to thee and thy ways.\nThou art the end of all means,\nfor if they lead me not to thee,\nI go away empty.\nOrder all my ways by thy holy Word\nand make thy commandments the joy of my heart,\nthat by them I may have happy converse with thee.\nMay I grow in thy love and manifest it to mankind.\nSpirit of love, make me like the loving Jesus;\ngive me his benevolent temper,\nhis beneficent actions,\nthat I may shine before men to thy glory.\nThe more thou doest in love in me and by me,\nhumble me the more;\nkeep me meek, lowly,\nand always ready to give thee honour."
+  "sortOrder": 126,
+  "content": {
+    "type": "TextContent",
+    "text": "O LOVER OF THE LOVELESS,\nIt is thy will that I should love thee\nwith heart, soul, mind, strength,\nand my neighbour as myself.\nBut I am not sufficient for these things.\nThere is by nature no pure love in my soul;\nEvery affection in me is turned from thee;\nI am bound, a slave to lust,\nI cannot love thee, lovely as thou art,\nuntil thou dost set me free.\nBy grace I am thy freeman and would serve thee,\nfor I believe thou art my God in Jesus,\nand that through him I am redeemed,\nand my sins are forgiven.\nWith this freedom I would always obey thee,\nbut I cannot walk in liberty,\nany more than I could first attain it, of myself.\nMay thy Spirit draw me nearer to thee and thy ways.\nThou art the end of all means,\nfor if they lead me not to thee,\nI go away empty.\nOrder all my ways by thy holy Word\nand make thy commandments the joy of my heart,\nthat by them I may have happy converse with thee.\nMay I grow in thy love and manifest it to mankind.\nSpirit of love, make me like the loving Jesus;\ngive me his benevolent temper,\nhis beneficent actions,\nthat I may shine before men to thy glory.\nThe more thou doest in love in me and by me,\nhumble me the more;\nkeep me meek, lowly,\nand always ready to give thee honour.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 126
+  }
 }

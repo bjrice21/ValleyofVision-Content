@@ -1,6 +1,25 @@
 {
-  "id": 29,
+  "id": "prayer-29",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE SPIRIT OF JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "lord Jesus Christ,\nFill me with thy Spirit\nthat I may be occupied with his presence.\nI am blind - send him to make me see;\ndark - let him say, 'Let there be light'!\nMay he give me faith to behold\nmy name engraven in thy hand,\nmy soul and body redeemed by thy blood,\nmy sinfulness covered by thy life of pure obedience.\nReplenish me by his revealing grace,\nthat I may realise my indissoluble union with thee;\nthat I may know thou hast espoused me to thyself for ever,\nin righteousness,\nlove, mercy, faithfulness;\nthat I am one with thee,\nas a branch with its stock, as a building with its foundation.\nMay his comforts cheer me in my sorrows,\nhis strength sustain me in my trials,\nhis blessings revive me in my weariness,\nhis presence render me a fruitful tree of holiness,\nhis might establish me in peace and joy,\nhis incitements make me ceaseless in prayer,\nhis animation kindle in me undying devotion.\nSend him as the searcher of my heart,\nto show me more of my corruptions and helplessness,\nthat I may flee to thee,\ncling to thee,\nrest on thee,\nas the beginning and end of my salvation.\nMay I never vex him by my indifference and waywardness,\ngrieve him by my cold welcome,\nresist him by my hard rebellion.\nAnswer my prayers, O Lord, for thy great name's sake."
+  "sortOrder": 29,
+  "content": {
+    "type": "TextContent",
+    "text": "lord Jesus Christ,\nFill me with thy Spirit\nthat I may be occupied with his presence.\nI am blind - send him to make me see;\ndark - let him say, 'Let there be light'!\nMay he give me faith to behold\nmy name engraven in thy hand,\nmy soul and body redeemed by thy blood,\nmy sinfulness covered by thy life of pure obedience.\nReplenish me by his revealing grace,\nthat I may realise my indissoluble union with thee;\nthat I may know thou hast espoused me to thyself for ever,\nin righteousness,\nlove, mercy, faithfulness;\nthat I am one with thee,\nas a branch with its stock, as a building with its foundation.\nMay his comforts cheer me in my sorrows,\nhis strength sustain me in my trials,\nhis blessings revive me in my weariness,\nhis presence render me a fruitful tree of holiness,\nhis might establish me in peace and joy,\nhis incitements make me ceaseless in prayer,\nhis animation kindle in me undying devotion.\nSend him as the searcher of my heart,\nto show me more of my corruptions and helplessness,\nthat I may flee to thee,\ncling to thee,\nrest on thee,\nas the beginning and end of my salvation.\nMay I never vex him by my indifference and waywardness,\ngrieve him by my cold welcome,\nresist him by my hard rebellion.\nAnswer my prayers, O Lord, for thy great name's sake.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 29
+  }
 }

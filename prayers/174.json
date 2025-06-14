@@ -1,6 +1,25 @@
 {
-  "id": 174,
+  "id": "prayer-174",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "LORD'S DAY EVE",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "GOD OF THE PASSING HOUR,\nAnother week has gone and I have been preserved\nin my going out,\nin my coming in.\nThine has been the vigilance that has turned threatened evils aside;\nThine the supplies that have nourished me;\nThine the comforts that have indulged me;\nThine the relations and friends that have delighted me;\nThine the means of grace which have edified me;\nThine the Book, which, amidst all my enjoyments,\nhas told me that this is not my rest,\nthat in all successes one thing alone is needful,\nto love my Saviour.\nNothing can equal the number of thy mercies\nbut my imperfections and sins.\nThese, O God, I will neither conceal nor palliate,\nbut confess with a broken heart.\nIn what condition would secret reviews of my life leave me\nwere it not for the assurance that with thee\nthere is plenteous redemption,\nthat thou art a forgiving God,\nthat thou mayest be feared!\nWhile I hope for pardon through the blood of the cross,\nI pray to be clothed with humility,\nto be quickened in thy way,\nto be more devoted to thee,\nto keep the end of my life in view,\nto be cured of the folly of delay and indecision,\nto know how frail I am,\nto number my days and apply my heart unto\nwisdom."
+  "sortOrder": 174,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD OF THE PASSING HOUR,\nAnother week has gone and I have been preserved\nin my going out,\nin my coming in.\nThine has been the vigilance that has turned threatened evils aside;\nThine the supplies that have nourished me;\nThine the comforts that have indulged me;\nThine the relations and friends that have delighted me;\nThine the means of grace which have edified me;\nThine the Book, which, amidst all my enjoyments,\nhas told me that this is not my rest,\nthat in all successes one thing alone is needful,\nto love my Saviour.\nNothing can equal the number of thy mercies\nbut my imperfections and sins.\nThese, O God, I will neither conceal nor palliate,\nbut confess with a broken heart.\nIn what condition would secret reviews of my life leave me\nwere it not for the assurance that with thee\nthere is plenteous redemption,\nthat thou art a forgiving God,\nthat thou mayest be feared!\nWhile I hope for pardon through the blood of the cross,\nI pray to be clothed with humility,\nto be quickened in thy way,\nto be more devoted to thee,\nto keep the end of my life in view,\nto be cured of the folly of delay and indecision,\nto know how frail I am,\nto number my days and apply my heart unto\nwisdom.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 174
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 192,
+  "id": "prayer-192",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "FOURTH DAY EVENING GOD ALL-SUFFICIENT",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "KING OF GLORY, DIVINE MAJESTY,\nEvery perfection adorns thy nature and sustains thy throne;\nThe heavens and earth are thine,\nThe world is thine and its fullness.\nThy power created the universe from nothing;\nThy wisdom has managed all its multiple concerns,\npresiding over nations, families, individuals.\nThy goodness is boundless;\nall creatures wait on thee\nare supplied by thee, are satisfied in thee.\nHow precious are the thoughts of thy mercy and grace!\nHow excellent thy lovingkindness that draws men to thee!\nTeach us to place our happiness in thee, the blessed God,\nnever seeking life among the dead things of earth,\nor asking for that which satisfies the deluded;\nBut may we prize the light of thy smile,\nimplore the joy of thy salvation, find our heaven in thee.\nThou hast attended to our happiness more than we can do;\nThough we are fallen creatures thou hast not neglected us.\nIn love and pity thou hast provided us a saviour;\nApply his redemption to our hearts, by justifying our persons,\nand sanctifying our natures.\nWe confess our transgressions, have mercy on us.\nWe are weary, give us rest,\nignorant, make us wise unto salvation,\nhelpless, let thy strength be made perfect in our weakness,\npoor and needy, bless us with Christ's unsearchable riches,\nperplexed and tempted, let us travel on unchecked,\nundismayed,\nknowing that thou hast said,\n'I will never leave thee nor forsake thee'.\nBlessed be thy name!"
+  "sortOrder": 192,
+  "content": {
+    "type": "TextContent",
+    "text": "KING OF GLORY, DIVINE MAJESTY,\nEvery perfection adorns thy nature and sustains thy throne;\nThe heavens and earth are thine,\nThe world is thine and its fullness.\nThy power created the universe from nothing;\nThy wisdom has managed all its multiple concerns,\npresiding over nations, families, individuals.\nThy goodness is boundless;\nall creatures wait on thee\nare supplied by thee, are satisfied in thee.\nHow precious are the thoughts of thy mercy and grace!\nHow excellent thy lovingkindness that draws men to thee!\nTeach us to place our happiness in thee, the blessed God,\nnever seeking life among the dead things of earth,\nor asking for that which satisfies the deluded;\nBut may we prize the light of thy smile,\nimplore the joy of thy salvation, find our heaven in thee.\nThou hast attended to our happiness more than we can do;\nThough we are fallen creatures thou hast not neglected us.\nIn love and pity thou hast provided us a saviour;\nApply his redemption to our hearts, by justifying our persons,\nand sanctifying our natures.\nWe confess our transgressions, have mercy on us.\nWe are weary, give us rest,\nignorant, make us wise unto salvation,\nhelpless, let thy strength be made perfect in our weakness,\npoor and needy, bless us with Christ's unsearchable riches,\nperplexed and tempted, let us travel on unchecked,\nundismayed,\nknowing that thou hast said,\n'I will never leave thee nor forsake thee'.\nBlessed be thy name!",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 192
+  }
 }

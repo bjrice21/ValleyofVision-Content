@@ -1,6 +1,25 @@
 {
-  "id": 17,
+  "id": "prayer-17",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "CHRIST IS ALL",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "o lover to the uttermost,\nMay I read the meltings of thy heart to me\nin the manger of thy birth,\nin the garden of thy agony,\nin the cross of thy suffering,\nin the tomb of thy resurrection,\nin the heaven of thy intercession.\nBold in this thought I defy my adversary,\ntread down his temptations,\nresist his schemings,\nrenounce the world,\nam valiant for truth.\nDeepen in me a sense of my holy relationship to thee,\nas spiritual bridegroom,\nas Jehovah's fellow,\nas sinners' friend. I think of thy glory and my vileness,\nthy majesty and my meanness,\nthy beauty and my deformity,\nthy purity and my filth,\nthy righteousness and my iniquity.\nThou hast loved me everlastingly, unchangeably,\nmay I love thee as I am loved;\nThou hast given thyself for me,\nmay I give myself to thee;\nThou hast died for me,\nmay I live to thee,\nin every moment of my time,\nin every movement of my mind,\nin every pulse of my heart.\nMay I never dally with the world and its allurements,\nbut walk by thy side, listen to thy voice,\nbe clothed with thy graces,\nand adorned with thy righteousness."
+  "sortOrder": 17,
+  "content": {
+    "type": "TextContent",
+    "text": "o lover to the uttermost,\nMay I read the meltings of thy heart to me\nin the manger of thy birth,\nin the garden of thy agony,\nin the cross of thy suffering,\nin the tomb of thy resurrection,\nin the heaven of thy intercession.\nBold in this thought I defy my adversary,\ntread down his temptations,\nresist his schemings,\nrenounce the world,\nam valiant for truth.\nDeepen in me a sense of my holy relationship to thee,\nas spiritual bridegroom,\nas Jehovah's fellow,\nas sinners' friend. I think of thy glory and my vileness,\nthy majesty and my meanness,\nthy beauty and my deformity,\nthy purity and my filth,\nthy righteousness and my iniquity.\nThou hast loved me everlastingly, unchangeably,\nmay I love thee as I am loved;\nThou hast given thyself for me,\nmay I give myself to thee;\nThou hast died for me,\nmay I live to thee,\nin every moment of my time,\nin every movement of my mind,\nin every pulse of my heart.\nMay I never dally with the world and its allurements,\nbut walk by thy side, listen to thy voice,\nbe clothed with thy graces,\nand adorned with thy righteousness.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 17
+  }
 }

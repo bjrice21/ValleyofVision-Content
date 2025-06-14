@@ -1,6 +1,25 @@
 {
-  "id": 114,
+  "id": "prayer-114",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "EVENING RENEWAL",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "MY FATHER,\nIf thy mercy had bounds, where would be my refuge from just wrath?\nBut thy love in Christ is without measure.\nThus, I present myself to thee\nwith sins of commission and omission,\nagainst thee, my Father,\nagainst thee, adorable redeemer,\nagainst thee and thy strivings, O Holy Spirit,\nagainst the dictates of my conscience,\nagainst the precepts of thy Word,\nagainst my neighbours and myself.\nEnter not into judgment with me,\nFor I plead no righteousness of my own,\nand have no cloak for iniquity.\nPardon my day dark with evil.\nThis night I renew my penitence.\nEvery morning I vow to love thee more fervently,\nto serve thee more sincerely,\nto be more devoted in my life,\nto be wholly thine;\nYet I soon stumble, backslide,\nand have to confess my weakness, misery and sin.\nBut I bless thee that the finished work of Jesus needs no addition\nfrom my doings,\nthat his oblation is sufficient satisfaction\nfor my sins.\nIf future days be mine, help me to amend my life,\nto hate and abhor evil,\nto flee the sins I confess.\nMake me more resolute, more watchful, more prayerful.\nLet no evil fruit spring from evil seeds my hands have sown;\nLet no neighbour be hardened in vanity and folly\nby my want of circumspection.\nIf this day I have been ashamed of Christ and his Word,\nor have shown unkindness, malice, envy, lack of love,\nunadvised speech, hasty temper,"
+  "sortOrder": 114,
+  "content": {
+    "type": "TextContent",
+    "text": "MY FATHER,\nIf thy mercy had bounds, where would be my refuge from just wrath?\nBut thy love in Christ is without measure.\nThus, I present myself to thee\nwith sins of commission and omission,\nagainst thee, my Father,\nagainst thee, adorable redeemer,\nagainst thee and thy strivings, O Holy Spirit,\nagainst the dictates of my conscience,\nagainst the precepts of thy Word,\nagainst my neighbours and myself.\nEnter not into judgment with me,\nFor I plead no righteousness of my own,\nand have no cloak for iniquity.\nPardon my day dark with evil.\nThis night I renew my penitence.\nEvery morning I vow to love thee more fervently,\nto serve thee more sincerely,\nto be more devoted in my life,\nto be wholly thine;\nYet I soon stumble, backslide,\nand have to confess my weakness, misery and sin.\nBut I bless thee that the finished work of Jesus needs no addition\nfrom my doings,\nthat his oblation is sufficient satisfaction\nfor my sins.\nIf future days be mine, help me to amend my life,\nto hate and abhor evil,\nto flee the sins I confess.\nMake me more resolute, more watchful, more prayerful.\nLet no evil fruit spring from evil seeds my hands have sown;\nLet no neighbour be hardened in vanity and folly\nby my want of circumspection.\nIf this day I have been ashamed of Christ and his Word,\nor have shown unkindness, malice, envy, lack of love,\nunadvised speech, hasty temper,",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 114
+  }
 }

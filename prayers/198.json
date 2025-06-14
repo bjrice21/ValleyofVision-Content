@@ -1,6 +1,25 @@
 {
-  "id": 198,
+  "id": "prayer-198",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "SEVENTH DAY MORNING GOD'S GOOD PLEASURE",
+  "subtitle": null,
+  "description": null,
   "section": "A Week's Shared Prayers",
-  "content": "Thy will is supreme in heaven and earth,\nand all beings are creatures of thy power.\nThou art the Father of our spirits;\nthy inspiration gives us understanding,\nthy providence governs our lives.\nBut, O God, we are sinners in thy sight;\nthou hast judged us so, and if we deny it we make thee a liar.\nYet in Christ thou art reconciled to thy rebellious subjects;\ngive us the ear of faith to hear him,\nthe eye of faith to see him,\nthe hand of faith to receive him,\nthe appetite of faith to feed upon him;\nthat we might find in him light,\nriches, honour, eternal life.\nThou art the inviting one, may we hearken to thee;\nthe almighty instructor, teach us to live to thee;\nthe light-dweller, inaccessible to man and angels,\nhiding thyself behind the elements of creation,\nbut known to us in Jesus,\nPossess our minds with the grandeur of thy perfections.\nThy love to us in Jesus is firm and changeless,\nnothing can separate us from it,\nand in the enjoyment of it nothing can make us miserable.\nPreserve us from hypocrisy and formality in religion;\nEnable us to remember what thou art and what we are,\nto recall thy holiness and our unworthiness;\nHelp us to approach thee clothed with humility,\nfor vanity, forwardness, insensibility,\ndisorderly affection, backwardness to duty,\nproneness to evil are in our hearts.\nLet us never forget thy patience, wisdom, power, faithfulness, care,\nand never cease to respond to thy invitations."
+  "sortOrder": 198,
+  "content": {
+    "type": "TextContent",
+    "text": "Thy will is supreme in heaven and earth,\nand all beings are creatures of thy power.\nThou art the Father of our spirits;\nthy inspiration gives us understanding,\nthy providence governs our lives.\nBut, O God, we are sinners in thy sight;\nthou hast judged us so, and if we deny it we make thee a liar.\nYet in Christ thou art reconciled to thy rebellious subjects;\ngive us the ear of faith to hear him,\nthe eye of faith to see him,\nthe hand of faith to receive him,\nthe appetite of faith to feed upon him;\nthat we might find in him light,\nriches, honour, eternal life.\nThou art the inviting one, may we hearken to thee;\nthe almighty instructor, teach us to live to thee;\nthe light-dweller, inaccessible to man and angels,\nhiding thyself behind the elements of creation,\nbut known to us in Jesus,\nPossess our minds with the grandeur of thy perfections.\nThy love to us in Jesus is firm and changeless,\nnothing can separate us from it,\nand in the enjoyment of it nothing can make us miserable.\nPreserve us from hypocrisy and formality in religion;\nEnable us to remember what thou art and what we are,\nto recall thy holiness and our unworthiness;\nHelp us to approach thee clothed with humility,\nfor vanity, forwardness, insensibility,\ndisorderly affection, backwardness to duty,\nproneness to evil are in our hearts.\nLet us never forget thy patience, wisdom, power, faithfulness, care,\nand never cease to respond to thy invitations.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 198
+  }
 }

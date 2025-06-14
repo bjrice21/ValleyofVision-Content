@@ -1,113 +1,130 @@
 {
-  "id": 6,
-  "name": "Rosary for Peace Over Anxiety",
+  "id": "rosary-6",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "Rosary for Peace Over Anxiety",
+  "subtitle": null,
   "description": "A meditative prayer to calm an anxious heart and find rest for restless hands, especially for those who struggle with compulsive habits like finger picking.",
   "section": "Intercessory",
-  "type": "SIMPLE",
-  "introSection": {
-    "cross": {
-      "title": "At the Cross: Casting Your Cares",
-      "content": "Lord, I cast my anxiety on you, because you care for me. Grant me your peace which transcends all understanding, guarding my heart and my mind in Christ Jesus.",
-      "scriptureReference": "1 Peter 5:7, Philippians 4:7",
-      "displayHint": "EMPHASIZED"
-    },
-    "firstLargeBead": {
-      "title": "Declaration of Trust",
-      "content": "God, you are my refuge and my strength, an ever-present help in trouble. Therefore I will not fear.",
-      "scriptureReference": "Psalm 46:1-2"
-    },
-    "threeSmallBeads": [
-      {
-        "content": "I release my fear."
+  "sortOrder": 6,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
+      "cross": {
+        "title": "At the Cross: Casting Your Cares",
+        "content": "Lord, I cast my anxiety on you, because you care for me. Grant me your peace which transcends all understanding, guarding my heart and my mind in Christ Jesus.",
+        "scriptureReference": "1 Peter 5:7, Philippians 4:7",
+        "displayHint": "EMPHASIZED"
       },
-      {
-        "content": "I receive Your peace."
+      "firstLargeBead": {
+        "title": "Declaration of Trust",
+        "content": "God, you are my refuge and my strength, an ever-present help in trouble. Therefore I will not fear.",
+        "scriptureReference": "Psalm 46:1-2"
       },
-      {
-        "content": "I rest in Your love."
+      "threeSmallBeads": [
+        {
+          "content": "I release my fear."
+        },
+        {
+          "content": "I receive Your peace."
+        },
+        {
+          "content": "I rest in Your love."
+        }
+      ],
+      "secondLargeBead": {
+        "title": "Commitment of Spirit",
+        "content": "Into Your hands I commit my spirit; deliver me, Lord, my faithful God.",
+        "scriptureReference": "Psalm 31:5"
       }
-    ],
-    "secondLargeBead": {
-      "title": "Commitment of Spirit",
-      "content": "Into Your hands I commit my spirit; deliver me, Lord, my faithful God.",
-      "scriptureReference": "Psalm 31:5"
-    }
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "Finding Stillness for Anxious Hands",
+        "largeBead": {
+          "title": "Meditation on Stillness",
+          "content": "He says, 'Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.'",
+          "scriptureReference": "Psalm 46:10"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Lord, still my hands and my heart."
+          }
+        }
+      },
+      {
+        "number": 2,
+        "theme": "Surrendering Control",
+        "largeBead": {
+          "title": "Meditation on Surrender",
+          "content": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+          "scriptureReference": "Matthew 6:34"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "I surrender my worries to You, Jesus."
+          }
+        }
+      },
+      {
+        "number": 3,
+        "theme": "Seeking Healing and Wholeness",
+        "largeBead": {
+          "title": "Prayer for Healing",
+          "content": "Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise.",
+          "scriptureReference": "Jeremiah 17:14"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "By Your wounds, I am healed."
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "Trusting in God's Hold",
+        "largeBead": {
+          "title": "Meditation on God's Presence",
+          "content": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+          "scriptureReference": "Isaiah 41:10"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "I trust You, Lord; You hold my hand."
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "Dwelling in Perfect Peace",
+        "largeBead": {
+          "title": "Receiving Christ's Peace",
+          "content": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+          "scriptureReference": "John 14:27"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Your perfect peace guards my heart."
+          }
+        }
+      }
+    ]
   },
-  "decades": [
-    {
-      "number": 1,
-      "theme": "Finding Stillness for Anxious Hands",
-      "largeBead": {
-        "title": "Meditation on Stillness",
-        "content": "He says, 'Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.'",
-        "scriptureReference": "Psalm 46:10"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Lord, still my hands and my heart."
-        }
-      }
-    },
-    {
-      "number": 2,
-      "theme": "Surrendering Control",
-      "largeBead": {
-        "title": "Meditation on Surrender",
-        "content": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-        "scriptureReference": "Matthew 6:34"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "I surrender my worries to You, Jesus."
-        }
-      }
-    },
-    {
-      "number": 3,
-      "theme": "Seeking Healing and Wholeness",
-      "largeBead": {
-        "title": "Prayer for Healing",
-        "content": "Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise.",
-        "scriptureReference": "Jeremiah 17:14"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "By Your wounds, I am healed."
-        }
-      }
-    },
-    {
-      "number": 4,
-      "theme": "Trusting in God's Hold",
-      "largeBead": {
-        "title": "Meditation on God's Presence",
-        "content": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-        "scriptureReference": "Isaiah 41:10"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "I trust You, Lord; You hold my hand."
-        }
-      }
-    },
-    {
-      "number": 5,
-      "theme": "Dwelling in Perfect Peace",
-      "largeBead": {
-        "title": "Receiving Christ's Peace",
-        "content": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-        "scriptureReference": "John 14:27"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Your perfect peace guards my heart."
-        }
-      }
-    }
-  ]
+  "metadata": {
+    "originalId": 6
+  }
 }

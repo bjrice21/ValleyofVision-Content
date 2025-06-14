@@ -1,6 +1,25 @@
 {
-  "id": 135,
+  "id": "prayer-135",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE PRAYER OF LOVE",
+  "subtitle": null,
+  "description": null,
   "section": "Approach to God",
-  "content": "GRACIOUS LORD,\nThy name is love,\nin love receive my prayer.\nMy sins are more than the wide sea's sand,\nbut where sin abounds, there is grace more abundant.\nLook to the cross of thy beloved Son,\nand view the preciousness of his atoning blood;\nListen to his never-failing intercession,\nand whisper to my heart, Thy sins are forgiven,\nbe of good cheer, he down in peace.'\nGrace cataracts from heaven and flows for ever,\nand mercy never wearies in bestowing benefits.\nGrant me more and more\nto prize the privilege of prayer,\nto come to thee as a sin-soiled sinner,\nto find pardon in thee,\nto converse with thee;\nto know thee in prayer as\nthe path in which my feet tread,\nthe latch upon the door of my lips,\nthe light that shines through my eyes,\nthe music of my ears,\nthe marrow of my understanding,\nthe strength of my will,\nthe power of my affection,\nthe sweetness of my memory.\nMay the matter of my prayer be always wise, humble, submissive,\nobedient, scriptural, Christ-like.\nGive me unwavering faith that supplications are never in vain,\nthat if I seem not to obtain my petitions\nI shall have larger, richer answers,\nsurpassing all that I ask or think.\nUnsought, thou hast given me the greatest gift,\nthe person of thy Son, and in him thou wilt give me all I need."
+  "sortOrder": 135,
+  "content": {
+    "type": "TextContent",
+    "text": "GRACIOUS LORD,\nThy name is love,\nin love receive my prayer.\nMy sins are more than the wide sea's sand,\nbut where sin abounds, there is grace more abundant.\nLook to the cross of thy beloved Son,\nand view the preciousness of his atoning blood;\nListen to his never-failing intercession,\nand whisper to my heart, Thy sins are forgiven,\nbe of good cheer, he down in peace.'\nGrace cataracts from heaven and flows for ever,\nand mercy never wearies in bestowing benefits.\nGrant me more and more\nto prize the privilege of prayer,\nto come to thee as a sin-soiled sinner,\nto find pardon in thee,\nto converse with thee;\nto know thee in prayer as\nthe path in which my feet tread,\nthe latch upon the door of my lips,\nthe light that shines through my eyes,\nthe music of my ears,\nthe marrow of my understanding,\nthe strength of my will,\nthe power of my affection,\nthe sweetness of my memory.\nMay the matter of my prayer be always wise, humble, submissive,\nobedient, scriptural, Christ-like.\nGive me unwavering faith that supplications are never in vain,\nthat if I seem not to obtain my petitions\nI shall have larger, richer answers,\nsurpassing all that I ask or think.\nUnsought, thou hast given me the greatest gift,\nthe person of thy Son, and in him thou wilt give me all I need.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 135
+  }
 }

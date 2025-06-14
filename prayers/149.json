@@ -1,6 +1,25 @@
 {
-  "id": 149,
+  "id": "prayer-149",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "COMFORTS",
+  "subtitle": null,
+  "description": null,
   "section": "Gifts of Grace",
-  "content": "Streams upon streams of love overflow my path.\nThou hast made me out of nothing,\nhast recalled me from a far country,\nhast translated me from ignorance to knowledge,\nfrom darkness to light,\nfrom death to life,\nfrom misery to peace,\nfrom folly to wisdom,\nfrom error to truth,\nfrom sin to victory.\nThanks be to thee for my high and holy calling.\nI bless thee for ministering angels,\nfor the comfort of thy Word,\nfor the ordinances of thy church,\nfor the teaching of thy Spirit,\nfor thy holy sacraments,\nfor the communion of saints,\nfor Christian fellowship,\nfor the recorded annals of holy lives,\nfor examples sweet to allure,\nfor beacons sad to deter.\nThy will is in all thy provisions\nto enable me to grow in grace,\nand to be meet for thy eternal presence.\nMy heaven-born faith gives promise of eternal sight,\nmy new birth a pledge of never-ending life.\nI draw near to thee, knowing thou wilt draw near to me.\nI ask of thee, believing thou hast already given.\nI entrust myself to thee, for thou hast redeemed me.\nI bless and adore thee, the eternal God,\nfor the comfort of these thoughts,\nthe joy of these hopes."
+  "sortOrder": 149,
+  "content": {
+    "type": "TextContent",
+    "text": "Streams upon streams of love overflow my path.\nThou hast made me out of nothing,\nhast recalled me from a far country,\nhast translated me from ignorance to knowledge,\nfrom darkness to light,\nfrom death to life,\nfrom misery to peace,\nfrom folly to wisdom,\nfrom error to truth,\nfrom sin to victory.\nThanks be to thee for my high and holy calling.\nI bless thee for ministering angels,\nfor the comfort of thy Word,\nfor the ordinances of thy church,\nfor the teaching of thy Spirit,\nfor thy holy sacraments,\nfor the communion of saints,\nfor Christian fellowship,\nfor the recorded annals of holy lives,\nfor examples sweet to allure,\nfor beacons sad to deter.\nThy will is in all thy provisions\nto enable me to grow in grace,\nand to be meet for thy eternal presence.\nMy heaven-born faith gives promise of eternal sight,\nmy new birth a pledge of never-ending life.\nI draw near to thee, knowing thou wilt draw near to me.\nI ask of thee, believing thou hast already given.\nI entrust myself to thee, for thou hast redeemed me.\nI bless and adore thee, the eternal God,\nfor the comfort of these thoughts,\nthe joy of these hopes.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 149
+  }
 }

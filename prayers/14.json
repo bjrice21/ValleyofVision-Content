@@ -1,6 +1,25 @@
 {
-  "id": 14,
+  "id": "prayer-14",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "PRAISE AND THANKSGIVING",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "Thou fairest, greatest, first of all objects,\nmy heart admires, adores, loves thee,\nfor my little vessel is as full as it can be,\nand I would pour out all that fullness before thee in ceaseless flow.\nWhen I think upon and converse with thee\nten thousand delightful thoughts spring up,\nten thousand sources of pleasure are unsealed,\nten thousand refreshing joys spread over my heart,\ncrowding into every moment of happiness.\nI bless thee for the soul thou hast created,\nfor adorning it, sanctifying it,\nthough it is fixed in barren soil;\nfor the body thou hast given me,\nfor preserving its strength and vigour,\nfor providing senses to enjoy delights,\nfor the ease and freedom of my limbs,\nfor hands, eyes, ears that do thy bidding;\nfor thy royal bounty providing my daily support,\nfor a full table and overflowing cup,\nfor appetite, taste, sweetness,\nfor social joys of relatives and friends,\nfor ability to serve others,\nfor a heart that feels sorrows and necessities,\nfor a mind to care for my fellow-men,\nfor opportunities of spreading happiness around,\nfor loved ones in the joys of heaven,\nfor my own expectation of seeing thee clearly.\nI love thee above the powers of language to express,\nfor what thou art to thy creatures.\nIncrease my love, O my God, through time and eternity."
+  "sortOrder": 14,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou fairest, greatest, first of all objects,\nmy heart admires, adores, loves thee,\nfor my little vessel is as full as it can be,\nand I would pour out all that fullness before thee in ceaseless flow.\nWhen I think upon and converse with thee\nten thousand delightful thoughts spring up,\nten thousand sources of pleasure are unsealed,\nten thousand refreshing joys spread over my heart,\ncrowding into every moment of happiness.\nI bless thee for the soul thou hast created,\nfor adorning it, sanctifying it,\nthough it is fixed in barren soil;\nfor the body thou hast given me,\nfor preserving its strength and vigour,\nfor providing senses to enjoy delights,\nfor the ease and freedom of my limbs,\nfor hands, eyes, ears that do thy bidding;\nfor thy royal bounty providing my daily support,\nfor a full table and overflowing cup,\nfor appetite, taste, sweetness,\nfor social joys of relatives and friends,\nfor ability to serve others,\nfor a heart that feels sorrows and necessities,\nfor a mind to care for my fellow-men,\nfor opportunities of spreading happiness around,\nfor loved ones in the joys of heaven,\nfor my own expectation of seeing thee clearly.\nI love thee above the powers of language to express,\nfor what thou art to thy creatures.\nIncrease my love, O my God, through time and eternity.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 14
+  }
 }

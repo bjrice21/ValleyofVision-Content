@@ -1,6 +1,25 @@
 {
-  "id": 115,
+  "id": "prayer-115",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "let it be no stumbling block to others,",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "or dishonour to thy name.\nO help me to set an upright example that will ever rebuke vice,\nallure to goodness,\nand evidence that lovely are the ways of Christ."
+  "sortOrder": 115,
+  "content": {
+    "type": "TextContent",
+    "text": "or dishonour to thy name.\nO help me to set an upright example that will ever rebuke vice,\nallure to goodness,\nand evidence that lovely are the ways of Christ.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 115
+  }
 }

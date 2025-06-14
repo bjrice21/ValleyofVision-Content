@@ -1,6 +1,25 @@
 {
-  "id": 130,
+  "id": "prayer-130",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "COVENANT",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "Grant me the favour of being led by thee,\nunder the directions of thy providence and thy Word.\nGrant me thy blessings with bitter things,\nto brighten and quicken me,\nnot to depress and make me lifeless;\nGrant me, like Gideon of old, way-tokens,\nby removing things that discourage me;\nGrant me succour beneath the shadow of thy sympathy\nwhen I am tempted.\nAccept my unceasing thanks\nthat I am not cast off from thy hand\nas a darkened star or a rudderless vessel.\nSuffer not my life to extend beyond my usefulness;\nCast me not under the feet of pride, injustice, riches,\nworldly greatness, selfish oppression of men;\nHelp me to wait patiently, silently upon thee,\nnot to be enraged or speak unadvisedly.\nLet thy mercy follow me while I live,\nand give me aid to resign myself to thy will\nTake my heart and hold it in thy hand;\nwrite upon it reverence to thyself\nwith an inscription that time and eternity cannot erase.\nTo thy grace and the care of thy covenant\nI commit myself, in sickness, and in health,\nfor thou hast overcome the world,\nfulfilled the law,\nfinished justifying righteousness,\nswallowed up death in victory,\nand taken all power everywhere.\nMark this covenant with thine own blood\nin the court of forgiving mercy;\nAttach unto it thy name in which I believe,\nfor it is sealed by my unworthy mortal hand."
+  "sortOrder": 130,
+  "content": {
+    "type": "TextContent",
+    "text": "Grant me the favour of being led by thee,\nunder the directions of thy providence and thy Word.\nGrant me thy blessings with bitter things,\nto brighten and quicken me,\nnot to depress and make me lifeless;\nGrant me, like Gideon of old, way-tokens,\nby removing things that discourage me;\nGrant me succour beneath the shadow of thy sympathy\nwhen I am tempted.\nAccept my unceasing thanks\nthat I am not cast off from thy hand\nas a darkened star or a rudderless vessel.\nSuffer not my life to extend beyond my usefulness;\nCast me not under the feet of pride, injustice, riches,\nworldly greatness, selfish oppression of men;\nHelp me to wait patiently, silently upon thee,\nnot to be enraged or speak unadvisedly.\nLet thy mercy follow me while I live,\nand give me aid to resign myself to thy will\nTake my heart and hold it in thy hand;\nwrite upon it reverence to thyself\nwith an inscription that time and eternity cannot erase.\nTo thy grace and the care of thy covenant\nI commit myself, in sickness, and in health,\nfor thou hast overcome the world,\nfulfilled the law,\nfinished justifying righteousness,\nswallowed up death in victory,\nand taken all power everywhere.\nMark this covenant with thine own blood\nin the court of forgiving mercy;\nAttach unto it thy name in which I believe,\nfor it is sealed by my unworthy mortal hand.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 130
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 8,
+  "id": "prayer-8",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE DIVINE WILL",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "I hang on thee; I see, believe, live,\nwhen thy will, not mine, is done;\nI can plead nothing in myself\nin regard of any worthiness and grace,\nin regard of thy providence and promises,\nbut only thy good pleasure.\nIf thy mercy make mc poor and vile, blessed be thou!\nPrayers arising from my needs are preparations for future mercies;\nHelp me to honour thee by believing before I feel,\nfor great is the sin if I make feeling a cause of faith.\nShow me what sins hide thee from me\nand eclipse thy love;\nHelp me to humble myself for past evils,\nto be resolved to walk with more care,\nFor if I do not walk holily before thee,\nhow can I be assured of my salvation?\nIt is the meek and humble who are shown thy covenant,\nknow thy will, are pardoned and healed,\nwho by faith depend and rest upon grace,\nwho are sanctified and quickened,\nwho evidence thy love.\nHelp me to pray in faith and so find thy will,\nby leaning hard on thy rich free mercy,\nby believing thou wilt give what thou hast promised;\nStrengthen me to pray with the conviction\nthat whatever I receive is thy gift,\nso that I may pray until prayer be granted;\nTeach me to believe that all degrees of mercy arise\nfrom several degrees of prayer,\nthat when faith is begun it is imperfect and must grow,\nas chapped ground opens wider and wider until rain comes.\nSo shall I wait thy will, pray for it to be done,\nand by thy grace become fully obedient."
+  "sortOrder": 8,
+  "content": {
+    "type": "TextContent",
+    "text": "I hang on thee; I see, believe, live,\nwhen thy will, not mine, is done;\nI can plead nothing in myself\nin regard of any worthiness and grace,\nin regard of thy providence and promises,\nbut only thy good pleasure.\nIf thy mercy make mc poor and vile, blessed be thou!\nPrayers arising from my needs are preparations for future mercies;\nHelp me to honour thee by believing before I feel,\nfor great is the sin if I make feeling a cause of faith.\nShow me what sins hide thee from me\nand eclipse thy love;\nHelp me to humble myself for past evils,\nto be resolved to walk with more care,\nFor if I do not walk holily before thee,\nhow can I be assured of my salvation?\nIt is the meek and humble who are shown thy covenant,\nknow thy will, are pardoned and healed,\nwho by faith depend and rest upon grace,\nwho are sanctified and quickened,\nwho evidence thy love.\nHelp me to pray in faith and so find thy will,\nby leaning hard on thy rich free mercy,\nby believing thou wilt give what thou hast promised;\nStrengthen me to pray with the conviction\nthat whatever I receive is thy gift,\nso that I may pray until prayer be granted;\nTeach me to believe that all degrees of mercy arise\nfrom several degrees of prayer,\nthat when faith is begun it is imperfect and must grow,\nas chapped ground opens wider and wider until rain comes.\nSo shall I wait thy will, pray for it to be done,\nand by thy grace become fully obedient.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 8
+  }
 }

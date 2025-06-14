@@ -1,6 +1,25 @@
 {
-  "id": 94,
+  "id": "prayer-94",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "NEED OF JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Needs and Devotions",
-  "content": "I am blind, be thou my light,\nignorant, be thou my wisdom,\nself-willed, be thou my mind.\nOpen my ear to grasp quickly thy Spirit's voice,\nand delightfully run after his beckoning hand;\nMelt my conscience that no hardness remain,\nmake it alive to evil's slightest touch;\nWhen Satan approaches may I flee to thy wounds,\nand there cease to tremble at all alarms.\nBe my good shepherd to lead me into the green pastures of thy Word,\nand cause me to lie down beside the rivers of its comforts.\nFill me with peace, that no disquieting worldly gales\nmay ruffle the calm surface of my soul.\nThy cross was upraised to be my refuge,\nThy blood streamed forth to wash me clean,\nThy death occurred to give me a surety,\nThy name is my property to save me,\nBy thee all heaven is poured into my heart,\nbut it is too narrow to comprehend thy love.\nI was a stranger, an outcast, a slave, a rebel,\nbut thy cross has brought me near,\nhas softened my heart,\nhas made me thy Father's child,\nhas admitted me to thy family,\nhas made me joint-heir with thyself.\nO that I may love thee as thou lovest me,\nthat I may walk worthy of thee, my Lord,\nthat I may reflect the image of heaven's first-born.\nMay I always see thy beauty with the clear eye of faith,\nand feel the power of thy Spirit in my heart,\nfor unless he move mightily in me\nno inward fire will be kindled."
+  "sortOrder": 94,
+  "content": {
+    "type": "TextContent",
+    "text": "I am blind, be thou my light,\nignorant, be thou my wisdom,\nself-willed, be thou my mind.\nOpen my ear to grasp quickly thy Spirit's voice,\nand delightfully run after his beckoning hand;\nMelt my conscience that no hardness remain,\nmake it alive to evil's slightest touch;\nWhen Satan approaches may I flee to thy wounds,\nand there cease to tremble at all alarms.\nBe my good shepherd to lead me into the green pastures of thy Word,\nand cause me to lie down beside the rivers of its comforts.\nFill me with peace, that no disquieting worldly gales\nmay ruffle the calm surface of my soul.\nThy cross was upraised to be my refuge,\nThy blood streamed forth to wash me clean,\nThy death occurred to give me a surety,\nThy name is my property to save me,\nBy thee all heaven is poured into my heart,\nbut it is too narrow to comprehend thy love.\nI was a stranger, an outcast, a slave, a rebel,\nbut thy cross has brought me near,\nhas softened my heart,\nhas made me thy Father's child,\nhas admitted me to thy family,\nhas made me joint-heir with thyself.\nO that I may love thee as thou lovest me,\nthat I may walk worthy of thee, my Lord,\nthat I may reflect the image of heaven's first-born.\nMay I always see thy beauty with the clear eye of faith,\nand feel the power of thy Spirit in my heart,\nfor unless he move mightily in me\nno inward fire will be kindled.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 94
+  }
 }

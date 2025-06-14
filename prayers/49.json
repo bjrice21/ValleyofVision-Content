@@ -1,6 +1,25 @@
 {
-  "id": 49,
+  "id": "prayer-49",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "And such I could not know except by thy Spirit in my heart,",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "nor love thee at all unless thou didst\nelect me, call me, adopt me, save me.\nI bless thee for the covenant of grace."
+  "sortOrder": 49,
+  "content": {
+    "type": "TextContent",
+    "text": "nor love thee at all unless thou didst\nelect me, call me, adopt me, save me.\nI bless thee for the covenant of grace.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 49
+  }
 }

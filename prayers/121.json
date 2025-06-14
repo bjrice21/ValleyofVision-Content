@@ -1,6 +1,25 @@
 {
-  "id": 121,
+  "id": "prayer-121",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "DIVINE PROMISES",
+  "subtitle": null,
+  "description": null,
   "section": "Holy Aspirations",
-  "content": "GLORIOUS JEHOVAH, MY COVENANT GOD,\nAll thy promises in Christ Jesus are yea and amen,\nand all shall be fulfilled.\nThou hast spoken them, and they shall be done,\ncommanded, and they shall come to pass.\nYet I have often doubted them,\nhave lived at times as if there were no God.\nLord, forgive me that death in life,\nwhen I have found something apart from thee,\nwhen I have been content with ephemeral things.\nBut through thy grace I have repented;\nThou hast given me to read my pardon in the wounds of Jesus,\nand my soul doth trust in him, my God incarnate,\nthe ground of my life, die spring of my hope.\nTeach me to be resigned to thy will,\nto delight in thy law,\nto have no will but thine,\nto believe that everything thou doest is for my good.\nHelp me to leave my concerns in thy hands,\nfor thou hast power over evil\nand bringest from it an infinite progression of good,\nuntil thy purposes are fulfilled.\nBless me with Abraham's faith\nthat staggers not at promises through unbelief.\nMay I not instruct thee in my troubles,\nbut glorify thee in my trials;\nGrant me a distinct advance in the divine life;\nMay I reach a higher platform,\nleave the mists of doubt and fear in the valley,\nand climb to hill-tops of eternal security in Christ\nby simply believing he cannot fie,\nor turn from his purpose.\nGive me the confidence I ought to have in him\nwho is worthy to be praised, and who is blessed for\nevermore."
+  "sortOrder": 121,
+  "content": {
+    "type": "TextContent",
+    "text": "GLORIOUS JEHOVAH, MY COVENANT GOD,\nAll thy promises in Christ Jesus are yea and amen,\nand all shall be fulfilled.\nThou hast spoken them, and they shall be done,\ncommanded, and they shall come to pass.\nYet I have often doubted them,\nhave lived at times as if there were no God.\nLord, forgive me that death in life,\nwhen I have found something apart from thee,\nwhen I have been content with ephemeral things.\nBut through thy grace I have repented;\nThou hast given me to read my pardon in the wounds of Jesus,\nand my soul doth trust in him, my God incarnate,\nthe ground of my life, die spring of my hope.\nTeach me to be resigned to thy will,\nto delight in thy law,\nto have no will but thine,\nto believe that everything thou doest is for my good.\nHelp me to leave my concerns in thy hands,\nfor thou hast power over evil\nand bringest from it an infinite progression of good,\nuntil thy purposes are fulfilled.\nBless me with Abraham's faith\nthat staggers not at promises through unbelief.\nMay I not instruct thee in my troubles,\nbut glorify thee in my trials;\nGrant me a distinct advance in the divine life;\nMay I reach a higher platform,\nleave the mists of doubt and fear in the valley,\nand climb to hill-tops of eternal security in Christ\nby simply believing he cannot fie,\nor turn from his purpose.\nGive me the confidence I ought to have in him\nwho is worthy to be praised, and who is blessed for\nevermore.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 121
+  }
 }

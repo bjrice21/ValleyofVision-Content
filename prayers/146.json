@@ -1,6 +1,25 @@
 {
-  "id": 146,
+  "id": "prayer-146",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "CONTENTMENT",
+  "subtitle": null,
+  "description": null,
   "section": "Gifts of Grace",
-  "content": "If I should suffer need, and go unclothed, and be in poverty,\nmake my heart prize thy love, know it, be constrained by it,\nthough I be denied all blessings.\nIt is thy mercy to afflict and try me with wants,\nfor by these trials I see my sins,\nand desire severance from them.\nLet me willingly accept misery, sorrows, temptations,\nif I can thereby feel sin as the greatest evil,\nand be delivered from it with gratitude to thee,\nacknowledging this as the highest testimony of thy love.\nWhen thy Son, Jesus, came into my soul instead of sin\nhe became more dear to me than sin had formerly been;\nhis kindly rule replaced sin's tyranny.\nTeach me to believe that if ever I would have any sin subdued\nI must not only labour to overcome it,\nbut must invite Christ to abide in the place of it,\nand he must become to me more than vile lust had been;\nthat his sweetness, power, life may be there.\nThus I must seek a grace from him contrary to sin,\nbut must not claim it apart from himself.\nWhen I am afraid of evils to come, comfort me by showing me\nthat in myself I am a dying, condemned wretch,\nbut in Christ I am reconciled and live;\nthat in myself I find insufficiency and no rest,\nbut in Christ there is satisfaction and peace;\nthat in myself I am feeble and unable to do good,\nbut in Christ I have ability to do all things.\nThough now I have his graces in part,\nI shall shortly have them perfectly\nin that state where thou wilt show thyself fully reconciled,\nand alone sufficient, efficient, loving me completely,\nwith sin abolished.\nO Lord, hasten that day."
+  "sortOrder": 146,
+  "content": {
+    "type": "TextContent",
+    "text": "If I should suffer need, and go unclothed, and be in poverty,\nmake my heart prize thy love, know it, be constrained by it,\nthough I be denied all blessings.\nIt is thy mercy to afflict and try me with wants,\nfor by these trials I see my sins,\nand desire severance from them.\nLet me willingly accept misery, sorrows, temptations,\nif I can thereby feel sin as the greatest evil,\nand be delivered from it with gratitude to thee,\nacknowledging this as the highest testimony of thy love.\nWhen thy Son, Jesus, came into my soul instead of sin\nhe became more dear to me than sin had formerly been;\nhis kindly rule replaced sin's tyranny.\nTeach me to believe that if ever I would have any sin subdued\nI must not only labour to overcome it,\nbut must invite Christ to abide in the place of it,\nand he must become to me more than vile lust had been;\nthat his sweetness, power, life may be there.\nThus I must seek a grace from him contrary to sin,\nbut must not claim it apart from himself.\nWhen I am afraid of evils to come, comfort me by showing me\nthat in myself I am a dying, condemned wretch,\nbut in Christ I am reconciled and live;\nthat in myself I find insufficiency and no rest,\nbut in Christ there is satisfaction and peace;\nthat in myself I am feeble and unable to do good,\nbut in Christ I have ability to do all things.\nThough now I have his graces in part,\nI shall shortly have them perfectly\nin that state where thou wilt show thyself fully reconciled,\nand alone sufficient, efficient, loving me completely,\nwith sin abolished.\nO Lord, hasten that day.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 146
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 52,
+  "id": "prayer-52",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "VICTORY",
+  "subtitle": null,
+  "description": null,
   "section": "Redemption and Reconciliation",
-  "content": "O DIVINE REDEEMER,\nGreat was thy goodness\nin undertaking my redemption,\nin consenting to be made sin for me,\nin conquering all my foes;\nGreat was thy strength in enduring the extremities of divine wrath,\nin taking away the load of my iniquities;\nGreat was thy love\nin manifesting thyself alive,\nin showing thy sacred wounds,\nthat every fear might vanish, and every doubt be removed;\nGreat was thy mercy\nin ascending to heaven\nin being crowned and enthroned\nthere to intercede for me,\nthere to succour me in temptation,\nthere to open the eternal book,\nthere to receive me finally to thyself;\nGreat was thy wisdom\nin devising this means of salvation;\nBathe my soul in rich consolations of thy resurrection life;\nGreat was thy grace\nin commanding me to come hand in hand with thee to the Father,\nto be knit to him eternally,\nto discover in him my rest,\nto find in him my peace, to behold his glory,\nto honour him who is alone worthy;\nin giving me the Spirit as teacher, guide, power, that\nI may five repenting of sin,\nconquer Satan, find victory in life.\nWhen thou art absent all sorrows are here,\nWhen thou art present all blessings are mine."
+  "sortOrder": 52,
+  "content": {
+    "type": "TextContent",
+    "text": "O DIVINE REDEEMER,\nGreat was thy goodness\nin undertaking my redemption,\nin consenting to be made sin for me,\nin conquering all my foes;\nGreat was thy strength in enduring the extremities of divine wrath,\nin taking away the load of my iniquities;\nGreat was thy love\nin manifesting thyself alive,\nin showing thy sacred wounds,\nthat every fear might vanish, and every doubt be removed;\nGreat was thy mercy\nin ascending to heaven\nin being crowned and enthroned\nthere to intercede for me,\nthere to succour me in temptation,\nthere to open the eternal book,\nthere to receive me finally to thyself;\nGreat was thy wisdom\nin devising this means of salvation;\nBathe my soul in rich consolations of thy resurrection life;\nGreat was thy grace\nin commanding me to come hand in hand with thee to the Father,\nto be knit to him eternally,\nto discover in him my rest,\nto find in him my peace, to behold his glory,\nto honour him who is alone worthy;\nin giving me the Spirit as teacher, guide, power, that\nI may five repenting of sin,\nconquer Satan, find victory in life.\nWhen thou art absent all sorrows are here,\nWhen thou art present all blessings are mine.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 52
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 166,
+  "id": "prayer-166",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A MINISTER'S EVILS",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "BLESSED SPIRIT OF GOD,\nFour evils attend my ministry--\nThe devil treads me down by discouragement and shame\narising from coldness in private meditation.\nCarelessness possesses me\nfrom natural dullness and dimness of spirit;\nbecause in the past I have met with success\nand been highly regarded,\nso that it does not matter if I have now failed.\nInfirmities and weakness are mine from want of spiritual light,\nlife and power,\nso that souls have not been helped,\nand I have not felt thee to be near.\nLack of success has followed even when I have done my best.\nBut thou hast shown me that the glory of everything\nthat is sanctified to do good\nis not seen in itself, but in the source of its sanctification.\nThus my end in preaching is to know Christ,\nand impart his truth;\nmy principle in preaching is Christ himself, whom I trust,\nfor in him is fullness of spirit and strength;\nmy comfort in preaching is to do all for him.\nHelp me in my work to grow more humble,\nto pick something out of all providences\nto that end, to joy in thee and loathe myself,\nto keep my life, being, soul, and body only for thee,\nto carry my heart to thee in love and delight,\nto see all my grace in thee, coming from thee,\nto walk with thee in endearment.\nThen, whether I succeed or fail, nought matters but thee alone."
+  "sortOrder": 166,
+  "content": {
+    "type": "TextContent",
+    "text": "BLESSED SPIRIT OF GOD,\nFour evils attend my ministry--\nThe devil treads me down by discouragement and shame\narising from coldness in private meditation.\nCarelessness possesses me\nfrom natural dullness and dimness of spirit;\nbecause in the past I have met with success\nand been highly regarded,\nso that it does not matter if I have now failed.\nInfirmities and weakness are mine from want of spiritual light,\nlife and power,\nso that souls have not been helped,\nand I have not felt thee to be near.\nLack of success has followed even when I have done my best.\nBut thou hast shown me that the glory of everything\nthat is sanctified to do good\nis not seen in itself, but in the source of its sanctification.\nThus my end in preaching is to know Christ,\nand impart his truth;\nmy principle in preaching is Christ himself, whom I trust,\nfor in him is fullness of spirit and strength;\nmy comfort in preaching is to do all for him.\nHelp me in my work to grow more humble,\nto pick something out of all providences\nto that end, to joy in thee and loathe myself,\nto keep my life, being, soul, and body only for thee,\nto carry my heart to thee in love and delight,\nto see all my grace in thee, coming from thee,\nto walk with thee in endearment.\nThen, whether I succeed or fail, nought matters but thee alone.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 166
+  }
 }

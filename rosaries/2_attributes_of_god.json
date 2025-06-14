@@ -1,140 +1,157 @@
 {
-  "id": 2,
-  "name": "Attributes of God Rosary",
+  "id": "rosary-2",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "Attributes of God Rosary",
+  "subtitle": null,
   "description": "A meditative rosary reflecting on God's divine attributes",
   "section": "Contemplative",
-  "type": "DETAILED",
-  "introSection": {
-    "cross": {
-      "title": "Opening Invocation",
-      "content": "Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come.",
-      "scriptureReference": "Revelation 4:8",
-      "displayHint": "EMPHASIZED"
-    },
-    "firstLargeBead": {
-      "title": "Adoration",
-      "content": "We adore You, O God, for Your infinite perfections and glorious attributes."
-    },
-    "threeSmallBeads": [
-      {
-        "content": "God, You are holy"
+  "sortOrder": 2,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "DETAILED",
+    "introSection": {
+      "cross": {
+        "title": "Opening Invocation",
+        "content": "Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come.",
+        "scriptureReference": "Revelation 4:8",
+        "displayHint": "EMPHASIZED"
       },
-      {
-        "content": "God, You are mighty"
+      "firstLargeBead": {
+        "title": "Adoration",
+        "content": "We adore You, O God, for Your infinite perfections and glorious attributes."
       },
-      {
-        "content": "God, You are eternal"
+      "threeSmallBeads": [
+        {
+          "content": "God, You are holy"
+        },
+        {
+          "content": "God, You are mighty"
+        },
+        {
+          "content": "God, You are eternal"
+        }
+      ],
+      "secondLargeBead": {
+        "title": "Doxology",
+        "content": "Praise God from whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost. Amen."
       }
-    ],
-    "secondLargeBead": {
-      "title": "Doxology",
-      "content": "Praise God from whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost. Amen."
-    }
-  },
-  "decades": [
-    {
-      "number": 1,
-      "theme": "God's Love",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "God so loved the world that He gave His only Son, that whoever believes in Him should not perish but have eternal life.",
-        "scriptureReference": "John 3:16"
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "God's Love",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "God so loved the world that He gave His only Son, that whoever believes in Him should not perish but have eternal life.",
+          "scriptureReference": "John 3:16"
+        },
+        "smallBeads": {
+          "type": "INDIVIDUAL_PRAYERS",
+          "prayers": [
+            {
+              "content": "Your love, O Lord, reaches to the heavens"
+            },
+            {
+              "content": "Your faithfulness extends to the clouds"
+            },
+            {
+              "content": "Your love is patient and kind"
+            },
+            {
+              "content": "Your love never fails"
+            },
+            {
+              "content": "Your love casts out fear"
+            },
+            {
+              "content": "Your love is everlasting"
+            },
+            {
+              "content": "Your love is unconditional"
+            },
+            {
+              "content": "Your love is sacrificial"
+            },
+            {
+              "content": "Your love is transforming"
+            },
+            {
+              "content": "Your love is our salvation"
+            }
+          ]
+        }
       },
-      "smallBeads": {
-        "type": "INDIVIDUAL_PRAYERS",
-        "prayers": [
-          {
-            "content": "Your love, O Lord, reaches to the heavens"
-          },
-          {
-            "content": "Your faithfulness extends to the clouds"
-          },
-          {
-            "content": "Your love is patient and kind"
-          },
-          {
-            "content": "Your love never fails"
-          },
-          {
-            "content": "Your love casts out fear"
-          },
-          {
-            "content": "Your love is everlasting"
-          },
-          {
-            "content": "Your love is unconditional"
-          },
-          {
-            "content": "Your love is sacrificial"
-          },
-          {
-            "content": "Your love is transforming"
-          },
-          {
-            "content": "Your love is our salvation"
+      {
+        "number": 2,
+        "theme": "God's Wisdom",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!",
+          "scriptureReference": "Romans 11:33"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "In Your wisdom, Lord, You have made all things"
           }
-        ]
-      }
-    },
-    {
-      "number": 2,
-      "theme": "God's Wisdom",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!",
-        "scriptureReference": "Romans 11:33"
+        }
       },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "In Your wisdom, Lord, You have made all things"
+      {
+        "number": 3,
+        "theme": "God's Power",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Ah, Lord God! It is You who have made the heavens and the earth by Your great power and by Your outstretched arm! Nothing is too hard for You.",
+          "scriptureReference": "Jeremiah 32:17"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Great is our Lord, and abundant in power"
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "God's Holiness",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Who will not fear, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You.",
+          "scriptureReference": "Revelation 15:4"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Holy, holy, holy is the Lord of hosts"
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "God's Faithfulness",
+        "largeBead": {
+          "title": "Meditation",
+          "content": "Your steadfast love, O Lord, extends to the heavens, Your faithfulness to the clouds.",
+          "scriptureReference": "Psalm 36:5"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Great is Your faithfulness, O God my Father"
+          }
         }
       }
-    },
-    {
-      "number": 3,
-      "theme": "God's Power",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Ah, Lord God! It is You who have made the heavens and the earth by Your great power and by Your outstretched arm! Nothing is too hard for You.",
-        "scriptureReference": "Jeremiah 32:17"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Great is our Lord, and abundant in power"
-        }
-      }
-    },
-    {
-      "number": 4,
-      "theme": "God's Holiness",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Who will not fear, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You.",
-        "scriptureReference": "Revelation 15:4"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Holy, holy, holy is the Lord of hosts"
-        }
-      }
-    },
-    {
-      "number": 5,
-      "theme": "God's Faithfulness",
-      "largeBead": {
-        "title": "Meditation",
-        "content": "Your steadfast love, O Lord, extends to the heavens, Your faithfulness to the clouds.",
-        "scriptureReference": "Psalm 36:5"
-      },
-      "smallBeads": {
-        "type": "SINGLE_REFRAIN",
-        "refrain": {
-          "content": "Great is Your faithfulness, O God my Father"
-        }
-      }
-    }
-  ]
+    ]
+  },
+  "metadata": {
+    "originalId": 2
+  }
 }

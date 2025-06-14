@@ -1,6 +1,25 @@
 {
-  "id": 178,
+  "id": "prayer-178",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE LORD'S SUPPER",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "I bless thee for the means of grace;\nteach me to see in them thy loving purposes\nand the joy and strength of my soul,\nThou hast prepared for me a feast;\nand though I am unworthy to sit down as guest,\nI wholly rest on the merits of Jesus,\nand hide myself beneath his righteousness;\nWhen I hear his tender invitation\nand see his wondrous grace,\nI cannot hesitate, but must come to thee in love.\nBy thy Spirit enliven my faith rightly to discern\nand spiritually to apprehend the Saviour.\nWhile I gaze upon the emblems of my Saviour's death,\nmay I ponder why he died, and hear him say,\nI gave my life to purchase yours,\npresented myself an offering to expiate your sin,\nshed my blood to blot out your guilt,\nopened my side to make you clean,\nendured your curses to set you free,\nbore your condemnation to satisfy divine justice.'\nO may I rightly grasp the breadth and length of this design,\ndraw near, obey, extend the hand, take the bread,\nreceive the cup, eat and drink,\ntestify before all men that I do for myself,\ngladly, in faith, reverence and love, receive my Lord,\nto be my life, strength, nourishment, joy, delight.\nIn the supper I remember his eternal love, boundless grace,\ninfinite compassion, agony, cross, redemption,\nand receive assurance of pardon, adoption, life, glory.\nAs the outward elements nourish my body,\nso may thy indwelling Spirit invigorate my soul,\nuntil that day when I hunger and thirst no more,\nand sit with Jesus at his heavenly feast."
+  "sortOrder": 178,
+  "content": {
+    "type": "TextContent",
+    "text": "I bless thee for the means of grace;\nteach me to see in them thy loving purposes\nand the joy and strength of my soul,\nThou hast prepared for me a feast;\nand though I am unworthy to sit down as guest,\nI wholly rest on the merits of Jesus,\nand hide myself beneath his righteousness;\nWhen I hear his tender invitation\nand see his wondrous grace,\nI cannot hesitate, but must come to thee in love.\nBy thy Spirit enliven my faith rightly to discern\nand spiritually to apprehend the Saviour.\nWhile I gaze upon the emblems of my Saviour's death,\nmay I ponder why he died, and hear him say,\nI gave my life to purchase yours,\npresented myself an offering to expiate your sin,\nshed my blood to blot out your guilt,\nopened my side to make you clean,\nendured your curses to set you free,\nbore your condemnation to satisfy divine justice.'\nO may I rightly grasp the breadth and length of this design,\ndraw near, obey, extend the hand, take the bread,\nreceive the cup, eat and drink,\ntestify before all men that I do for myself,\ngladly, in faith, reverence and love, receive my Lord,\nto be my life, strength, nourishment, joy, delight.\nIn the supper I remember his eternal love, boundless grace,\ninfinite compassion, agony, cross, redemption,\nand receive assurance of pardon, adoption, life, glory.\nAs the outward elements nourish my body,\nso may thy indwelling Spirit invigorate my soul,\nuntil that day when I hunger and thirst no more,\nand sit with Jesus at his heavenly feast.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 178
+  }
 }

@@ -1,6 +1,25 @@
 {
-  "id": 81,
+  "id": "prayer-81",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "SINS",
+  "subtitle": null,
+  "description": null,
   "section": "Penitence and Deprecation",
-  "content": "MERCIFUL LORD,\nPardon all my sins of this day, week, year,\nall the sins of my life,\nsins of early, middle, and advanced years,\nof omission and commission,\nof morose, peevish and angry tempers,\nof lip, life and walk,\nof hard-heartedness, unbelief, presumption, pride,\nof unfaithfulness to the souls of men,\nof want of bold decision in the cause of Christ,\nof deficiency in outspoken zeal for his glory,\nof bringing dishonour upon thy great name,\nof deception, injustice, untruthfulness\nin my dealings with others,\nof impurity in thought, word and deed,\nof covetousness, which is idolatry,\nof substance unduly hoarded, improvidently squandered,\nnot consecrated to the glory of thee, the great giver;\nsins in private and in the family,\nin study and recreation,\nin the busy haunts of men,\nin the study of thy Word and in the neglect of it,\nin prayer irreverently offered and coldly withheld,\nin time misspent, in yielding to Satan's wiles,\nin opening my heart to his temptations,\nin being unwatchful when I know him nigh,\nin quenching the Holy Spirit;\nsins against fight and knowledge,\nagainst conscience and the restraints of thy Spirit,\nagainst the law of eternal love.\nPardon all my sins, known and unknown, felt and unfelt,\nconfessed and not confessed,\nremembered or forgotten.\nGood Lord, hear; and hearing, forgive."
+  "sortOrder": 81,
+  "content": {
+    "type": "TextContent",
+    "text": "MERCIFUL LORD,\nPardon all my sins of this day, week, year,\nall the sins of my life,\nsins of early, middle, and advanced years,\nof omission and commission,\nof morose, peevish and angry tempers,\nof lip, life and walk,\nof hard-heartedness, unbelief, presumption, pride,\nof unfaithfulness to the souls of men,\nof want of bold decision in the cause of Christ,\nof deficiency in outspoken zeal for his glory,\nof bringing dishonour upon thy great name,\nof deception, injustice, untruthfulness\nin my dealings with others,\nof impurity in thought, word and deed,\nof covetousness, which is idolatry,\nof substance unduly hoarded, improvidently squandered,\nnot consecrated to the glory of thee, the great giver;\nsins in private and in the family,\nin study and recreation,\nin the busy haunts of men,\nin the study of thy Word and in the neglect of it,\nin prayer irreverently offered and coldly withheld,\nin time misspent, in yielding to Satan's wiles,\nin opening my heart to his temptations,\nin being unwatchful when I know him nigh,\nin quenching the Holy Spirit;\nsins against fight and knowledge,\nagainst conscience and the restraints of thy Spirit,\nagainst the law of eternal love.\nPardon all my sins, known and unknown, felt and unfelt,\nconfessed and not confessed,\nremembered or forgotten.\nGood Lord, hear; and hearing, forgive.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 81
+  }
 }

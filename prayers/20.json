@@ -1,6 +1,25 @@
 {
-  "id": 20,
+  "id": "prayer-20",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "THE NAME OF JESUS",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "all-searching god,\nThou readest the heart,\nviewest principles and motives of actions,\nseest more defilement in my duties\nthan I ever saw in any of my sins.\nThe heavens are not clean in thy sight,\nand thou chargest the angels with folly;\nI am ready to flee from myself because of my abominations;\nYet thou dost not abhor me\nbut hast devised means for my return to thee,\nand that, by thy Son who died to give me life.\nThine honour is secured and displayed even in my escape from\nthy threats,\nand that, by means of Jesus\nin whom mercy and truth meet together,\nand righteousness and peace kiss each other.\nIn him the enslaved find redemption,\nthe guilty pardon, the unholy renovation;\nIn him are everlasting strength for the weak,\nunsearchable riches for the needy,\ntreasures of wisdom and knowledge for the ignorant,\nfullness for die empty.\nAt thy gracious call I hear, take, come, apply, receive his grace,\nnot only submit to his mercy but acquiesce in it,\nnot only glory in the cross but in him crucified and slain,\nnot only joy in forgiveness but in the one through whom\natonement comes.\nThy blessings are as secure as they are glorious;\nThou hast provided for my safety and my prosperity,\nand hast promised that I shall stand firm and grow stronger.\nO Lord God, without the pardon of my sin I cannot rest satisfied."
+  "sortOrder": 20,
+  "content": {
+    "type": "TextContent",
+    "text": "all-searching god,\nThou readest the heart,\nviewest principles and motives of actions,\nseest more defilement in my duties\nthan I ever saw in any of my sins.\nThe heavens are not clean in thy sight,\nand thou chargest the angels with folly;\nI am ready to flee from myself because of my abominations;\nYet thou dost not abhor me\nbut hast devised means for my return to thee,\nand that, by thy Son who died to give me life.\nThine honour is secured and displayed even in my escape from\nthy threats,\nand that, by means of Jesus\nin whom mercy and truth meet together,\nand righteousness and peace kiss each other.\nIn him the enslaved find redemption,\nthe guilty pardon, the unholy renovation;\nIn him are everlasting strength for the weak,\nunsearchable riches for the needy,\ntreasures of wisdom and knowledge for the ignorant,\nfullness for die empty.\nAt thy gracious call I hear, take, come, apply, receive his grace,\nnot only submit to his mercy but acquiesce in it,\nnot only glory in the cross but in him crucified and slain,\nnot only joy in forgiveness but in the one through whom\natonement comes.\nThy blessings are as secure as they are glorious;\nThou hast provided for my safety and my prosperity,\nand hast promised that I shall stand firm and grow stronger.\nO Lord God, without the pardon of my sin I cannot rest satisfied.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 20
+  }
 }

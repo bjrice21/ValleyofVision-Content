@@ -1,6 +1,25 @@
 {
-  "id": 171,
+  "id": "prayer-171",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "A MINISTER'S BIBLE",
+  "subtitle": null,
+  "description": null,
   "section": "Service and Ministry",
-  "content": "O GOD OF TRUTH,\nI thank thee for the holy Scriptures,\ntheir precepts, promises, directions, light.\nIn them may I learn more of Christ,\nbe enabled to retain his truth\nand have grace to follow it\nHelp me to lift up the gates of my soul that he may come in\nand show me himself when I search the Scriptures,\nfor I have no lines to fathom its depths,\nno wings to soar to its heights.\nBy his aid may I be enabled to explore all its truths,\nlove them with all my heart,\nembrace them with all my power,\nengraft them into my life.\nBless to my soul all grains of truth garnered from thy Word;\nmay they take deep root,\nbe refreshed by heavenly dew,\nbe ripened by heavenly rays,\nbe harvested to my joy and thy praise.\nHelp me to gain profit by what I read,\nas treasure beyond all treasure,\na fountain which can replenish my dry heart,\nits waters flowing through me as a perennial river\non-drawn by thy Holy Spirit\nEnable me to distil from its pages faithful prayer\nthat grasps the arm of thy omnipotence,\nachieves wonders, obtains blessings,\nand draws down streams of mercy.\nFrom it show me how my words have often been unfaithful to thee,\ninjurious to my fellow-men,\nempty of grace, full of folly,\ndishonouring to my calling.\nThen write thy own words upon my heart and inscribe them on my\nlips;\nSo shall all glory be to thee in my reading of thy Word!"
+  "sortOrder": 171,
+  "content": {
+    "type": "TextContent",
+    "text": "O GOD OF TRUTH,\nI thank thee for the holy Scriptures,\ntheir precepts, promises, directions, light.\nIn them may I learn more of Christ,\nbe enabled to retain his truth\nand have grace to follow it\nHelp me to lift up the gates of my soul that he may come in\nand show me himself when I search the Scriptures,\nfor I have no lines to fathom its depths,\nno wings to soar to its heights.\nBy his aid may I be enabled to explore all its truths,\nlove them with all my heart,\nembrace them with all my power,\nengraft them into my life.\nBless to my soul all grains of truth garnered from thy Word;\nmay they take deep root,\nbe refreshed by heavenly dew,\nbe ripened by heavenly rays,\nbe harvested to my joy and thy praise.\nHelp me to gain profit by what I read,\nas treasure beyond all treasure,\na fountain which can replenish my dry heart,\nits waters flowing through me as a perennial river\non-drawn by thy Holy Spirit\nEnable me to distil from its pages faithful prayer\nthat grasps the arm of thy omnipotence,\nachieves wonders, obtains blessings,\nand draws down streams of mercy.\nFrom it show me how my words have often been unfaithful to thee,\ninjurious to my fellow-men,\nempty of grace, full of folly,\ndishonouring to my calling.\nThen write thy own words upon my heart and inscribe them on my\nlips;\nSo shall all glory be to thee in my reading of thy Word!",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 171
+  }
 }

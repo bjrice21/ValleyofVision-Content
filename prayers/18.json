@@ -1,6 +1,25 @@
 {
-  "id": 18,
+  "id": "prayer-18",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "FULLNESS IN CHRIST",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "Thou hast taught me\nthat Christ has all fullness and so all plenitude of the Spirit,\nthat all fullness I lack in myself is in him,\nfor his people, not for himself alone,\nhe having perfect knowledge, grace, righteousness,\nto make me see,\nto make me righteous,\nto give me fullness;\nthat it is my duty, out of a sense of emptiness,\nto go to Christ, possess, enjoy his fullness as mine,\nas if I had it in myself, because it is for me in him;\nthat when I do this I am full of the Spirit,\nas a fish that has got from the shore to the sea\nand has all fullness of waters to move in,\nfor when faith fills me, then I am full;\nthat this is the way to be filled with the Spirit,\nlike Stephen, first faith, then fullness,\nfor this way makes me most empty,\nand so most fit for the Spirit to fill.\nThou hast taught me that\nthe finding of this treasure of all grace in the field of Christ\nbegets strength, joy, glory,\nand renders all graces alive.\nHelp me to delight more in what I receive from Christ,\nmore in that fullness which is in him,\nthe fountain of all his glory.\nLet me not think to receive the Spirit from him as a 'thing'\napart from finding, drinking, being filled with him.\nTo this end, O God,\ndo thou establish me in Christ,\nsettle me, give me a being there,\nassure me with certainty that all this is mine,\nfor this only will fill my heart with joy and peace."
+  "sortOrder": 18,
+  "content": {
+    "type": "TextContent",
+    "text": "Thou hast taught me\nthat Christ has all fullness and so all plenitude of the Spirit,\nthat all fullness I lack in myself is in him,\nfor his people, not for himself alone,\nhe having perfect knowledge, grace, righteousness,\nto make me see,\nto make me righteous,\nto give me fullness;\nthat it is my duty, out of a sense of emptiness,\nto go to Christ, possess, enjoy his fullness as mine,\nas if I had it in myself, because it is for me in him;\nthat when I do this I am full of the Spirit,\nas a fish that has got from the shore to the sea\nand has all fullness of waters to move in,\nfor when faith fills me, then I am full;\nthat this is the way to be filled with the Spirit,\nlike Stephen, first faith, then fullness,\nfor this way makes me most empty,\nand so most fit for the Spirit to fill.\nThou hast taught me that\nthe finding of this treasure of all grace in the field of Christ\nbegets strength, joy, glory,\nand renders all graces alive.\nHelp me to delight more in what I receive from Christ,\nmore in that fullness which is in him,\nthe fountain of all his glory.\nLet me not think to receive the Spirit from him as a 'thing'\napart from finding, drinking, being filled with him.\nTo this end, O God,\ndo thou establish me in Christ,\nsettle me, give me a being there,\nassure me with certainty that all this is mine,\nfor this only will fill my heart with joy and peace.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 18
+  }
 }

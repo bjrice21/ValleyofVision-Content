@@ -1,6 +1,25 @@
 {
-  "id": 21,
+  "id": "prayer-21",
+  "category": {
+    "id": "valley-of-vision",
+    "name": "Valley of Vision",
+    "displayName": "Valley of Vision",
+    "description": "Traditional prayers from the Puritan collection",
+    "iconName": "book",
+    "color": "#1976D2"
+  },
+  "contentType": "prayer",
   "title": "without the renovation of my nature by grace I can never",
+  "subtitle": null,
+  "description": null,
   "section": "Father, Son, and Holy Spirit",
-  "content": "rest easy,\nwithout the hopes of heaven I can never be at peace.\nAll this I have in thy Son Jesus; blessed be his name."
+  "sortOrder": 21,
+  "content": {
+    "type": "TextContent",
+    "text": "rest easy,\nwithout the hopes of heaven I can never be at peace.\nAll this I have in thy Son Jesus; blessed be his name.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 21
+  }
 }
