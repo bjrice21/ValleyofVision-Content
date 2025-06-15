@@ -1,0 +1,105 @@
+{
+  "id": 1007,
+  "name": "Evening Rosary for Purity",
+  "description": "A meditative prayer for purifying mind, body, and spirit before sleep, seeking God's grace for holiness.",
+  "section": "Evening",
+  "type": "SIMPLE",
+  "introSection": {
+    "cross": {
+      "title": "Prayer at the Cross: Dedication",
+      "content": "Lord Jesus, at the foot of Your cross, I lay down the burdens and impurities of this day. Cleanse me by Your precious blood, that my mind, body, and spirit may be pure before You as I rest. Amen.",
+      "scriptureReference": "1 John 1:7",
+      "displayHint": "EMPHASIZED"
+    },
+    "firstLargeBead": {
+      "title": "Confession and Supplication",
+      "content": "Heavenly Father, I confess any impure thought, word, or deed that has defiled me this day. Forgive me, O Lord, according to Your steadfast love and tender mercies. Create in me a clean heart, O God, and renew a right spirit within me."
+    },
+    "threeSmallBeads": [
+      { "content": "For purity of mind, free from anxious thoughts and worldly desires: Lord, hear my prayer." },
+      { "content": "For purity of body, as a temple of the Holy Spirit: Lord, hear my prayer." },
+      { "content": "For purity of spirit, aligned with Your holy will: Lord, hear my prayer." }
+    ],
+    "secondLargeBead": {
+      "title": "Invocation of the Holy Spirit",
+      "content": "Holy Spirit, sanctify me this night. Guard my dreams and my rest, that I may awaken refreshed and renewed, wholly devoted to Christ. Amen."
+    }
+  },
+  "decades": [
+    {
+      "number": 1,
+      "theme": "Purity of Thought",
+      "largeBead": {
+        "title": "Meditation: Guarding the Mind",
+        "content": "Lord Jesus, You taught us that what comes out of a person is what defiles them, for from within, out of the heart, come evil thoughts. I pray for Your divine grace to guard my mind, to cast down every high thing that exalts itself against the knowledge of God, and to bring every thought into captivity to the obedience of Christ. Let my thoughts be pure, true, noble, and worthy of Your presence.",
+        "scriptureReference": "Matthew 15:18-19, 2 Corinthians 10:5"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Cleanse my thoughts, O Lord, and make my mind pure for Your glory."
+        }
+      }
+    },
+    {
+      "number": 2,
+      "theme": "Purity of Heart",
+      "largeBead": {
+        "title": "Meditation: A Pure and Undivided Heart",
+        "content": "Blessed are the pure in heart, for they shall see God. My Father, I long for a heart undivided in its devotion to You. Root out every covetous desire, every trace of envy, every secret attachment that pulls me away from Your perfect will. Purify my motives and my affections, that my heart may be a dwelling place for Your holiness alone.",
+        "scriptureReference": "Matthew 5:8, Psalm 86:11"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Create in me a clean heart, O God, and purify my desires."
+        }
+      }
+    },
+    {
+      "number": 3,
+      "theme": "Purity of Body",
+      "largeBead": {
+        "title": "Meditation: A Temple of the Holy Spirit",
+        "content": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies. I commit my physical being to You, Lord, seeking to honor You in all things. Protect my body from all defilement, known and unknown, and use it as an instrument of righteousness.",
+        "scriptureReference": "1 Corinthians 6:19-20"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Sanctify my body, Lord, a temple pure for Your Spirit."
+        }
+      }
+    },
+    {
+      "number": 4,
+      "theme": "Purity in Relationships and Actions",
+      "largeBead": {
+        "title": "Meditation: Blameless in Walk",
+        "content": "Father, I pray for grace to walk blamelessly before You and before others. Purify my interactions, my words, and my deeds. Let no corrupting talk come out of my mouth, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear. May my life reflect the holiness of Christ in every aspect.",
+        "scriptureReference": "Ephesians 4:29, Philippians 2:15"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Guide my steps, O Lord, in paths of purity and righteousness."
+        }
+      }
+    },
+    {
+      "number": 5,
+      "theme": "Rest in God's Purity",
+      "largeBead": {
+        "title": "Meditation: Resting in His Cleansing Power",
+        "content": "As I prepare for sleep, I rest in the assurance of Your cleansing power, Lord. Though my sins be as scarlet, they shall be white as snow. You are faithful and just to forgive my sins and to cleanse me from all unrighteousness. May Your peace, which transcends all understanding, guard my heart and mind in Christ Jesus, as I rest in Your complete purity and grace.",
+        "scriptureReference": "Isaiah 1:18, 1 John 1:9, Philippians 4:7"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Rest my soul, O Lord, in Your perfect and purifying grace."
+        }
+      }
+    }
+  ]
+}

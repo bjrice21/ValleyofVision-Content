@@ -56,6 +56,24 @@
       "contentType": "rosary"
     },
     {
+      "id": "rosary-7",
+      "path": "/rosaries/7_evening_rosary_for_purity.json",
+      "categoryId": "rosary-prayers",
+      "contentType": "rosary"
+    },
+    {
+      "id": "rosary-8",
+      "path": "/rosaries/8_rosary_of_ancient_blessings.json",
+      "categoryId": "rosary-prayers",
+      "contentType": "rosary"
+    },
+    {
+      "id": "rosary-9",
+      "path": "/rosaries/9_jesus_rosary_greek_biblical.json",
+      "categoryId": "rosary-prayers",
+      "contentType": "rosary"
+    },
+    {
       "id": "prayer-1",
       "path": "/prayers/1.json",
       "categoryId": "valley-of-vision",

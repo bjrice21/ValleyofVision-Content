@@ -1,0 +1,105 @@
+{
+  "id": 1009,
+  "name": "The Jesus Rosary: A Greek Biblical Devotion",
+  "description": "A meditative rosary using simple, powerful phrases from the Greek New Testament, designed to draw the heart closer to Christ through His own words and the language of the early church.",
+  "section": "Scriptural",
+  "type": "SIMPLE",
+  "introSection": {
+    "cross": {
+      "title": "Prayer at the Cross",
+      "content": "Κύριε Ἰησοῦ Χριστέ, Υἱὲ τοῦ Θεοῦ, ἐλέησόν με τὸν ἁμαρτωλόν.\n(Lord Jesus Christ, Son of God, have mercy on me, a sinner.)",
+      "scriptureReference": "Luke 18:13",
+      "displayHint": "EMPHASIZED"
+    },
+    "firstLargeBead": {
+      "title": "Opening Invocation",
+      "content": "Δόξα τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι.\n(Glory to the Father and to the Son and to the Holy Spirit.)"
+    },
+    "threeSmallBeads": [
+      { "content": "Ὁ Θεὸς ἀγάπη ἐστίν.\n(God is love.)" },
+      { "content": "Ἐν Χριστῷ ἐσμέν.\n(In Christ we are.)" },
+      { "content": "Πίστις, ἐλπίς, ἀγάπη.\n(Faith, hope, love.)" }
+    ],
+    "secondLargeBead": {
+      "title": "Preparation",
+      "content": "Τὴν χάριν τοῦ Κυρίου Ἰησοῦ Χριστοῦ καὶ τὴν ἀγάπην τοῦ Θεοῦ καὶ τὴν κοινωνίαν τοῦ Ἁγίου Πνεύματος μετὰ πάντων ὑμῶν.\n(The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with all of you.)"
+    }
+  },
+  "decades": [
+    {
+      "number": 1,
+      "theme": "The Word Became Flesh (Ὁ Λόγος σὰρξ ἐγένετο)",
+      "largeBead": {
+        "title": "Meditation on Incarnation",
+        "content": "Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Καὶ ὁ Λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν.\n(In the beginning was the Word, and the Word was with God, and the Word was God. And the Word became flesh and dwelt among us.)",
+        "scriptureReference": "John 1:1, 1:14"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Ὁ Λόγος σὰρξ ἐγένετο.\n(The Word became flesh.)"
+        }
+      }
+    },
+    {
+      "number": 2,
+      "theme": "The Light of the World (Τὸ φῶς τοῦ κόσμου)",
+      "largeBead": {
+        "title": "Meditation on Light",
+        "content": "Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου· ὁ ἀκολουθῶν ἐμοὶ οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ, ἀλλ' ἕξει τὸ φῶς τῆς ζωῆς.\n(I am the light of the world; whoever follows me will not walk in darkness, but will have the light of life.)",
+        "scriptureReference": "John 8:12"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου.\n(I am the light of the world.)"
+        }
+      }
+    },
+    {
+      "number": 3,
+      "theme": "The Way, the Truth, and the Life (Ἡ ὁδός καὶ ἡ ἀλήθεια καὶ ἡ ζωή)",
+      "largeBead": {
+        "title": "Meditation on Christ Our Guide",
+        "content": "Ἐγώ εἰμι ἡ ὁδός καὶ ἡ ἀλήθεια καὶ ἡ ζωή· οὐδεὶς ἔρχεται πρὸς τὸν Πατέρα εἰ μὴ δι' ἐμοῦ.\n(I am the way, and the truth, and the life; no one comes to the Father except through me.)",
+        "scriptureReference": "John 14:6"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Ἐγώ εἰμι ἡ ὁδός καὶ ἡ ἀλήθεια καὶ ἡ ζωή.\n(I am the way and the truth and the life.)"
+        }
+      }
+    },
+    {
+      "number": 4,
+      "theme": "The Good Shepherd (Ὁ ποιμὴν ὁ καλός)",
+      "largeBead": {
+        "title": "Meditation on Divine Care",
+        "content": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός· ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν ὑπὲρ τῶν προβάτων.\n(I am the good shepherd. The good shepherd lays down his life for the sheep.)",
+        "scriptureReference": "John 10:11"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός.\n(I am the good shepherd.)"
+        }
+      }
+    },
+    {
+      "number": 5,
+      "theme": "I Am with You Always (Ἐγὼ μεθ' ὑμῶν εἰμι πάσας τὰς ἡμέρας)",
+      "largeBead": {
+        "title": "Meditation on His Presence",
+        "content": "Καὶ ἰδοὺ ἐγὼ μεθ' ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος.\n(And behold, I am with you always, to the end of the age.)",
+        "scriptureReference": "Matthew 28:20"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Ἐγὼ μεθ' ὑμῶν εἰμι πάσας τὰς ἡμέρας.\n(I am with you always.)"
+        }
+      }
+    }
+  ]
+}
