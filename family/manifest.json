@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "family-prayers",
+      "name": "Family Prayers",
+      "displayName": "Family Prayers",
+      "description": "Prayers for family devotion and spiritual growth",
+      "iconName": "group",
+      "color": "#4CAF50"
+    }
+  ],
+  "contentFiles": [
+    {
+      "id": "prayer-family-1",
+      "path": "/prayers/1_mans_great_end.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    }
+  ],
+  "lastUpdated": "2024-01-16"
+}

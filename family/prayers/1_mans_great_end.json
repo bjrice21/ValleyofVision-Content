@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-1",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Man's Great End",
+  "subtitle": null,
+  "description": null,
+  "section": "Purpose and Meaning",
+  "sortOrder": 1,
+  "content": {
+    "type": "TextContent",
+    "text": "God of everything, there is one thing that should be my main focus, the thing I desire more than anything else: to live out the purpose You created me for—to bring You honor and to do as much good as I can for others. Honestly, life has no real meaning if it's not used for this greater purpose.\n\nBut God, so few people think this way. Most people seem to live for themselves, without any thought for honoring You or being good to others. They desperately chase after money, status, and pleasure, as if they think wealth, popularity, and fun can make their souls truly happy. But what a false and empty dream that is! And how miserable people will be when they wake up from it, because our real happiness is found in loving You and being holy, just as You are holy.\n\nPlease, don't let me get caught up in the attitudes, the pointless pursuits, and the foolishness of the world today. It's a place filled with deep sorrow and a vast emptiness. Time is just a moment, a vapor, and all its enjoyments are like empty bubbles or a quick gust of wind—nothing truly satisfying can come from them.\n\nGive me the grace to always stay in my relationship with You and to reject the lie of chasing a big name for myself, or any sinful pleasures or personal gain. Help me to know, always, that there can be no true happiness and no fulfilling Your purpose for me, apart from a life lived in and for Your Son, Jesus.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 1
+  }
+}

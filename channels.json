@@ -6,6 +6,13 @@
       "description": "Original prayers and rosaries",
       "requiresPassword": true,
       "path": "core/"
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "description": "Family prayers and devotions",
+      "requiresPassword": false,
+      "path": "family/"
     }
   ]
 }
