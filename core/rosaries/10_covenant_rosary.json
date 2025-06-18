@@ -1,0 +1,111 @@
+{
+  "id": 10,
+  "name": "The Covenant Rosary",
+  "description": "A meditative prayer reflecting on personal symbols of faith, covenant promises, and our identity in Christ.",
+  "section": "Thematic",
+  "type": "SIMPLE",
+  "introSection": {
+    "cross": {
+      "title": "Apostolic Doxology",
+      "content": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+      "scriptureReference": "Jude 1:24-25",
+      "displayHint": "EMPHASIZED"
+    },
+    "firstLargeBead": {
+      "title": "Invocation",
+      "content": "O Heavenly Father, I come before You in the name of Jesus Christ. Open my heart to Your presence as I meditate on the covenants and promises that bind me to You. Amen."
+    },
+    "threeSmallBeads": [
+      {
+        "content": "For an increase in Faith in Christ."
+      },
+      {
+        "content": "For a deepening of Hope in His promises."
+      },
+      {
+        "content": "For a perfection of Love for God and neighbor."
+      }
+    ],
+    "secondLargeBead": {
+      "title": "Doxology",
+      "content": "Glory be to the Father, and to the Son, and to the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen."
+    }
+  },
+  "decades": [
+    {
+      "number": 1,
+      "theme": "The Lord's Prayer: Our Paternity",
+      "largeBead": {
+        "title": "Our Father in Heaven",
+        "content": "Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power and the glory, for ever and ever. Amen.",
+        "scriptureReference": "Matthew 6:9-13"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Abba, Father, I belong to You."
+        }
+      }
+    },
+    {
+      "number": 2,
+      "theme": "The Chi Rho: Our Identity",
+      "largeBead": {
+        "title": "In Christ",
+        "content": "Lord Jesus Christ, the Chi Rho is the ancient sign of Your Holy Name. It is a declaration that I am a Christian, one who belongs to Christ. May I live under the banner of Your authority and grace, finding my identity, my purpose, and my hope in You alone.",
+        "scriptureReference": "Philippians 2:9-11"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "In Christ alone my hope is found."
+        }
+      }
+    },
+    {
+      "number": 3,
+      "theme": "The Aaronic Blessing: Our Peace",
+      "largeBead": {
+        "title": "His Face Shines Upon You",
+        "content": "The LORD bless you and keep you; the LORD make his face shine upon you and be gracious to you; the LORD turn his face toward you and give you peace.",
+        "scriptureReference": "Numbers 6:24-26"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "Lord, let Your face shine upon me and give me peace."
+        }
+      }
+    },
+    {
+      "number": 4,
+      "theme": "A'ni L'dodi: Our Relationship",
+      "largeBead": {
+        "title": "I Am My Beloved's",
+        "content": "I am my beloved's, and my beloved is mine. Lord Jesus, You are the Bridegroom and I am part of Your bride, the Church. Thank you for the intimate, unbreakable covenant of love You have established. May my life be a testament that I belong completely and joyfully to You.",
+        "scriptureReference": "Song of Solomon 6:3"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "I am Yours, Lord, and You are mine."
+        }
+      }
+    },
+    {
+      "number": 5,
+      "theme": "The Apostolic Blessing: Our Security",
+      "largeBead": {
+        "title": "Kept From Stumbling",
+        "content": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+        "scriptureReference": "Jude 1:24-25"
+      },
+      "smallBeads": {
+        "type": "SINGLE_REFRAIN",
+        "refrain": {
+          "content": "He is able to keep me from falling."
+        }
+      }
+    }
+  ]
+}
