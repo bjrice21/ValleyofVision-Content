@@ -74,6 +74,12 @@
       "contentType": "rosary"
     },
     {
+      "id": "rosary-10",
+      "path": "/rosaries/10_covenant_rosary.json",
+      "categoryId": "rosary-prayers",
+      "contentType": "rosary"
+    },
+    {
       "id": "prayer-1",
       "path": "/prayers/1.json",
       "categoryId": "valley-of-vision",

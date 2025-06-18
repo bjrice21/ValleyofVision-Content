@@ -1,10 +1,23 @@
 {
-  "id": 1008,
-  "name": "The Rosary of Ancient Blessings",
+  "id": "rosary-8",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "The Rosary of Ancient Blessings",
+  "subtitle": null,
   "description": "A meditative rosary incorporating traditional Hebrew blessings and prayers, focusing on the character of God, presented with both Hebrew script and English translation.",
   "section": "Thematic",
-  "type": "SIMPLE",
-  "introSection": {
+  "sortOrder": 8,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
     "cross": {
       "title": "Opening Prayer",
       "content": "בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה. בְּנוֹכְחוּתְךָ, אָנוּ מְבַקְּשִׁים לְהִתְקָרֵב. אָמֵן.\n(Baruch atah Adonai Eloheinu Melech ha'olam, shehecheyanu v'kiyemanu v'higianu lazman hazeh. B'nochchutcha, anu mevakshim l'hitkarev. Amen.)\nBlessed are You, Lord our God, King of the universe, who has given us life, sustained us, and brought us to this moment. In Your presence, we seek to draw near. Amen.",
@@ -101,4 +114,8 @@
       }
     }
   ]
+  },
+  "metadata": {
+    "originalId": 1008
+  }
 }

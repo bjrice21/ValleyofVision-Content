@@ -1,10 +1,23 @@
 {
-  "id": 1007,
-  "name": "Evening Rosary for Purity",
+  "id": "rosary-7",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "Evening Rosary for Purity",
+  "subtitle": null,
   "description": "A meditative prayer for purifying mind, body, and spirit before sleep, seeking God's grace for holiness.",
   "section": "Evening",
-  "type": "SIMPLE",
-  "introSection": {
+  "sortOrder": 7,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
     "cross": {
       "title": "Prayer at the Cross: Dedication",
       "content": "Lord Jesus, at the foot of Your cross, I lay down the burdens and impurities of this day. Cleanse me by Your precious blood, that my mind, body, and spirit may be pure before You as I rest. Amen.",
@@ -102,4 +115,8 @@
       }
     }
   ]
+  },
+  "metadata": {
+    "originalId": 1007
+  }
 }

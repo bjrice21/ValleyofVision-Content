@@ -1,10 +1,23 @@
 {
-  "id": 1009,
-  "name": "The Jesus Rosary: A Greek Biblical Devotion",
+  "id": "rosary-9",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "The Jesus Rosary: A Greek Biblical Devotion",
+  "subtitle": null,
   "description": "A meditative rosary using simple, powerful phrases from the Greek New Testament, designed to draw the heart closer to Christ through His own words and the language of the early church.",
   "section": "Scriptural",
-  "type": "SIMPLE",
-  "introSection": {
+  "sortOrder": 9,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
     "cross": {
       "title": "Prayer at the Cross",
       "content": "Κύριε Ἰησοῦ Χριστέ, Υἱὲ τοῦ Θεοῦ, ἐλέησόν με τὸν ἁμαρτωλόν.\n(Lord Jesus Christ, Son of God, have mercy on me, a sinner.)",
@@ -102,4 +115,8 @@
       }
     }
   ]
+  },
+  "metadata": {
+    "originalId": 1009
+  }
 }

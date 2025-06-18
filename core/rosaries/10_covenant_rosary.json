@@ -1,10 +1,23 @@
 {
-  "id": 10,
-  "name": "The Covenant Rosary",
+  "id": "rosary-10",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Catholic rosary prayers and meditations",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "The Covenant Rosary",
+  "subtitle": null,
   "description": "A meditative prayer reflecting on personal symbols of faith, covenant promises, and our identity in Christ.",
   "section": "Thematic",
-  "type": "SIMPLE",
-  "introSection": {
+  "sortOrder": 10,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
     "cross": {
       "title": "Apostolic Doxology",
       "content": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
@@ -108,4 +121,8 @@
       }
     }
   ]
+  },
+  "metadata": {
+    "originalId": 10
+  }
 }
