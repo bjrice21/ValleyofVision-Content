@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-4",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "God, You See My Heart",
+  "subtitle": null,
+  "description": null,
+  "section": "Confession and Renewal",
+  "sortOrder": 4,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, YOU SEE MY HEART,\nIt's a good day when You show me\nwhat I'm really like inside.\nMy biggest problem is my sin,\nbut You are my greatest good.\nI have reason to be humble\nand not look for applause,\nbecause nobody wants to show off their own mess.\nMy community, my family, and my church\nare all worse off because of my mistakes.\nTrouble comes when we act like our sins are no big deal,\nor like You aren't bothered by them.\nHelp me not to compare myself to other \"good\" people\nand think I'm doing okay just because I'm like them.\nBecause even the best people aren't perfect like You want,\nthey aren't always consistent,\nthey don't always choose the right path,\nand they struggle to feel Your goodness when life gets hard.\nShow me when something I think is right and good\nis actually wrong.\nHelp me see when I'm doing an okay thing but for the wrong reason,\nlike just wanting to build my reputation or get ahead unfairly.\nHelp me remember what I really need:\nTo know what You're trying to tell me in the Bible.\nTo have the wisdom to help others.\nTo turn back to You every single day, because not doing that pushes You away.\nTo really mean my prayers, not just say empty words.\nTo be passionate about what matters to You, instead of just my own goals.\nTo find joy in You and Your plan for me.\nTo truly love other people.\nAnd please, don't let me settle for a weak connection to You.\nHelp me stay plugged into the true source,\nalways drawing strength and life from You.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 4
+  }
+}

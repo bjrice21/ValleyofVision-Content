@@ -38,6 +38,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-4",
+      "path": "/prayers/4_god_you_see_my_heart.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
