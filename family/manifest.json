@@ -56,6 +56,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-7",
+      "path": "/prayers/7_your_love_is_like_no_other.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",

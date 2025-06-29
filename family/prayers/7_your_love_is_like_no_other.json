@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-7",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Your Love Is Like No Other",
+  "subtitle": null,
+  "description": null,
+  "section": "Trust and Surrender",
+  "sortOrder": 7,
+  "content": {
+    "type": "TextContent",
+    "text": "God, Your love is like no other.\n\nYou are good when you give,\nand you are good when you take away.\nYou're with me when things are bright,\nand when everything feels dark.\n\nYou loved me before the world even began,\nand out of that love, you saved me.\nYou still love me now,\neven with my guarded heart, my thanklessness, and my doubts.\n\nYour goodness has been with me all this past year,\nguiding me through confusing and messy times.\nYou helped me move forward even when I felt like I was falling back,\nand when I was knocked down, you made sure I was still making progress.\n\nI know you'll be with me in the year to come.\nSo, I'm ready to set sail,\nwith you as the guide for my future, just like you've been for my past.\n\nThank you for not showing me everything that's up ahead.\nIf you have tough times planned for me,\nI know you'll be right there in the middle of them with me.\nIf I have to go through intense pressure and temptation,\nI know I won't be overcome.\n\nIf it's my time to go,\nI'll get to see you sooner.\nIf things are going to end in a painful way,\ngive me the strength to keep my faith from shaking.\nIf I have to step away from the work I love,\nI won't demand anything from you.\n\nJust let your greatness be seen in my life, whether things are easy or hard,\nso I can always be someone you can use.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 7
+  }
+}
