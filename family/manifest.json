@@ -84,6 +84,12 @@
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
       "contentType": "rosary"
+    },
+    {
+      "id": "rosary-102",
+      "path": "/rosaries/102_walking_with_jesus.json",
+      "categoryId": "family-rosaries",
+      "contentType": "rosary"
     }
   ],
   "lastUpdated": "2025-06-29"

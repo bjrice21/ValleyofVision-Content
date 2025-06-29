@@ -1,0 +1,127 @@
+{
+  "id": "rosary-102",
+  "category": {
+    "id": "family-rosaries",
+    "name": "Family Rosaries",
+    "displayName": "Family Rosaries",
+    "description": "Christ-centered meditative prayers for family spiritual formation",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "Walking with Jesus",
+  "subtitle": null,
+  "description": "A simple rosary for learning to walk in faith. This meditation focuses on building a personal relationship with the Father, Son, and Holy Spirit in everyday life.",
+  "section": "Thematic",
+  "sortOrder": 102,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
+      "cross": {
+        "title": "Prayer at the Cross",
+        "content": "In the name of the Father, the Son, and the Holy Spirit.\nI believe in Jesus Christ, the Son of God. I want to follow You and learn what it means to walk with You every day. Amen.",
+        "displayHint": "EMPHASIZED"
+      },
+      "firstLargeBead": {
+        "title": "Prayer to the Father",
+        "content": "Father God, thank You for creating me and for loving me. Help me to see myself the way You see me. I want to know You more."
+      },
+      "threeSmallBeads": [
+        {
+          "content": "Father, increase my faith in Your goodness."
+        },
+        {
+          "content": "Jesus, be my hope in every moment."
+        },
+        {
+          "content": "Holy Spirit, fill me with Your love for God and others."
+        }
+      ],
+      "secondLargeBead": {
+        "title": "Prayer for Focus",
+        "content": "Lord, quiet my mind and open my heart. Help me to focus on You now and hear what You want to say to me through these prayers. Amen."
+      }
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "The Father's Unconditional Love",
+        "largeBead": {
+          "title": "Meditation on God's Love",
+          "content": "God the Father, I meditate on Your incredible love for me. You are not a distant, angry judge, but a loving Father who runs to welcome me home. Help me to rest in the truth that I am Your beloved child, no matter what.",
+          "scriptureReference": "1 John 3:1"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, walk with me today and show me Your way."
+          }
+        }
+      },
+      {
+        "number": 2,
+        "theme": "Following Jesus' Footsteps",
+        "largeBead": {
+          "title": "Meditation on Jesus' Example",
+          "content": "Lord Jesus, I think about how You lived on earth. You showed kindness to the outcast, You spoke truth with courage, and You loved everyone. Help me to have the same attitude as You, to love the people in my life the way You do.",
+          "scriptureReference": "Philippians 2:5"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, walk with me today and show me Your way."
+          }
+        }
+      },
+      {
+        "number": 3,
+        "theme": "The Holy Spirit's Guidance",
+        "largeBead": {
+          "title": "Meditation on the Spirit's Guidance",
+          "content": "Holy Spirit, my guide and helper, I need Your wisdom. Guide me in my friendships, my choices in daily life, and my conversations with my family. Help me to feel Your gentle nudges and give me the courage to follow where You lead.",
+          "scriptureReference": "John 14:26"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, walk with me today and show me Your way."
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "Strength in Hard Times",
+        "largeBead": {
+          "title": "Meditation on Christ's Strength",
+          "content": "Lord Jesus, life can be hard. When I feel pressure from others, when I feel anxious about the future, or when I doubt myself, remind me that You are with me. I give you my worries and ask for Your strength to face these challenges.",
+          "scriptureReference": "1 Peter 5:7"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, walk with me today and show me Your way."
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "Being a Light for Christ",
+        "largeBead": {
+          "title": "Meditation on Being a Light",
+          "content": "Jesus, You call me to be a light in a dark world. Help my words and actions to point others to Your love. Show me how to be a good friend, a blessing to my family, and a source of hope and kindness to everyone I meet.",
+          "scriptureReference": "Matthew 5:16"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, walk with me today and show me Your way."
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "originalId": 102
+  }
+}
