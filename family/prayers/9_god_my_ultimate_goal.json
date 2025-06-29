@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-9",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "God, My Ultimate Goal",
+  "subtitle": null,
+  "description": null,
+  "section": "Purpose and Devotion",
+  "sortOrder": 9,
+  "content": {
+    "type": "TextContent",
+    "text": "God, My Ultimate Goal,\n\nIt's my greatest joy, the absolute best thing,\nto get to know You\nand to understand my own soul, which is real and eternal.\nIt's so cool and interesting\nto look deep inside myself\nwhen all my energy and desires are focused on chasing after You,\nwhen my soul is desperately reaching\nto be more like You\nand to be completely with You.\nNo hours go by with as much happiness\nas the ones I spend connecting with You\nand with my own heart.\n\nOh, how good and valuable it is for my walk with God\nto have a spirit of being aware\nand protective over my own heart,\nwhen my soul isn't afraid of anything\nexcept for letting You down or hurting You, the amazing God,\nmy Father and my friend.\nIn those moments, I want to love You and make You proud,\nway more than I want to just be happy myself.\n\nKnowing that this is the right mindset,\nthe one worth aiming for and chasing after\nas a thinking person and a follower of Jesus,\nlet my joy come from bringing You glory and making You happy.\n\nI want to fill all my time with You,\nwhether I'm at home or on the go;\nto put all my worries and plans in Your hands;\nto be completely available for Your plan,\nwithout any agenda or interests of my own.\nHelp me to live for You forever,\nto make You my final and only purpose,\nso that I never again choose to love my own selfish ways.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 9
+  }
+}

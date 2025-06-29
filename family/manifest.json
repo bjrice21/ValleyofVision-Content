@@ -68,6 +68,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-9",
+      "path": "/prayers/9_god_my_ultimate_goal.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
