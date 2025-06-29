@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-5",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Repentance for Anger",
+  "subtitle": null,
+  "description": null,
+  "section": "Confession and Renewal",
+  "sortOrder": 5,
+  "content": {
+    "type": "TextContent",
+    "text": "God, it seems like almost no one is truly sorry for the wrong they do,\nand I have so much I need to be sorry for.\nI'm struggling with my temper,\nand I feel ashamed and horrified by how ugly it is.\nI'm determined to stop giving in to it,\nand I'm coming to You for the strength to actually do that.\nSo many people let their anger fly and get overwhelmed by it,\nmaking all kinds of excuses to downplay it,\nlike saying it just came out of nowhere,\nthat they didn't enjoy it,\nthat they feel bad about it later,\nor that even good people get angry.\nThey try to find peace after an outburst\nby just completely forgetting it happened,\nor by putting a band-aid over the problem, hoping it will heal\nwithout the real peace that comes from You.\nLord God, I know my anger flares up\nwhenever things don't go my way,\nand it's because I'm trying to please myself, not You.\nI'm realizing that in every frustrating situation, there are two things being challenged:\nwhat I want,\nand what You want.\nAnd in every good thing, there's a part that makes me happy,\nand a part that makes You happy.\nMy mistake is that my feelings—good or bad—\nare all based on what's happening to me,\nwithout even thinking about You.\nBy just letting it happen, I'm like those who were punished for not standing up to what's wrong.\nInstead, I need to humbly own up to my issues\nand run to You for real forgiveness and peace.\nSo please, give me a truly repentant heart, a real sense of humility, and a sorrow that lasts—\nbecause I know You won't turn me away for my mistakes when I come to You like this.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 5
+  }
+}
