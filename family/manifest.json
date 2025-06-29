@@ -10,10 +10,10 @@
       "color": "#4CAF50"
     },
     {
-      "id": "rosary-prayers",
-      "name": "Rosary Prayers",
-      "displayName": "Rosary Prayers",
-      "description": "Christ-centered meditative prayers for spiritual formation",
+      "id": "family-rosaries",
+      "name": "Family Rosaries",
+      "displayName": "Family Rosaries",
+      "description": "Christ-centered meditative prayers for family spiritual formation",
       "iconName": "rosary",
       "color": "#7B1FA2"
     }
@@ -28,7 +28,7 @@
     {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
-      "categoryId": "rosary-prayers",
+      "categoryId": "family-rosaries",
       "contentType": "rosary"
     }
   ],

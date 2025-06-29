@@ -1,10 +1,10 @@
 {
   "id": "rosary-101",
   "category": {
-    "id": "rosary-prayers",
-    "name": "Rosary Prayers",
-    "displayName": "Rosary Prayers",
-    "description": "Christ-centered meditative prayers for spiritual formation",
+    "id": "family-rosaries",
+    "name": "Family Rosaries",
+    "displayName": "Family Rosaries",
+    "description": "Christ-centered meditative prayers for family spiritual formation",
     "iconName": "rosary",
     "color": "#7B1FA2"
   },
