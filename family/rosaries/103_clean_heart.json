@@ -1,0 +1,127 @@
+{
+  "id": "rosary-103",
+  "category": {
+    "id": "family-rosaries",
+    "name": "Family Rosaries",
+    "displayName": "Family Rosaries",
+    "description": "Christ-centered meditative prayers for family spiritual formation",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "A Rosary for a Clean Heart",
+  "subtitle": null,
+  "description": "A meditative prayer to guide reflection on our brokenness, the grace of confession, and the joy of forgiveness in Christ.",
+  "section": "Thematic",
+  "sortOrder": 103,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
+      "cross": {
+        "title": "Prayer at the Cross",
+        "content": "Almighty God, I come to the cross of Your Son, Jesus, acknowledging my need for a Savior. It is only through His sacrifice that I can be made clean. I confess my sins before You, trusting in Your promise to forgive and purify me. Amen.",
+        "displayHint": "EMPHASIZED"
+      },
+      "firstLargeBead": {
+        "title": "A Prayer for an Honest Heart",
+        "content": "Father, send Your Holy Spirit to quiet my heart and mind. Peel back the layers of pride and self-deception so that I may see my sin as You see it. Give me the courage to be honest with You and with myself. Amen."
+      },
+      "threeSmallBeads": [
+        {
+          "content": "Lord, forgive the sins of my thoughts."
+        },
+        {
+          "content": "Lord, forgive the sins of my words."
+        },
+        {
+          "content": "Lord, forgive the sins of my actions."
+        }
+      ],
+      "secondLargeBead": {
+        "title": "A Prayer for True Repentance",
+        "content": "Lord Jesus, grant me a spirit of true repentance—not just sorrow for being caught, but genuine grief for having offended You. Lead me from my sinful ways and guide me back to Your path of life. Amen."
+      }
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "The Reality of My Sin",
+        "largeBead": {
+          "title": "All Have Sinned",
+          "content": "Meditate on the truth that everyone, including me, has fallen short of God's perfect standard. My sin is not just a mistake; it is a rebellion against a holy and loving God.",
+          "scriptureReference": "Romans 3:23"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Lord, have mercy on me, for I have sinned."
+          }
+        }
+      },
+      {
+        "number": 2,
+        "theme": "The Weight of Hidden Sin",
+        "largeBead": {
+          "title": "The Burden of Secrets",
+          "content": "Reflect on the spiritual, mental, and emotional weight of unconfessed sin. It drains strength, creates distance, and quenches the Spirit's fire within.",
+          "scriptureReference": "Psalm 32:3-4"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Search me, O God, and know my heart."
+          }
+        }
+      },
+      {
+        "number": 3,
+        "theme": "The Freedom of Confession",
+        "largeBead": {
+          "title": "Bringing Sin into the Light",
+          "content": "Confession is God's gift to His children. Meditate on the moment of turning back to God, acknowledging your specific wrongs, and abandoning the burden of sin at His feet.",
+          "scriptureReference": "Psalm 32:5"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "I confess my sin to You, O Lord."
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "The Joy of Forgiveness",
+        "largeBead": {
+          "title": "Washed Clean",
+          "content": "Reflect on the promise of complete forgiveness through Christ. When God forgives, He cleanses us fully. The stain is gone. The debt is paid. You are made righteous in His sight.",
+          "scriptureReference": "Psalm 51:2, 7"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Thank you, Jesus, for Your cleansing blood."
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "Walking in Newness",
+        "largeBead": {
+          "title": "A New Beginning",
+          "content": "Having been forgiven and cleansed, we are not left as we were. Meditate on the call to walk in newness of life, empowered by the Holy Spirit to resist temptation and live for God's glory.",
+          "scriptureReference": "Romans 6:4"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Create in me a clean heart, O God."
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "originalId": 103
+  }
+}

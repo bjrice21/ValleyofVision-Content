@@ -90,6 +90,12 @@
       "path": "/rosaries/102_walking_with_jesus.json",
       "categoryId": "family-rosaries",
       "contentType": "rosary"
+    },
+    {
+      "id": "rosary-103",
+      "path": "/rosaries/103_clean_heart.json",
+      "categoryId": "family-rosaries",
+      "contentType": "rosary"
     }
   ],
   "lastUpdated": "2025-06-29"
