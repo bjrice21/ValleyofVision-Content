@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-3",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "God Who Gives So Much",
+  "subtitle": null,
+  "description": null,
+  "section": "Gratitude and Grace",
+  "sortOrder": 3,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD WHO GIVES SO MUCH,\nMy heart is just filled with thankfulness for you—\nfor your amazing grace and for how you reach down to me\nthrough the guidance and help of your Spirit.\nThank you for the special help when I pray,\nfor the good feeling that comes from serving others,\nfor the hope of one day being with you in heaven,\nfor always giving me what I truly need,\nand for bringing me back to life when I feel completely dead inside.\n\nI don't need to rely on what other people think of me,\nbecause your approval is infinitely better.\nYou have a timeless wisdom in how you guide my life;\nso it doesn't matter when, where, or how I serve you,\nor what challenges I have to face,\nas long as I'm ready for your plan and purpose.\n\nNo one needs your grace more than I do,\nand yet no one has misused it more than I have, and still do.\nIt's crazy how disconnected and slow I can be.\nKeep me humble, and show me how much I need to love you more.\n\nEvery single time I show even a little bit of grace,\nI owe it all to you, the God of all grace, for your specific help.\nI can't take any credit when I remember how much I depend on you\nfor my very existence and every good thing I do.\nLeft to myself, I just drift away from you,\nand if I ever make it to heaven, it will only be because you want me there,\nand for no other reason.\n\nAs someone who feels weak, hurt, and sometimes looked down on,\nI choose to throw myself completely onto your endless grace and goodness,\nknowing that my only real happiness comes from you.\nGive me the specific strength I need for the specific things you've called me to do,\nand help me stay calm and accepting no matter what,\nstaying humble, focused, self-controlled, and in line with your will.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 3
+  }
+}

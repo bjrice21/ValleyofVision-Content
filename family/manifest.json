@@ -32,6 +32,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-3",
+      "path": "/prayers/3_god_who_gives_so_much.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
