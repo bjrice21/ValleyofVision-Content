@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-8",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Giver of Everything",
+  "subtitle": null,
+  "description": null,
+  "section": "Gratitude and Grace",
+  "sortOrder": 8,
+  "content": {
+    "type": "TextContent",
+    "text": "Giver of Everything,\n\nAnother day is over,\nand I'm here, thinking about the sacrifice you made for me.\nIt's like a constant source of healing,\na soothing comfort for all my hurts.\nI feel fresh and clean,\nknowing that you see me without any of my mistakes.\n\nIt won't be long until my time here is done.\nHelp me to focus my mind,\nto live with more purpose,\nto act like every moment is my last,\nso that my life is full of joy, and I can be proud of how I lived.\n\nI'm so thankful for the everyday good things in this world—\nthe fresh air,\nthe sunlight,\nthe food that gives me energy,\nthe clothes I wear,\nthe roof over my head,\nthe sleep that recharges me,\nthe amazing stars at night,\nthe summer breeze,\nthe sweet smell of flowers,\nthe sound of running water,\nand the awesome love of my family and friends.\n\nSo many things, big and small, make my life better.\nI have more than I need.\n\nDon't let me take these daily gifts for granted.\nYou're the one who gives me good things and protects me from bad.\n\nI also want to thank you for the spiritual stuff—\nthe warmth of my faith,\nthe comforting feeling of your presence,\nthe strength to make good choices,\nand for shutting down the negativity that comes my way.\n\nThank you for being my amazing God!",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 8
+  }
+}

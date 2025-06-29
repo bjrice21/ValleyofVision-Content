@@ -62,6 +62,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-8",
+      "path": "/prayers/8_giver_of_everything.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
