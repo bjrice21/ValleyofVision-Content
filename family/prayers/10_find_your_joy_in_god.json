@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-10",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Find Your Joy in God",
+  "subtitle": null,
+  "description": null,
+  "section": "Joy and Contentment",
+  "sortOrder": 10,
+  "content": {
+    "type": "TextContent",
+    "text": "Hey, listen to your heart for a second.\n\nRemember, it's not just something you should do, but something you get to do: find your joy in God.\nHe actually wants that for you, especially with all the grace He gives.\nSo, find your joy in the One who gives so much good.\nBe happy in Him, and only Him,\nbecause whatever you put your trust in\nis where you expect to find your happiness.\nThe one who is the foundation of your faith\nshould also be the source of your joy.\nSo why do you feel so down and heavy,\nwhen joy has been planted inside you—\npromised by the Father,\ngiven by the Son,\nand worked into you by the Holy Spirit?\nIt's yours because of grace,\nit's part of who you are now that you believe.\nAre you trying to find joy in yourself,\nout of pride or wanting to look good?\nYou don't have anything on your own but your mess-ups,\nnothing that makes God give you His grace,\nor keep it coming.\nIf you forget that, you'll lose your joy.\nAre you feeling bad about the sin that still hangs around inside?\nLet that healthy kind of sadness lead you to change,\nbecause that's the attitude God blesses,\nand it actually leads to the greatest joy.\nBeing sorry for your own stuff opens you up to find joy in God.\nLetting go of self-obsession brings down God's amazing peace.\nHave you been looking for joy in other things or people?\nDon't look for happiness in anything less than God.\nDon't get too comfortable with things that will only let you down.\nLet God be your everything,\nand find your joy in the source that never runs dry.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 10
+  }
+}
