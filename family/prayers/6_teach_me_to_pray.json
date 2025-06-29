@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-6",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Teach Me to Pray",
+  "subtitle": null,
+  "description": null,
+  "section": "Prayer and Priorities",
+  "sortOrder": 6,
+  "content": {
+    "type": "TextContent",
+    "text": "God, I know you listen,\nSo teach me how to really pray.\nI'll be honest—sometimes when I'm praying,\nmy words and my heart aren't in the same place.\nI admit I've thrown your name around casually,\na name that deserves nothing but respect.\nI've wanted things that would have only hurt me,\nand I've taken my biggest blessings for granted.\nI've been wrong about what to hope for and what to fear.\nI'm not qualified to choose for myself;\nI don't know how to direct my own life.\n\nLet your Spirit help me in my weakness,\nbecause I don't even know what I should be praying for.\nHelp me to want the right things so I can actually ask for them;\nthen I'll know for sure that you hear me.\n\nHelp me not to get caught up begging for temporary things,\nbut to always trust them to your loving care,\nsince you know what I need before I even ask.\nLet me never define success by anything but the health of my soul,\nor think I'm rich unless I'm rich in You,\nor believe I'm smart unless I have the wisdom that leads to real life.\n\nHelp me to put your Kingdom and your way of doing things first.\nHelp me to see things from an eternal perspective.\nLet my spiritual health be my number one priority.\n\nI would rather be poor, hurting, and rejected but have your blessing,\nthan to be a huge success,\nhave more than I could ever dream of,\nor be popular with everyone,\nif all of that makes me forget you.\n\nHelp me see the world's promises for what they often are: a fantasy, a lie, empty, and a source of stress,\nand help me to rise above it.\nAnd let me find my true happiness in knowing you approve of me, in becoming more like you, in your presence, and in serving you.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 6
+  }
+}
