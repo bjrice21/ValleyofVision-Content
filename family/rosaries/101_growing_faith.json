@@ -1,0 +1,127 @@
+{
+  "id": "rosary-101",
+  "category": {
+    "id": "rosary-prayers",
+    "name": "Rosary Prayers",
+    "displayName": "Rosary Prayers",
+    "description": "Christ-centered meditative prayers for spiritual formation",
+    "iconName": "rosary",
+    "color": "#7B1FA2"
+  },
+  "contentType": "rosary",
+  "title": "A Rosary for a Growing Faith",
+  "subtitle": null,
+  "description": "A meditative prayer guide for young people beginning their walk with Jesus, focusing on the core foundations of the Christian faith.",
+  "section": "Thematic",
+  "sortOrder": 101,
+  "content": {
+    "type": "RosaryContent",
+    "rosaryType": "SIMPLE",
+    "introSection": {
+      "cross": {
+        "title": "A Declaration of Faith",
+        "content": "I believe in God, the Father Almighty, Creator of heaven and earth.\nI believe in Jesus Christ, His only Son, our Lord, who lived and died for my sins and rose again.\nI believe in the Holy Spirit, my guide and comforter.\nI commit my life to You.",
+        "displayHint": "EMPHASIZED"
+      },
+      "firstLargeBead": {
+        "title": "The Lord's Prayer",
+        "content": "Our Father, who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, forever and ever. Amen."
+      },
+      "threeSmallBeads": [
+        {
+          "content": "Lord, increase my faith in You."
+        },
+        {
+          "content": "Lord, anchor my hope in You."
+        },
+        {
+          "content": "Lord, expand my love for You and for others."
+        }
+      ],
+      "secondLargeBead": {
+        "title": "Prayer for Guidance",
+        "content": "Come, Holy Spirit, quiet my heart and mind.\nOpen my soul to hear from You as I pray.\nHelp me to focus on Jesus and to grow in my love for Him."
+      }
+    },
+    "decades": [
+      {
+        "number": 1,
+        "theme": "The Invitation to Follow",
+        "largeBead": {
+          "title": "Jesus Calls Me",
+          "content": "Lord Jesus, You invited fishermen to leave their nets and follow You. You call me, too, right where I am. Help me to hear Your voice in my life and to have the courage to follow You, leaving behind old habits and fears. Let my life be a new adventure with You.",
+          "scriptureReference": "Matthew 4:19"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, I will follow You."
+          }
+        }
+      },
+      {
+        "number": 2,
+        "theme": "The Gift of Grace",
+        "largeBead": {
+          "title": "God's Unconditional Love",
+          "content": "Father God, it's hard to understand a love with no strings attached. Your Word says that your grace is a free gift, not something I can earn by being good enough. Thank you for saving me. Help me to rest in Your love and to stop trying to prove myself to You or others.",
+          "scriptureReference": "Ephesians 2:8-9"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, thank you for Your grace."
+          }
+        }
+      },
+      {
+        "number": 3,
+        "theme": "Walking in Truth",
+        "largeBead": {
+          "title": "The Word as My Guide",
+          "content": "Lord, the world is full of confusing messages. Your Word is a lamp that lights up my path so I don't get lost. Please give me a desire to read the Bible, to understand it, and to use its wisdom to make good choices every day. Thank you for giving me a guide I can always trust.",
+          "scriptureReference": "Psalm 119:105"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, Your Word is truth."
+          }
+        }
+      },
+      {
+        "number": 4,
+        "theme": "Living in Community",
+        "largeBead": {
+          "title": "The Support of Christian Friends",
+          "content": "Jesus, You didn't design us to live out our faith alone. Thank you for the gift of the church and for friends who also love You. Help me to be a good friend, to encourage others, and to be brave enough to ask for help when I need it. May we build each other up in love.",
+          "scriptureReference": "Hebrews 10:24-25"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, thank you for my friends."
+          }
+        }
+      },
+      {
+        "number": 5,
+        "theme": "The Mission to Love",
+        "largeBead": {
+          "title": "Sharing God's Love",
+          "content": "Lord, You said that people would know we are Your disciples by our love for one another. That's a huge challenge. Fill me with Your love, so that it overflows to my family, my friends, and even to people who are difficult to love. Use me to show Your kindness and goodness to the world.",
+          "scriptureReference": "John 13:34-35"
+        },
+        "smallBeads": {
+          "type": "SINGLE_REFRAIN",
+          "refrain": {
+            "content": "Jesus, help me to love like You."
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "originalId": 101
+  }
+}

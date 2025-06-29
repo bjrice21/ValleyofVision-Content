@@ -8,6 +8,14 @@
       "description": "Prayers for family devotion and spiritual growth",
       "iconName": "group",
       "color": "#4CAF50"
+    },
+    {
+      "id": "rosary-prayers",
+      "name": "Rosary Prayers",
+      "displayName": "Rosary Prayers",
+      "description": "Christ-centered meditative prayers for spiritual formation",
+      "iconName": "rosary",
+      "color": "#7B1FA2"
     }
   ],
   "contentFiles": [
@@ -16,7 +24,13 @@
       "path": "/prayers/1_mans_great_end.json",
       "categoryId": "family-prayers",
       "contentType": "prayer"
+    },
+    {
+      "id": "rosary-101",
+      "path": "/rosaries/101_growing_faith.json",
+      "categoryId": "rosary-prayers",
+      "contentType": "rosary"
     }
   ],
-  "lastUpdated": "2024-01-16"
+  "lastUpdated": "2025-06-29"
 }
