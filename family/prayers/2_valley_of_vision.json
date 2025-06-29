@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-2",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "The Valley of Vision",
+  "subtitle": null,
+  "description": null,
+  "section": "Humility and Grace",
+  "sortOrder": 2,
+  "content": {
+    "type": "TextContent",
+    "text": "God, You are ultimate and holy, yet gentle and humble.\nYou have brought me to this valley, a place where I can truly see.\nHere, I'm living in the low places, but I see You in the high places.\nTrapped by my own mistakes, I can still see Your greatness.\n\nLet me learn from this irony:\nThat the way down is actually the way up.\nThat being humble is how to be lifted high.\nThat a broken heart is the one that gets healed.\nThat a truly sorry spirit is the one that can celebrate.\nThat the soul that turns back is the one that wins.\nThat having nothing is how I get everything.\nThat carrying my burdens is how I find my strength.\nThat giving is how I receive.\nThat this valley is the place where I can see clearly.\n\nGod, they say that even in the daytime, you can see stars from the bottom of a well,\nand the deeper the well, the brighter Your stars shine.\nLet me find Your light in my own darkness,\nYour life when I feel empty,\nYour joy in my sadness,\nYour grace in my mess-ups,\nYour true worth in my struggles,\nYour hope right here in this valley.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 2
+  }
+}

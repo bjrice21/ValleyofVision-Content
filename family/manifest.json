@@ -26,6 +26,12 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-2",
+      "path": "/prayers/2_valley_of_vision.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
