@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-12",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Retrospect and Prospect",
+  "subtitle": null,
+  "description": null,
+  "section": "When I'm Searching",
+  "sortOrder": 12,
+  "content": {
+    "type": "TextContent",
+    "text": "God, who rules over everything we can and can't see,\nMy heart is reaching out to you,\namazed by your incredible love and how you connect with me.\nYou've kept the memory of when I first turned to you so clear,\nthat time of my first real spiritual peace,\nwhen I made it through a tough situation\nin a way I never saw coming.\nI was so happy then for that unexpected breakthrough\nthat saved me from the fear that was chasing me down\nwhen I had almost given up hope.\nI feel that same joy now as I remember it all so clearly.\nIt gets me emotional when I think about how you've been with me,\nhow I felt so lost and worthless,\nwithout a clue what to do or the strength to do it,\nand I had no choice but to rely on you,\nand I found out how comforting you are.\nYou are the source of everything good in my life,\nmy life, my hope, my joy, my peace, my purpose.\nI pray that every day I can become more like you,\nwith the gentle and calm spirit of Jesus in my soul,\nand a real sense of the happiness of heaven.\nI can't wait to be there with the angels, who are free from all the flaws I have,\nwhere the person I am meant to be in Christ\nwill finally be complete,\nso I can be ready for the joy and work of heaven.\nI'm not afraid to face death,\nbecause I know I'll be welcomed, not forced, out of this world.\nUntil that day, let my life be a bright light for you,\nand when that final moment comes,\nlet me wake up in your presence,\nleaving behind a life story that points others to you,\nwhile I'm celebrating in heaven,\nand people on earth remember me in a good way,\nwith those who come after me thanking you for the life I lived.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 12
+  }
+}

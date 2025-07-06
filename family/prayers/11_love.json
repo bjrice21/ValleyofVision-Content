@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-11",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Love",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 11,
+  "content": {
+    "type": "TextContent",
+    "text": "Help me to love you, to hold onto you,\neven though I used to embrace things that were wrong and sinful.\nYou loved me before I ever loved you back—\nwhen I was an enemy, a sinner, feeling worthless.\nYou claimed me when I had written myself off;\nYou love me like your own child,\nand your heart breaks for me.\n\nLove brought you from heaven to earth, from earth to the cross,\nand from the cross to the grave.\nBecause of love, you were exhausted, hungry, and tempted.\nYou were mocked, whipped, beaten, spat on, crucified, and pierced.\nLove led you to bow your head and die.\n\nMy rescue is the place where my own imperfect love\nand your perfect, divine love meet.\nAnd you welcome me, not with the sadness and hurt of Joseph seeing his brothers,\nbut with love and pure joy.\nYour love isn't on-and-off, cold, or always changing;\nit doesn't stop or fade, no matter how much I push back.\n\nHoliness is a spark of your love,\nfanned into a fire in my heart by your Spirit,\nso it always points back to you, where it came from.\n\nLet me see your love all around me—not just at the cross,\nbut in my community of friends and in the world.\nWhen I feel the sun's warmth, let me thank you,\nthe true source of all that is right and healing.\nWhen I feel a gentle rain,\nlet me think of how your truth refreshes my soul.\nWhen I walk by a river,\nlet me praise you for the hope that fills eternity with joy,\nand makes me clean, giving me the right to eternal life.\n\nYour infinite love is the greatest mystery,\nand my forever peace is found in enjoying it forever.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 11
+  }
+}

@@ -80,6 +80,18 @@
       "contentType": "prayer"
     },
     {
+      "id": "prayer-family-11",
+      "path": "/prayers/11_love.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
+      "id": "prayer-family-12",
+      "path": "/prayers/12_retrospect_and_prospect.json",
+      "categoryId": "family-prayers",
+      "contentType": "prayer"
+    },
+    {
       "id": "rosary-101",
       "path": "/rosaries/101_growing_faith.json",
       "categoryId": "family-rosaries",
@@ -98,5 +110,5 @@
       "contentType": "rosary"
     }
   ],
-  "lastUpdated": "2025-06-29"
+  "lastUpdated": "2025-07-06"
 }
