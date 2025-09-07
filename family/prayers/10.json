@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-13",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "GOD ENJOYED",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 10,
+  "content": {
+    "type": "TextContent",
+    "text": "God, You're bigger than I can fully understand, but I know You hear me when I pray.\nI know You, but there's so much more to know; You show me who You are, but You're still a mystery.\n\nMy own needs and just wanting what's best for my life pull me toward You,\nbecause You've never said, \"Don't bother looking for me.\"\nSo I'm coming to You with all my problems, my needs, and my stress.\n\nFill me completely with Your spirit,\na spirit of grace and a desire to talk with You,\na mindset that's always open to prayer,\nand a real sense of warmth and connection with You,\nso that in all the ordinary things I do every day,\nmy thoughts and hopes will turn to You.\nAnd by making prayer a habit, I can find a strength that will\ncomfort me when I'm sad, keep me grounded when I succeed,\nand make me a better person in all my relationships.\n\nI'm so thankful that You made me able\nto know You, the creator of everything,\nto be more like You, the definition of all that is good,\nand to find real joy in You, the source of all happiness.\n\nO God, be with me through every part of this difficult and challenging journey of life.\nI need the same guidance, protection, and comfort I found when I first started.\nLet my faith be something I feel more strongly inside me,\nand something that people around me can actually see.\n\nWhile Jesus is representing me in heaven, let me be a reflection of Him on earth.\nWhile He's on my side, let my life show how great He is.\n\nPlease continue to be good and gentle with me.\nAnd whether I'm awake or asleep, let Your presence go with me,\nand Your blessing be on my life.\n\nYou have led me on, and I've found that Your promises are true.\nI have been sad, but You have been my help.\nI've been afraid, but You got me through it.\nI've felt hopeless, but You have lifted me up.\n\nThe promises I've made to You are always on my mind.\nAnd I praise You, O God.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 10
+  }
+}
