@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-33",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Spiritual Helps",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Need Help",
+  "sortOrder": 118,
+  "content": {
+    "type": "TextContent",
+    "text": "It is amazing love\nthat You sent Your Son to suffer in my place,\nthat You added the Spirit to teach, comfort, and guide me,\nand that You've let angels build a wall of protection around me.\nAll of heaven is working for the good of someone as small as me.\n\nAllow Your unseen servants to always be active on my behalf,\nand to rejoice when I grow in Your grace.\nDon't let them rest until my struggle is over\nand I'm standing victorious with You.\n\nPlease, let my tendency toward evil, my lack of passion for what is good, and my resistance to Your Spirit\nnever be enough to make You abandon me.\nMay my hard heart move You to pity, not to anger.\nAnd if the enemy gains an advantage because of my own sin,\nlet it be an opportunity to prove that heaven is mightier than hell,\nand that those who are for me are greater than those who are against me.\n\nCome and help me with all Your promised blessings.\nKeep me feeding on the strength of Your Word,\nsearching the Scriptures to find You there.\n\nIf my wandering away brings discipline,\nhelp me to accept the correction humbly,\nto bless the hand that corrects me,\nto understand the reason for it,\nto respond quickly, and to get back to the basics.\nLet all of Your fatherly actions in my life help me to share in Your holiness.\n\nLet every time I fall cause me to sink lower on my knees,\nand when I rise, let it be to a higher level of devotion.\nMay my every burden be used to make me holy,\nevery loss be turned into a gain,\nevery sacrifice a spiritual advantage,\nevery dark day be lit by the Holy Spirit,\nand every night of struggle become a song.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 118
+  }
+}

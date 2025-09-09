@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-19",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Grace Active",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Need Help",
+  "sortOrder": 105,
+  "content": {
+    "type": "TextContent",
+    "text": "LORD JESUS, MY GREAT HIGH PRIEST,\n\nYou've opened up a new and real way\nfor someone like me, with all my flaws, to come to You and be accepted.\nHelp me to really think about who You are,\nthe perfection of Your sacrifice,\nand how powerful it is that You're always speaking to God for me.\n\nIt's such an amazing blessing to be close to You.\nWhen I'm exhausted by my struggles,\neaten up by worries,\ndisturbed by fear,\nand weighed down by my weaknesses,\nI can come to You with everything I need\nand feel a peace that I can't even explain.\n\nThe same grace that first saved me is the grace I still need to keep me going,\nto lead me, guard me, provide for me, and help me.\nAnd the stories of Your followers give me hope;\nthey were once spiritually poor and now they're rich in You,\nthey were trapped and now they're free,\nthey were tested and now they're victorious.\n\nEvery new challenge I face requires more grace than I have on my own,\nbut never more than I can find in You—the one who has it all.\nI come to You for grace on top of grace,\nuntil every empty space that sin has created in me is filled up,\nand I am filled completely with You.\n\nLet my desires grow bigger and my hopes become bolder,\nso I can honor You by depending on You for everything\nand by expecting great things from You.\n\nBe with me, and prepare me for all of it—\nthe good times and the bad times,\nlosing things I own,\nthe death of friends,\nthe dark days,\nall the changes in life,\nand for that final, great change.\n\nMay I always find that Your grace is enough for whatever I need.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 105
+  }
+}

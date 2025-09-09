@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-20",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Morning",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Start My Day",
+  "sortOrder": 106,
+  "content": {
+    "type": "TextContent",
+    "text": "COMPASSIONATE LORD,\n\nYour mercy has brought me to the start of a new day.\nThis day will be a waste unless I grow in Your grace,\nlearn more about You,\nand become more mature in my faith.\n\nHelp me today to know You for who You really are,\nto love You more than anything,\nto serve You completely,\nand to be in total awe of You.\n\nBy Your grace, let my will line up with Yours.\nI know the power to obey isn't in me, but that Your free love is the only thing that makes me able to serve You.\n\nHere is my empty heart;\nplease overflow it with Your best gifts.\nHere is my clouded understanding;\nplease clear away the fog of my ignorance.\n\nO ever-watchful Shepherd,\nlead, guide, and take care of me today.\nWithout Your guidance and protection, I'll mess up and wander off.\nPut boundaries around my path so I don't wander into unhealthy pleasures\nand get caught up in their poison.\nGuide my steps so I don't get tangled up in the enemy's secret snares\nor fall into his hidden traps.\n\nProtect me from my enemies,\nfrom bad situations,\nand from myself.\n\nMy biggest struggles are a part of my own nature;\nThey cling to me like my own skin;\nI can't escape them.\nFrom morning to night, they are stuck to me.\nThey're always tempting me.\nMy enemy is inside my own heart.\n\nCome with Your almighty power and throw him out, destroy him,\nand wipe out every last bit of my sinful nature in me today.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 106
+  }
+}

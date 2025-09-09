@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-25",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Evening Praise",
+  "subtitle": null,
+  "description": null,
+  "section": "When I End My Day",
+  "sortOrder": 110,
+  "content": {
+    "type": "TextContent",
+    "text": "GIVER OF EVERYTHING,\nAnother day is over,\nand I'm coming to the foot of my great Savior's cross,\nwhere healing flows,\nwhere comfort is poured into every wound,\nwhere I'm washed clean again,\nconfident that when You look at me, You see no stain of sin.\n\nI know my time here is short before I go to be with You.\nHelp me to focus my mind, to live with purpose, and to move with urgency as if every moment were my last,\nso that my life can be full of joy, and my death will be glorious.\n\nI thank You for the everyday blessings of this world—\nthe fresh air,\nthe sunlight,\nthe food that gives me strength,\nthe clothes I wear,\nthe house that shelters me,\nthe sleep that gives me rest,\nthe starry sky at night,\nthe summer breeze,\nthe smell of flowers,\nthe sound of running water,\nand the love of family and friends.\n\nEverything, living and not, adds to my comfort.\nMy cup is overflowing with blessings.\nDon't let me take these daily mercies for granted.\nYour hand gives me blessings, and Your power protects me from evil.\n\nI also bring my thanks for spiritual gifts—\nthe deep warmth of faith,\nthe encouraging presence of Your Spirit,\nthe strength of Your will that holds me back from sin,\nand the way You shut down the enemy's attacks.\n\nPraise to my Lord, who is in control of everything!",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 110
+  }
+}

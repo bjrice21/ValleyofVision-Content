@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-15",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "New Year",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 101,
+  "content": {
+    "type": "TextContent",
+    "text": "A long life doesn't mean anything to me unless my days are spent\nin Your presence, in Your service, and for Your glory.\nGive me a grace that goes before me, follows me, guides me, and keeps me going—\none that makes me better and helps me every single hour,\nso that I am never a moment apart from You.\n\nI want to rely on Your Spirit\nto inspire every thought,\nto speak in every word,\nto direct every step,\nto make every project succeed,\nto build up every tiny piece of my faith,\nand to give me a real desire\nto show everyone Your greatness,\nto tell people about Your love,\nand to help build Your kingdom.\n\nI'm launching my boat on the unknown waters of this year,\nwith You, Father, as my safe harbor,\nYou, Son, at the wheel,\nand You, Holy Spirit, filling my sails.\n\nGuide me on my path to heaven, keeping me ready for action,\nmy light burning bright,\nmy ears open to Your calls,\nmy heart full of love,\nand my soul free.\n\nGive me Your grace to make me holy,\nYour comfort to cheer me up,\nYour wisdom to teach me,\nYour strength to guide me,\nYour advice to instruct me,\nYour truth as my standard,\nand Your presence to keep me steady.\n\nMay my fear of You be a deep sense of awe.\nMay Your victories be my greatest joy.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 101
+  }
+}

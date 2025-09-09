@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-36",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Openness",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Pray and Worship",
+  "sortOrder": 120,
+  "content": {
+    "type": "TextContent",
+    "text": "LORD OF ETERNITY,\nThe One that angels bow down to,\nhelp me to serve You with deep respect and awe.\nYou are Spirit and You want truth on the inside;\nhelp me to worship You genuinely—in spirit and in truth.\nYou are righteous;\ndon't let me hold onto sin in my heart,\ngive in to worldly attitudes,\nor try to find my satisfaction in things that won't last.\n\nI'm heading toward a moment\nwhen earthly goals and possessions will seem meaningless—\nwhen it won't matter if I was rich or poor,\nsuccessful or disappointed, popular or hated.\nBut what will matter for all of eternity is that I was\ntruly sorry for my sin,\nthat I was desperate for righteousness,\nthat I genuinely loved the Lord Jesus,\nand that I found my greatest pride in His cross.\n\nMay these be the things that I care about the most.\nCreate in me the kind of character and mindset\nthat makes serving You feel like perfect freedom.\nKick out all the sinful fear and shame from my mind,\nso that I can have the courage to\ntell others about the Savior and face the criticism that comes with following Him,\nto be passionate about knowing Him,\nto be filled with His wisdom,\nto walk carefully,\nto ask His advice in everything,\nto go to the Bible for His instructions,\nand to keep my mind fixed on His peace,\nknowing that nothing can happen to me\nwithout His permission, His plan, and His control.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 120
+  }
+}

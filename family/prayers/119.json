@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-34",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Refuge",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Need Help",
+  "sortOrder": 119,
+  "content": {
+    "type": "TextContent",
+    "text": "You whose power is limitless and whose wisdom is perfect,\nplease arrange my life so that things don't hold me back,\ndiscourage me,\nor get in the way of Your work.\nStand between me and all conflict, so that no evil happens to me,\nand no sin corrupts my gifts, my passion, or my accomplishments.\nHelp me to do what's right and not just follow my own foolish ideas.\nDon't let me waste my time on work You won't bless,\nso I can serve You without shame or failure.\n\nLet me live in Your presence, under Your shadow,\nwhere I'm completely safe from every danger—\nthe arrows that fly by day,\nthe sickness that moves in darkness,\nthe war of words,\nthe evil of bad intentions,\nthe pain of unkind talk,\nthe traps of bad friendships,\nthe dangers of being young,\nthe temptations of adulthood,\nthe sorrows of old age,\nand the fear of death.\n\nI am completely dependent on You for support, guidance, and comfort.\nHold me up by Your Spirit,\nand don't let me be satisfied with just not failing;\nhelp me to always be moving forward,\nalways excelling in the work You've given me to do.\nStrengthen me by Your Spirit deep inside,\nfor every part of my Christian life.\n\nI'm giving all my treasures to the safety of Your shadow—\nmy new identity in Christ,\nmy body, soul, talents, and character,\nmy successes, my family, my friends, my work,\nmy present, my future, and my ultimate purpose.\n\nTake them. They are Yours, and I am Yours, now and forever.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 119
+  }
+}

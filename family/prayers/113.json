@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-28",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Consecration and Worship",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Pray and Worship",
+  "sortOrder": 113,
+  "content": {
+    "type": "TextContent",
+    "text": "I feel like it's heaven on earth to please You,\nand to be the person You want me to be.\nI wish I was holy like You are holy,\npure like Christ is pure,\nperfect like Your Spirit is perfect!\n\nThese feel like the best commands in the whole Bible,\nso why do I keep breaking them?\nDo I have to break them?\nIs it impossible to stop as long as I'm alive?\n\nIt's awful that I'm a sinner,\nthat I grieve this amazing God,\nwho is infinitely good and gracious!\nIf You would just punish me for my sins, it wouldn't hurt so much to offend You.\nBut even though I sin constantly,\nYou just keep being kind to me.\n\nSometimes I feel like I could handle any kind of suffering,\nbut how can I stand to dishonor this glorious God?\nWhat can I do to glorify and worship this best of all beings?\n\nI wish I could dedicate my soul and body to His service,\ncompletely and forever.\nI wish I could give myself up to Him,\nand never again try to be in charge of my own life,\nor have any will or desires\nthat don't perfectly match His will and His love.\n\nBut the sad truth is, I can't seem to live without sinning.\n\nMay the angels glorify Him non-stop,\nand if it's possible, bow even lower\nbefore the blessed King of heaven.\nI long to join them in that endless praise.\nBut even if I do everything I can for all of eternity,\nI won't be able to offer more than a tiny piece\nof the worship that the glorious God deserves.\n\nPlease, give me a heart full of divine, heavenly love.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 113
+  }
+}

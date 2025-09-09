@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-22",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Morning Dedication",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Start My Day",
+  "sortOrder": 108,
+  "content": {
+    "type": "TextContent",
+    "text": "As I step into this week,\nI'm handing everything over to Your care—my soul, my body, my plans, my friends.\nWatch over me, protect me, guide me, direct me, make me holy, and bless me.\n\nTurn my heart toward Your ways.\nShape me completely into the image of Jesus, like a potter shaping clay.\nMay the words I speak be like music that praises You.\n\nLet the people around me see me living by Your Spirit—\nnot giving in to the world's values,\nnot conforming to its empty promises,\nbut transformed by a renewed mind,\nwearing the full armor of God,\nshining like a light that never goes out,\nand showing holiness in everything I do.\n\nDon't let any evil stain my thoughts, words, or actions this week.\nHelp me walk through messy situations and keep my life pure.\n\nEven in the middle of everyday stuff, let my heart be set on heaven,\nmy love for You be passionate,\nmy focus fixed on what's unseen,\nand my eyes open to how empty, fragile, and fake the things of this world are.\n\nHelp me to see everything from an eternal perspective,\nliving like I'm always waiting for my Lord to return,\nlistening for that final call,\nand getting ready for the new heaven and new earth.\n\nGuide all of my conversations this week with Your wisdom,\nso they help everyone involved.\nDon't let me be useless; help me to grow and to help others grow.\nHelp me to speak every word as if it were my last,\nand take every step as if it were my final one.\n\nIf my life should end this week, let this be my best week.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 108
+  }
+}

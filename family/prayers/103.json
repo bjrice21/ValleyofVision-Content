@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-17",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Caring Love",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Pray and Worship",
+  "sortOrder": 103,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, YOU'RE MORE THAN ENOUGH,\n\nWhen I come into Your presence, I see\nYour perfect glory,\nYour throne that rules over everything, forever,\nand the millions of angels who serve You.\n\nLet the reality of Your greatness really sink in—\nnot to push me away from You,\nbut to inspire me to come closer;\nnot to crush my confidence in You,\nbut to lead me to be amazed that someone so great would reach down to me.\n\nYou have always been thinking of me and have been right there with me.\nYou've taken care of me since the day I was born,\nlooked out for me in every situation,\nprovided everything I need,\nsurrounded me with Your love,\nand given me new grace every single morning.\n\nDon't let me forget that I can look forward to even greater things—\na hope beyond death,\na down payment and a sneak peek of eternal life,\nholiness, wisdom, strength, peace, and joy.\nYou've provided all these for me through Christ.\n\nIt breaks my heart to think how numb I've been\nto Your authority in my life\nand to the depth of Your love;\nhow little I have believed Your truth,\ntrusted Your promises,\ntaken Your warnings seriously,\nobeyed Your commands,\nmade the most of the gifts You've given me,\nwelcomed Your guidance,\nor responded to Your grace.\n\nBut even though I don't deserve it, I'm still here.\n\nMay Your goodness always lead me to turn back to You,\nand may Your incredible patience with me be what saves me.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 103
+  }
+}

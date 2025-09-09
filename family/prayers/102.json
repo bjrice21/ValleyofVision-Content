@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-16",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "The Family",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Need Help",
+  "sortOrder": 102,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, MY KING,\n\nYou are the creator and Father of everyone, because You made us all and You keep us going.\nYou are a special Father to those who know, love, and honor You—the ones who find that following You isn't a heavy burden, that Your work is something to be proud of, and that Your ways are good.\n\nBut I have to admit, Your incredible goodness hasn't changed me as much as it should have.\nI haven't made the most of the spiritual opportunities You've given me.\nI've been lazy and careless about doing good for others.\nI'm coming to You now with all my mistakes and sins;\nhave mercy on me,\nand let Your goodness be what makes me truly want to change.\n\nHelp me to hate and turn away from every wrong path,\nto pay attention to my own character,\nto control what I say,\nto guard my heart with everything I've got,\nto watch out for and pray against temptation,\nto crush the sin in my life,\nand to be genuinely concerned for the salvation of others.\n\nO God, I can't stand the thought of my loved ones being lost.\nLet the people I'm closest to\nbe precious in Your sight and dedicated to Your glory.\n\nBless my spiritual life at home and make it effective—\nmy prayers, my teaching, my self-discipline, and my example—\nso that my house can be a place that prepares people for heaven,\nand my church can be like Your garden,\nfilled with strong, faithful people that You planted there\nfor Your glory.\n\nPlease don't let the members of my family who are kind, moral, and likable\nmiss out on heaven in the end.\nGrant that the hopeful signs I see—a sensitive conscience,\na soft heart, the times they're challenged or moved by Your Word—\nwon't just fade away.\nInstead, let those sparks grow into a true and lasting faith for everyone I love.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 102
+  }
+}

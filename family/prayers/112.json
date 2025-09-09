@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-27",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Longings After God",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 112,
+  "content": {
+    "type": "TextContent",
+    "text": "I can only tell You what You already know:\nI don't long for anything but You,\nnothing but holiness,\nnothing but being in sync with Your will.\n\nYou're the one who gave me these desires,\nand only You can give me what I'm longing for.\nMy soul longs for a deep connection with You,\nand to kill off the corruption inside me, especially my spiritual pride.\n\nHow precious it is to have a sensitive heart and a clear understanding\nof what a truly godly and holy life is all about.\nWhat an amazing blessing it is to be like You,\nas much as it's possible for a created being to be like their Creator.\n\nLord, make me more like You.\nExpand my soul to be able to hold more holiness.\nCommit me to living more for You.\nHelp me to not get too satisfied with my spiritual experiences.\nWhen I feel good after a sweet time with You,\nteach me that I still have so much more to learn and do.\n\nBlessed Lord,\nlet me climb up close to You,\nand love You, and long for You, and plead, and even wrestle with You in prayer.\nLet me be desperate for freedom from my sinful nature,\nbecause my heart wanders and feels lifeless,\nand my soul is sad to think\nit could ever lose sight of You, the one it loves.\n\nWrap my life in Your divine love,\nand keep me always wanting You,\nalways humble and surrendered to Your will,\nmore focused on You,\nso I can be better equipped for whatever I have to do or whatever I have to endure.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 112
+  }
+}

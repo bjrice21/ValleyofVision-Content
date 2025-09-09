@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-18",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Divine Support",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 104,
+  "content": {
+    "type": "TextContent",
+    "text": "YOU ARE THE BLESSED GOD,\nhappy and complete in Yourself,\nthe source of happiness for everyone You created,\nmy maker, my provider, my Lord, and the one who holds me up.\n\nYou created me and keep me going,\nYou've supported me, been generous to me, saved me, and protected me.\nIn every situation, You are able to handle my needs and my struggles.\n\nMay I live by Your strength,\nlive for Your glory,\nand never be satisfied with my spiritual growth\nunless I am becoming more like Christ.\nAnd may living by his values, attitude, and actions\ngrow in my life every hour.\n\nLet Your incredible love be what motivates me to live a holy life,\nand turn my duty into my delight.\n\nIf other people think my faith is foolish,\nmy humility is weakness,\nmy passion is crazy,\nmy hope is a fantasy,\nor my actions are hypocritical,\nmay I be glad to take the heat for Your name.\n\nKeep me walking steadily toward that place\nof endless joy,\nthat paradise that is my true home.\n\nHold me up with heavenly strength,\nso that I never turn back\nor get tempted by fake pleasures\nthat just fade and disappear into nothing.\n\nAs I follow this path toward heaven by Your grace,\nlet me be known as a person with only one real aim:\na passionate desire for You,\nand for the good and salvation of others.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 104
+  }
+}

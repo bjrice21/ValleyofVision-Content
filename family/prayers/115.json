@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-30",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Devotion",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 115,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, MY ULTIMATE GOAL,\n\nIt is my greatest and best pleasure to know You,\nand to understand my own mind and soul that will last forever.\nIt's a sweet and fulfilling thing to look inside myself\nwhen all my energy and passion\nare focused on pursuing You,\nwhen my soul longs and passionately desires\nto be more like You\nand to find complete joy in You.\nNo hours are better than the ones I spend\nconnecting with You and my own heart.\n\nO how good and helpful it is\nto have a spirit that's spiritually alert\nand fiercely protective of my own heart,\nwhen my soul isn't afraid of anything\nexcept grieving and offending You, my blessed God,\nmy Father and friend,\nwhom I love and long to please\nmore than I long to just make myself happy.\n\nKnowing that this is the right attitude to have—\none that's worthy of my highest ambition and focus—\nlet my joy come from glorifying and delighting You.\n\nI long to fill all my time for You,\nwhether I'm at home or on the go;\nto place all my concerns in Your hands;\nto be completely at Your disposal,\nhaving no agenda of my own.\n\nHelp me to live for You forever,\nto make You my one and only ultimate goal,\nso that I'll never again choose to love my sinful self, not even for a moment.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 115
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-26",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Evening Renewal",
+  "subtitle": null,
+  "description": null,
+  "section": "When I End My Day",
+  "sortOrder": 111,
+  "content": {
+    "type": "TextContent",
+    "text": "MY FATHER,\nIf Your mercy had a limit, where could I possibly hide from what I deserve?\nBut Your love in Christ has no limits.\n\nSo I'm coming to You with all my sins—\nthe wrong things I've done and the right things I've left undone.\nI've sinned against You, my Father;\nagainst You, my amazing Savior;\nagainst You and Your work in me, Holy Spirit;\nagainst my own conscience and the Bible's teaching;\nand against my neighbors and myself.\n\nPlease don't judge me,\nbecause I have no good deeds of my own to point to,\nand no excuses to hide my sin.\nForgive this day that has been darkened by my wrongdoings.\n\nTonight, I turn back to You with a sorry heart.\nEvery morning I promise to love You more passionately, to serve You more sincerely, to be more devoted, to be completely Yours.\nYet I always stumble and fall backward, and have to confess my own weakness and sin.\n\nBut I thank You that the finished work of Jesus doesn't need anything added by me;\nHis sacrifice is more than enough to cover all my sins.\n\nIf You give me more days to live, help me to change my life,\nto truly hate what is evil,\nand to run from the very sins I'm confessing now.\nMake me more determined, more alert, and more prayerful.\n\nPlease don't let bad things grow from the wrong seeds I've planted with my actions.\nDon't let my carelessness cause someone else to get stuck in their own pride and foolishness.\nIf today I have been ashamed of Christ or His Word, or if I've been unkind, hateful, envious, unloving, spoken without thinking, had a quick temper, or brought dishonor to Your name, please forgive me.\n\nO help me to set a good example—one that pushes back against what's wrong, attracts people to what's good, and proves that the ways of Christ are beautiful.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 111
+  }
+}

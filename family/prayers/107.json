@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-21",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Morning Needs",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Start My Day",
+  "sortOrder": 107,
+  "content": {
+    "type": "TextContent",
+    "text": "O GOD, THE CREATOR OF EVERYTHING GOOD,\n\nI'm coming to You for the grace I'm going to need for this week's duties and events.\nI'm stepping out into a broken world,\nand I'm carrying my own imperfect heart.\nI know that without You, I can't do anything.\n\nI know that anything I get into,\nno matter how harmless it seems,\ncould become an opportunity for sin or foolishness\nunless I'm protected by Your power.\nHold me up, and I will be safe.\n\nProtect my mind from subtle lies,\nmy heart from loving anything more than You,\nmy character from the stain of sin,\nand my faith from every kind of evil.\n\nHelp me to not get involved in anything I can't ask You to bless,\nor anything I wouldn't want You to see me doing.\nHelp me succeed in all the right things I do,\nor prepare me for the disappointments.\n\nGive me neither poverty nor riches;\njust provide me with what I need.\nIf I have too much, I might become proud and forget You;\nif I'm too poor, I might steal and dishonor Your name.\n\nMay every created thing be made good to me through prayer and Your will.\nTeach me how to use the world and not abuse it,\nto develop my talents,\nto make the most of my time,\nto act with wisdom toward those outside the faith,\nand with kindness to those inside.\nTeach me to do good to everyone,\nespecially to my fellow Christians.\n\nAnd all the glory is Yours.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 107
+  }
+}

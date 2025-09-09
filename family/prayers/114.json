@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-29",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Resting on God",
+  "subtitle": null,
+  "description": null,
+  "section": "When I'm Struggling",
+  "sortOrder": 114,
+  "content": {
+    "type": "TextContent",
+    "text": "O GOD, MOST HIGH AND GLORIOUS,\n\nIt encourages me so much to think about Your infinite peace.\nMy life is full of stress and struggle, but You are forever perfectly calm.\nYour plans never cause You to fear or worry that they won't work out; they are as solid as mountains.\nYour power has no limits, and Your goodness never runs out.\nYou bring order out of chaos, and my failures are somehow Your victories.\nThe Lord God Almighty reigns.\n\nI come to You as a sinner with all my worries and sorrows,\nto leave every concern completely with You,\nknowing every sin needs the covering of Christ's precious blood.\n\nRevive a deep spiritual life in my heart.\nLet me live close to the Great Shepherd,\nto hear His voice, know what it sounds like, and follow where He calls.\nKeep me from being deceived by helping me to live in the truth.\nKeep me from harm by helping me to walk in the power of the Spirit.\n\nGive me a more intense faith in what is eternally true.\nBurn the things I know in my head deep into my heart through experience.\nLet me never be ashamed of the truth of the gospel,\nso that I can handle the criticism that comes with it,\nstand up for it,\nsee Jesus as its very center,\nand know the power of the Spirit in it.\n\nLord, help me, because I am often lukewarm and cold.\nUnbelief messes with my confidence, and sin makes me forget You.\nCut out the weeds growing in my soul at their roots.\nHelp me to know that I'm only truly living when I'm living for You,\nand that everything else is insignificant.\n\nYour presence alone can make me holy, devout, strong, and happy.\nLive in me, gracious God.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 114
+  }
+}

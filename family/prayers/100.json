@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-14",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Year's End",
+  "subtitle": null,
+  "description": null,
+  "section": "When I'm Searching",
+  "sortOrder": 100,
+  "content": {
+    "type": "TextContent",
+    "text": "O GOD, YOUR LOVE IS ON ANOTHER LEVEL,\n\nYou are good when You give,\nand You are good when You take away.\nYou are good when the sun is shining on me,\nand You are good when the night closes in.\n\nYou loved me before the world even began,\nand out of that love, You saved me.\nYou still love me now,\nin spite of my stubborn heart, my lack of gratitude, and my distrust.\n\nYour goodness was with me all last year,\nleading me through confusing and twisted paths.\nWhen it felt like I was retreating, You helped me move forward;\nwhen I was beaten back, You made sure I was still making progress.\n\nI know Your goodness will be with me in the year ahead.\nI'm pulling up the anchor and setting my sails,\nwith You as the guide for my future, just as You have been for my past.\n\nI'm actually thankful that You've hidden what's coming next.\nIf You have planned for me to go through storms and struggles,\nI know You will be with me in them.\nIf I have to face intense pressure or temptation,\nI know I won't drown.\nIf this is the year I'm meant to die,\nit just means I'll get to see Your face sooner.\nIf a painful ending is part of my story,\ngive me the strength to make sure my faith doesn't fall apart.\nIf I'm sidelined from the work I love doing for You,\nI can't make any demands.\n\nJust let my life bring You glory, in the good times and the hard times,\nso I can always be ready and useful for Your purpose.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 100
+  }
+}

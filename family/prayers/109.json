@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-23",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Evening Prayer",
+  "subtitle": null,
+  "description": null,
+  "section": "When I End My Day",
+  "sortOrder": 109,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, YOU LOVE YOUR PEOPLE.\nYou've placed my whole life in the hands of Jesus—\nmy savior, my leader, my closest companion, and my friend—\nand You care for me through Him.\n\nKeep me holy, innocent, pure, and set apart from sin.\nHelp me to ignore the voices that pull me away from You,\nso I can just go to Jesus where He is and follow where He leads.\n\nYou've already washed me clean for good in the fountain of forgiveness.\nNow please cleanse me from this week's mess—\nfrom my mistakes, my character flaws, and my unhealthy extremes,\nso that my life can reflect the perfect character of Jesus.\n\nO Master, who washed Your disciples' feet,\nplease be that patient with me.\nBe gracious with my faults,\nand stick with me until the great work You're doing in me is complete.\n\nI want to conquer my selfish desires in every way,\nto overcome my sinful nature,\nto guard myself from obvious sins,\nand to control the clever arguments of my own mind.\nI want to live completely for Your glory,\nignoring both unfair criticism and empty praise from others.\n\nNothing can truly hurt the new person I am in You;\nthat part of me can't be struck down or die.\nNothing can ruin the work of Your Spirit inside of me.\nIt's enough to have Your approval and a clear conscience.\n\nKeep me humble, dependent on You, and filled with joy.\nHelp me be as calm as a child who trusts completely,\nyet at the same time, passionate and active.\n\nI don't want to focus so much on doing as on being,\nand I long to be like Jesus.\nIf You are the one making me right, then I know I will be right.\nLord, I belong to You; make me worthy of You.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 109
+  }
+}

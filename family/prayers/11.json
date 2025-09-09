@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-24",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "A Present Salvation",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Pray and Worship",
+  "sortOrder": 11,
+  "content": {
+    "type": "TextContent",
+    "text": "GOD, MY CREATOR AND MY SAVIOR,\nAuthor of all life and the Source of all good things,\n\nI adore You for making me able to know You,\nfor giving me reason and a conscience,\nand for leading me to even want You.\nI praise You for showing us who You are in the gospel,\nfor Your compassionate heart,\nfor Your peaceful thoughts toward me,\nfor Your patience and kindness,\nand for Your amazing mercy.\n\nYou've opened my eyes to understand how\nguilty people can be pardoned,\nunholy people can be made holy,\nand the spiritually poor can be made rich.\n\nLet me always be one of those people who doesn't just hear about You but actually knows You,\nwho walks with You and finds joy in You,\nwho takes You at Your word and finds real life there.\n\nKeep me always hungry\nfor the salvation I can experience right now—the comfort and joy of the Holy Spirit,\nfor spiritual gifts and blessings,\nand for help to value my responsibilities as much as my privileges.\n\nHelp me to value a simple and genuinely godly character.\nHelp me to be the same person in private with You that I appear to be in public.\nHelp my faith to be real before I ever talk about it.\nHelp me to leave worldly values at the door before I even enter the church,\nto set my heart on things above,\nto avoid foolish and empty sins,\nto be someone who shares grace, not just receives it,\nand to be prepared to endure hardship, not just to do good.\n\nO God, make me worthy of this calling,\nso that the name of Jesus will be glorified in me, and my life will be glorified in Him.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 11
+  }
+}

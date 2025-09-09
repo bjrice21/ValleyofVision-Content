@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-31",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "The Personal Touch",
+  "subtitle": null,
+  "description": null,
+  "section": "When I'm Thankful",
+  "sortOrder": 116,
+  "content": {
+    "type": "TextContent",
+    "text": "I acknowledge and admit that everything comes from You—\nlife, breath, happiness, success,\nmy senses, goodness, truth, beauty—\neverything that makes life good.\nIn my spiritual life, too, I am completely dependent on You.\n\nGive me the grace to see how much I need Your grace.\nShow me my sinfulness so I will willingly confess it.\nReveal my weakness to me so I can find my strength in You.\n\nI thank You for any sign of sorrow for my sin; please give me more of it.\nMy sins are dark and deep, and they come from a heart that is hard, proud, and self-righteous.\nHelp me to confess them with sadness, regret, and a hatred for my sin,\nwithout making excuses or pretending I've earned anything.\n\nI need healing.\nGood Physician, here is a perfect opportunity for You; come and show Your power.\nI need faith.\nYou're the one who gave it to me, so please maintain it, strengthen it, and increase it.\nCenter it on the work of the Savior, on the majesty of the Father, and on the work of the Spirit.\nWork this in me now so that I may never doubt that You are a truthful, mighty, and faithful God.\n\nThen I can bring my heart to You, full of love, gratitude, hope, and joy.\nMay I lay at Your feet these good things that were grown in Your own garden.\nMay I love you with a passion that never cools,\nbelieve in you with a confidence that never wavers,\nhope in you with an expectation that never fades,\ndelight in you with a joy that can't be silenced,\nand glorify you with all of my strength—\nburning, blazing, glowing, and shining as a reflection of Your own glory.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 116
+  }
+}

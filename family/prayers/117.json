@@ -1,0 +1,25 @@
+{
+  "id": "prayer-family-32",
+  "category": {
+    "id": "family-prayers",
+    "name": "Family Prayers",
+    "displayName": "Family Prayers",
+    "description": "Prayers for family devotion and spiritual growth",
+    "iconName": "group",
+    "color": "#4CAF50"
+  },
+  "contentType": "prayer",
+  "title": "Divine Promises",
+  "subtitle": null,
+  "description": null,
+  "section": "When I Want to Grow",
+  "sortOrder": 117,
+  "content": {
+    "type": "TextContent",
+    "text": "GLORIOUS GOD, You're a God who keeps His promises.\nAll of Your promises in Jesus Christ are a solid \"yes,\"\nand they will all come true.\nYou have spoken them, so they will be done.\nYou've commanded them, so they will happen.\n\nAnd yet, I have often doubted them.\nI have lived at times as if there were no God.\nLord, forgive me for that \"death in life\"—\nfor the times I've found my purpose in something other than You,\nfor when I've been satisfied with temporary things.\n\nBut through Your grace, I've turned back.\nYou've let me see my pardon in the wounds of Jesus,\nand my soul trusts in Him—my God who became human,\nthe foundation of my life, the source of my hope.\n\nTeach me to surrender to Your will,\nto find joy in Your ways,\nto have no will but Yours,\nand to believe that everything You do is for my good.\nHelp me to leave my worries in Your hands,\nbecause You have power over evil and can bring endless good out of it,\nuntil Your purposes are complete.\n\nBless me with a faith like Abraham's—\none that doesn't waver at Your promises because of unbelief.\nHelp me not to boss You around in my troubles,\nbut to glorify You in my trials.\n\nHelp me to take a clear step forward in my spiritual life.\nI want to reach a higher level,\nleave the fog of doubt and fear behind,\nand climb to the high ground of eternal security in Christ,\nby simply believing that He cannot lie or give up on His purpose.\n\nGive me the confidence I should have in Him,\nwho is worthy of all praise and is blessed forever.",
+    "formatting": null
+  },
+  "metadata": {
+    "originalId": 117
+  }
+}
